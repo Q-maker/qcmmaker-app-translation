@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_write_us_if_needed">Escreva-nos se necessário!</string>
+    <string name="message_onboarding_update_email_us">Se você detectar algum bug, erro, sinta-se à vontade para nos escrever para relatar o problema ou até para enviar propostas de solução. Ficaremos felizes em ler você. 🙂</string>
+    <string name="title_onboarding_update_info_translation_settings">Change app language !</string>
+    <string name="message_onboarding_update_info_translation_settings">Se você deseja alterar ou restaurar o idioma do aplicativo, clique aqui para abrir as opções de configurações e selecionar o idioma preferido.</string>
+    <string name="title_update_info_general">Ótimo, há algo novo com a atualização mais recente do seu app!</string>
+    <string name="message_update_info_general"><![CDATA[Parabéns, você acabou de atualizar a versão do seu aplicativo. Na verdade, estamos trabalhando permanentemente para melhorar. Por meio dessa nova versão do aplicativo, trabalhamos em várias melhorias e correções de bugs:<br/><br/>1- Agora, quando você importa Q&A de um arquivo QCM existente, recursos como imagens e sons também são copiados para sua criação.<br/><br/>2- Durante a edição, ao configurar a duração do questionário, agora você pode optar por definir a duração total do teste ou o tempo para cada questão.<br/><br/>3- Otimizações e melhorias no comportamento do editor.]]></string>
+    <string name="title_update_rate_update">Nosso trabalho nesta última atualização foi bom para você?</string>
+    <string name="message_update_rate_update">Nossa atualização mais recente sobre melhorias de aplicativos e correções de bugs é útil e/ou boa para você?\n\nPor favor, se você aprecia nossos esforços incansáveis e repetidos feitos todos os dias; para que esta aplicação se torne uma etapa após a outra melhor; cada vez melhor, por favor, não hesite em nos apoiar e encorajar nosso trabalho classificando o app com 5 estrelas no GooglePlay.\n\nSerá um grande apoio que nos ajudará e nos encorajará a ir mais longe, continuando a dar o melhor de nós próprios.</string>
+</resources>

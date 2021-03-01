@@ -1,11 +1,2 @@
 /build
 /release
-/*
-!src/main/res/raw*
-!src/main/res/values*
-!.gitignore
-src/main/res/values-ldpi
-src/main/res/values-sw420dp
-src/main/res/values-xxhdpi
-src/main/res/values-hdpi
-src/main/res/values-h1154dp

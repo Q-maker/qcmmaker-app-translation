@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE resources [<!ENTITY qsurvey_tos_uri "qcmmaker://activities/MarkdownActivity#https://qcmmaker.qmakertech.com/documentations/tos/qsurvey/readme-en.md">]>
+
+<resources>
+    <string name="txt_notify_read_and_agree_quiz_result_collect_terms_of_use"><![CDATA[I have <a href=\']]>&qsurvey_tos_uri;<![CDATA[\'>read</a> and accept the <a href=\']]>&qsurvey_tos_uri;<![CDATA[\'>terms of use</a> related to this quiz as explained <a href=\']]>&qsurvey_tos_uri;<![CDATA[\'>here</a>.]]></string>
+    <string name="title_qsurvey_test_initialization">Initialization of the test!</string>
+    <string name="message_warning_qsurvey_remote_result_collection_enable">This quiz has the functionality of collecting results remotely. Thus, your results will be sent to the author of this questionnaire.</string>
+    <string name="message_qsurvey_click_to_know_more_or_start_test"><![CDATA[<a href=\'#know_more\'>Click here</a> to learn more or on the start button to start the test.]]></string>
+    <string name="title_qsurvey_participation_quota_reached">Participation quota reached!</string>
+    <string name="message_qsurvey_participation_quota_reached"><![CDATA[Sorry, your participation quota for this quiz has been reached. Indeed, you have already played this quiz %1$d time(s); your last game was %2$s]]></string>
+    <string name="message_qsurvey_contact_authors_if_mistake"><![CDATA[Please contact the author of this quiz or the initiator of this results collection if you believe this is an error.]]></string>
+    <string name="txt_qsurvey_attempt_index">Game part number %1$s</string>
+    <string name="message_error_field_can_not_be_empty">This field cannot be empty</string>
+    <string name="message_error_field_invalid_value">The value of this field is not valid</string>
+    <string name="message_error_read_and_agree_tem_of_use">You have to read and agree with the term of use first</string>
+    <string name="message_qsurvey_fill_form_before_starting">In order to start the test, the author wanted you to fill in the information below.</string>
+    <string name="message_click_to_know_more"><![CDATA[<a href=\'#know_more\'>Click here</a> to find out more]]></string>
+</resources>

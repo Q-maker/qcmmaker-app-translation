@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="message_error_qcm_proposition_type_not_supported"><![CDATA[Sorry, this type of question and answer is <b>not supported</b> by the current version of the application. You can use <a href="https://play.google.com/store/apps/details?id=com.qmaker.qcm.maker">QuizMaker professional</a> edition or search for a <a href="https://play.google.com/store/apps/details?id=com.devup.qcm.maker">software update</a> and try again !]]></string>
+    <string name="message_error_editing_features_required_pro_required"><![CDATA[The selected quiz may not be properly interpreted because some configurations used by this quiz are only available in the <a href="https://play.google.com/store/apps/details?id=com.qmaker.qcm.maker">professional</a> version of this app.<br/><br/>We strongly recommend you to use the QuizMaker professional editor <a href="https://play.google.com/store/apps/details?id=com.qmaker.qcm.maker">available here</a> for a better experience.<br/><br/>By continuing, the resulting quiz data could be corrupted.]]></string>
+    <string name="action_discover_pro_version">Discover QuizMaker-Pro</string>
+    <string name="resource_uri_pro_version_documentation">https://qcmmaker.qmakertech.com/documentations/advantages-qcmmaker-pro/body.md</string>
+    <string name="message_pro_feature_exclusive">Sorry, this feature is only available on Q-maker professional edition.</string>
+    <string name="message_pro_invite_edit_soundtrack">Aggiungi una colonna sonora di sottofondo ambientale che verrà riprodotta in loop durante il test per dare più vita ai tuoi quiz utilizzando l\'edizione professionale di QcmMaker.</string>
+    <string name="message_pro_invite_more_options_intro">Trova ancora più opzioni di configurazione su QuizMaker professional edition.</string>
+</resources>

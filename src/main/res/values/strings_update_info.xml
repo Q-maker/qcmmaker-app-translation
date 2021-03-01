@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_write_us_if_needed">Write us if needed!</string>
+    <string name="message_onboarding_update_email_us">If you detect any bugs, error or mistake, please, feel free to write to us in order to report the problem or even to submit solution proposals. We will be happy to read you. 🙂</string>
+    <string name="title_onboarding_update_info_translation_rate_app" translatable="false">Encourage us!</string>
+    <string name="message_onboarding_update_info_translation_rate_app" translatable="false">Later, if you appreciate the result of the translation; do not hesitate to encourage and support our work by rating us 5 stars on GooglePLay. We will be very happy. 🙂</string>
+    <string name="title_onboarding_update_info_translation_get_more" translatable="false">@string/title_wait_a_while</string>
+    <string name="message_onboarding_update_info_translation_get_more" translatable="false">Sure, you have probably noticed that the app is now translated into your mother tongue.\n\nWe are happy to announce you that we have worked last months in order to translate the app to offer you an even better experience 🙂.\n\nHowever, before continuing, you can choose to get more information about what was translated or even how to adapt part of your current quiz creation.</string>
+    <string name="title_update_rate_translation" translatable="false">Does the translation of the application help you?</string>
+    <string name="message_update_rate_translation" translatable="false">Is our latest update on app translation helping?\n\nPlease, if you appreciate our effort in translating this app into your mother tongue, please support and encourage our work by rating the app 5 stars on GooglePlay.\n\nIt will be a great support that will encourage us to go further. 🙂</string>
+    <string name="title_onboarding_update_info_translation_settings">Change app language !</string>
+    <string name="message_onboarding_update_info_translation_settings">If you are willing to change or restore app language, you can click here to open settings options and select your preferred language.</string>
+
+<!--    TODO traduire ce texte la en toutes les langue-->
+    <string name="title_update_info_translation" translatable="false">Feliz novo para quem fala português.</string>
+    <string name="message_update_info_translation" translatable="false"><![CDATA[Estamos muito felizes em anunciar que o aplicativo agora está traduzido para o português.<br/><br/>Nos últimos meses, trabalhamos muito para traduzir o aplicativo na sua língua materna, a fim de oferecer uma melhor experiência para este novo ano de 2020.<br/><br/>É para nós um pequeno presente para você neste novo ano que começa.<br/><a href="https://qcmmaker.qmakertech.com/notifications/new-year/body-PT.md">Feliz ano novo 2020</a>.<br/><br/>Esperamos que você aprecie o nosso trabalho. Você está pronto para o passeio? 🙂]]></string>
+    <string name="title_update_info_general">Great, there is something new with your latest app update!</string>
+    <string name="message_update_info_general"><![CDATA[Congratulation, you have just updated your app version. Indeed, we are permanently working to improve. Through this new app version, we have worked on several improvements and bug fixes:<br/><br/>1- Now when you import Q&A from existing QCM file, resources such as pictures and sounds are now also copied to your creation.<br/><br/>2- During editing, when you configure the quiz duration, you can now choose to define either the test total duration or the time for each question.<br/><br/>3- Optimisations and améliorations of the editor behaviors.]]></string>
+    <string name="title_update_rate_update">Does our work through this latest update was good for you?</string>
+    <string name="message_update_rate_update">Is our latest update on app improvements and bug fixes useful and/or good for you?\n\nPlease, if you appreciate our relentless and repeated efforts made every day; so that this application becomes one step after another better; better and better, please do not hesitate to support us and encourage our work by rating the app 5 stars on GooglePlay.\n\nIt will be a great support which will help us and encourage us to go further by continuing to give the best of ourselves.</string>
+
+</resources>

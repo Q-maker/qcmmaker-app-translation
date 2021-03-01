@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="array_gender">
+        <item>Masculin</item>
+        <item>Féminin</item>
+        <item>Autres</item>
+    </string-array>
+
+    <string-array name="array_language_international">
+        <item>Anglais, EN</item>
+        <item>Français, FR</item>
+        <item>Portugais, PT</item>
+        <item>Espagnol, ES</item>
+        <item>Arabe, AR</item>
+        <item>Chinois, ZH</item>
+        <item>Allemand, DE</item>
+        <item>Russe, RU</item>
+        <item>Latin, LA</item>
+    </string-array>
+</resources>

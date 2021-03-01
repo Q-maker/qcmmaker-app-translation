@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE resources [<!ENTITY qsurvey_tos_uri "qcmmaker://activities/MarkdownActivity#https://qcmmaker.qmakertech.com/documentations/tos/qsurvey/readme-fr.md">]>
+
+<resources>
+    <string name="txt_notify_read_and_agree_quiz_result_collect_terms_of_use"><![CDATA[J\'ai <a href=\']]>&qsurvey_tos_uri;<![CDATA[\'>lu</a> et j\'accepte les <a href=\']]>&qsurvey_tos_uri;<![CDATA[\'>conditions d\'utilisation</a> lié à ce questionnaire tel que expliquées <a href=\']]>&qsurvey_tos_uri;<![CDATA[\'>ici</a>.]]></string>
+    <string name="title_qsurvey_test_initialization">Initialisation du test!</string>
+    <string name="message_warning_qsurvey_remote_result_collection_enable">Ce questionnaire dispose de la fonctionnalité de collecte de résultats à distance. Ainsi, vos résultats seront  envoyés à l\'auteur de ce questionnaire.</string>
+    <string name="message_qsurvey_click_to_know_more_or_start_test"><![CDATA[<a href=\'#know_more\'>Cliquez ici</a> pour en savoir plus ou sur le bouton commencer pour démarrer le test.]]></string>
+    <string name="title_qsurvey_participation_quota_reached">Quota di partecipazione raggiunta!</string>
+    <string name="message_qsurvey_participation_quota_reached"><![CDATA[Désolé, votre quota de participation pour ce quiz est atteint. En effet, vous avez déjà joué à ce quiz %1$d fois; votre dernière partie était le %2$s.]]></string>
+    <string name="message_qsurvey_contact_authors_if_mistake"><![CDATA[Svp, veuillez contacter <a href=\'#contact_author_and_maintainers\'>l\'auteur</a> de ce quiz ou <a href=\'#contact_author_and_maintainers\'> l\'initiateur</a> de cette collecte si vous penssez qu\'il s\'agit d\'une erreur.]]></string>
+    <string name="txt_qsurvey_attempt_index">Partie de jeu numéro %1$s</string>
+    <string name="message_error_field_can_not_be_empty">Ce champ ne peut être vide</string>
+    <string name="message_error_field_invalid_value">La valeur de ce champ n\'est pas valide</string>
+    <string name="message_error_read_and_agree_tem_of_use">Vous devez d\'abord lire et accepter les conditions d\'utilisation</string>
+    <string name="message_qsurvey_fill_form_before_starting">Afin de commencer le test, l\'auteur a souhaité que vous  renseignez les informations ci dessous.</string>
+    <string name="message_click_to_know_more"><![CDATA[<a href=\'#know_more\'>Cliquez ici</a> pour en savoir plus]]></string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--<color name="colorPrimary">#3F51B5</color>-->
+    <!--<color name="colorPrimaryDark">#303F9F</color>-->
+    <!--<color name="colorAccent">#FF4081</color>-->
+    <color name="erased_green">#1048a459</color>
+    <color name="background_qpm_item">@color/green</color>
+    <color name="black_overlay">#66000000</color>
+    <color name="blue_progressbar">#3b79c4</color>
+    <color name="qmaker_icon">#76c089</color>
+    <color name="white_translucent">#55FFFFFF</color>
+    <color name="gray_selector_options_pressed">#88EFEFEF</color>
+    <color name="gray_selector_options_standby">#445F5A5A</color>
+</resources>
