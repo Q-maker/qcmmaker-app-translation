@@ -1,0 +1,607 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">Q-maker</string>
+    <string name="drawer_open" translatable="false">Open navigation drawer</string>
+    <string name="drawer_close" translatable="false">Close navigation drawer</string>
+    <string-array name="time_array" translatable="false">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+        <item>32</item>
+        <item>33</item>
+        <item>34</item>
+        <item>35</item>
+        <item>36</item>
+        <item>37</item>
+        <item>38</item>
+        <item>39</item>
+        <item>40</item>
+        <item>41</item>
+        <item>42</item>
+        <item>43</item>
+        <item>44</item>
+        <item>45</item>
+        <item>46</item>
+        <item>47</item>
+        <item>48</item>
+        <item>49</item>
+        <item>50</item>
+        <item>51</item>
+        <item>52</item>
+        <item>53</item>
+        <item>54</item>
+        <item>55</item>
+        <item>56</item>
+        <item>57</item>
+        <item>58</item>
+        <item>59</item>
+        <item>60</item>
+
+    </string-array>
+
+    <string-array name="countries_array" translatable="false">
+        <item>Afghanistan</item>
+        <item>Albania</item>
+        <item>Algeria</item>
+        <item>American Samoa</item>
+        <item>Andorra</item>
+        <item>Angola</item>
+        <item>Anguilla</item>
+        <item>Antarctica</item>
+        <item>Antigua and Barbuda</item>
+        <item>Argentina</item>
+        <item>Armenia</item>
+        <item>Aruba</item>
+        <item>Australia</item>
+        <item>Austria</item>
+        <item>Azerbaijan</item>
+        <item>Bahrain</item>
+        <item>Bangladesh</item>
+        <item>Barbados</item>
+        <item>Belarus</item>
+        <item>Belgium</item>
+        <item>Belize</item>
+        <item>Benin</item>
+        <item>Bermuda</item>
+        <item>Bhutan</item>
+        <item>Bolivia</item>
+        <item>Bosnia and Herzegovina</item>
+        <item>Botswana</item>
+        <item>Bouvet Island</item>
+        <item>Brazil</item>
+        <item>British Indian Ocean Territory</item>
+        <item>British Virgin Islands</item>
+        <item>Brunei</item>
+        <item>Bulgaria</item>
+        <item>Burkina Faso</item>
+        <item>Burundi</item>
+        <item>Cambodia</item>
+        <item>Cameroon</item>
+        <item>Canada</item>
+        <item>Cape Verde</item>
+        <item>Cayman Islands</item>
+        <item>Central African Republic</item>
+        <item>Chad</item>
+        <item>Chile</item>
+        <item>China</item>
+        <item>Christmas Island</item>
+        <item>Cocos (Keeling) Islands</item>
+        <item>Colombia</item>
+        <item>Comoros</item>
+        <item>Congo</item>
+        <item>Cook Islands</item>
+        <item>Costa Rica</item>
+        <item>Cote d\'Ivoire</item>
+        <item>Croatia</item>
+        <item>Cuba</item>
+        <item>Cyprus</item>
+        <item>Czech Republic</item>
+        <item>Democratic Republic of the Congo</item>
+        <item>Denmark</item>
+        <item>Djibouti</item>
+        <item>Dominica</item>
+        <item>Dominican Republic</item>
+        <item>East Timor</item>
+        <item>Ecuador</item>
+        <item>Egypt</item>
+        <item>El Salvador</item>
+        <item>Equatorial Guinea</item>
+        <item>Eritrea</item>
+        <item>Estonia</item>
+        <item>Ethiopia</item>
+        <item>Faeroe Islands</item>
+        <item>Falkland Islands</item>
+        <item>Fiji</item>
+        <item>Finland</item>
+        <item>Former Yugoslav Republic of Macedonia</item>
+        <item>France</item>
+        <item>French Guiana</item>
+        <item>French Polynesia</item>
+        <item>French Southern Territories</item>
+        <item>Gabon</item>
+        <item>Georgia</item>
+        <item>Germany</item>
+        <item>Ghana</item>
+        <item>Gibraltar</item>
+        <item>Greece</item>
+        <item>Greenland</item>
+        <item>Grenada</item>
+        <item>Guadeloupe</item>
+        <item>Guam</item>
+        <item>Guatemala</item>
+        <item>Guinea</item>
+        <item>Guinea-Bissau</item>
+        <item>Guyana</item>
+        <item>Haiti</item>
+        <item>Heard Island and McDonald Islands</item>
+        <item>Honduras</item>
+        <item>Hong Kong</item>
+        <item>Hungary</item>
+        <item>Iceland</item>
+        <item>India</item>
+        <item>Indonesia</item>
+        <item>Iran</item>
+        <item>Iraq</item>
+        <item>Ireland</item>
+        <item>Israel</item>
+        <item>Italy</item>
+        <item>Jamaica</item>
+        <item>Japan</item>
+        <item>Jordan</item>
+        <item>Kazakhstan</item>
+        <item>Kenya</item>
+        <item>Kiribati</item>
+        <item>Kuwait</item>
+        <item>Kyrgyzstan</item>
+        <item>Laos</item>
+        <item>Latvia</item>
+        <item>Lebanon</item>
+        <item>Lesotho</item>
+        <item>Liberia</item>
+        <item>Libya</item>
+        <item>Liechtenstein</item>
+        <item>Lithuania</item>
+        <item>Luxembourg</item>
+        <item>Macau</item>
+        <item>Madagascar</item>
+        <item>Malawi</item>
+        <item>Malaysia</item>
+        <item>Maldives</item>
+        <item>Mali</item>
+        <item>Malta</item>
+        <item>Marshall Islands</item>
+        <item>Martinique</item>
+        <item>Mauritania</item>
+        <item>Mauritius</item>
+        <item>Mayotte</item>
+        <item>Mexico</item>
+        <item>Micronesia</item>
+        <item>Moldova</item>
+        <item>Monaco</item>
+        <item>Mongolia</item>
+        <item>Montenegro</item>
+        <item>Montserrat</item>
+        <item>Morocco</item>
+        <item>Mozambique</item>
+        <item>Myanmar</item>
+        <item>Namibia</item>
+        <item>Nauru</item>
+        <item>Nepal</item>
+        <item>Netherlands</item>
+        <item>Netherlands Antilles</item>
+        <item>New Caledonia</item>
+        <item>New Zealand</item>
+        <item>Nicaragua</item>
+        <item>Niger</item>
+        <item>Nigeria</item>
+        <item>Niue</item>
+        <item>Norfolk Island</item>
+        <item>North Korea</item>
+        <item>Northern Marianas</item>
+        <item>Norway</item>
+        <item>Oman</item>
+        <item>Pakistan</item>
+        <item>Palau</item>
+        <item>Panama</item>
+        <item>Papua New Guinea</item>
+        <item>Paraguay</item>
+        <item>Peru</item>
+        <item>Philippines</item>
+        <item>Pitcairn Islands</item>
+        <item>Poland</item>
+        <item>Portugal</item>
+        <item>Puerto Rico</item>
+        <item>Qatar</item>
+        <item>Reunion</item>
+        <item>Romania</item>
+        <item>Russia</item>
+        <item>Rwanda</item>
+        <item>Sqo Tome and Principe</item>
+        <item>Saint Helena</item>
+        <item>Saint Kitts and Nevis</item>
+        <item>Saint Lucia</item>
+        <item>Saint Pierre and Miquelon</item>
+        <item>Saint Vincent and the Grenadines</item>
+        <item>Samoa</item>
+        <item>San Marino</item>
+        <item>Saudi Arabia</item>
+        <item>Senegal</item>
+        <item>Serbia</item>
+        <item>Seychelles</item>
+        <item>Sierra Leone</item>
+        <item>Singapore</item>
+        <item>Slovakia</item>
+        <item>Slovenia</item>
+        <item>Solomon Islands</item>
+        <item>Somalia</item>
+        <item>South Africa</item>
+        <item>South Georgia and the South Sandwich Islands</item>
+        <item>South Korea</item>
+        <item>South Sudan</item>
+        <item>Spain</item>
+        <item>Sri Lanka</item>
+        <item>Sudan</item>
+        <item>Suriname</item>
+        <item>Svalbard and Jan Mayen</item>
+        <item>Swaziland</item>
+        <item>Sweden</item>
+        <item>Switzerland</item>
+        <item>Syria</item>
+        <item>Taiwan</item>
+        <item>Tajikistan</item>
+        <item>Tanzania</item>
+        <item>Thailand</item>
+        <item>The Bahamas</item>
+        <item>The Gambia</item>
+        <item>Togo</item>
+        <item>Tokelau</item>
+        <item>Tonga</item>
+        <item>Trinidad and Tobago</item>
+        <item>Tunisia</item>
+    </string-array>
+    <string-array name="language_title_fr_array" translatable="false">
+        <item>malais (Malaisie)</item>
+        <item>arabe (Qatar)</item>
+        <item>islandais (Islande)</item>
+        <item>finnois (Finlande)</item>
+        <item>polonais</item>
+        <item>anglais (Malte)</item>
+        <item>italien (Suisse)</item>
+        <item>néerlandais (Belgique)</item>
+        <item>arabe (Arabie Saoudite)</item>
+        <item>arabe (Irak)</item>
+        <item>espagnol (Porto Rico)</item>
+        <item>espagnol (Chili)</item>
+        <item>finnois</item>
+        <item>allemand (Autriche)</item>
+        <item>danois</item>
+        <item>anglais (Royaume-Uni)</item>
+        <item>espagnol (Panama)</item>
+        <item>serbe</item>
+        <item>arabe (Yémen)</item>
+        <item>macédonien (Macédoine)</item>
+        <item>macédonien</item>
+        <item>anglais (Canada)</item>
+        <item>vietnamien (Vietnam)</item>
+        <item>néerlandais (Pays-Bas)</item>
+        <item>espagnol (Etats-Unis)</item>
+        <item>chinois (Chine)</item>
+        <item>espagnol (Honduras)</item>
+        <item>anglais (Etats-Unis)</item>
+        <item>français</item>
+        <item>thaï</item>
+        <item>arabe</item>
+        <item>arabe (Maroc)</item>
+        <item>letton</item>
+        <item>allemand</item>
+        <item>indonésien (Indonésie)</item>
+        <item>croate</item>
+        <item>anglais (Afrique du Sud)</item>
+        <item>coréen (Corée du Sud)</item>
+        <item>arabe (Tunisie)</item>
+        <item>indonésien</item>
+        <item>japonais</item>
+        <item>serbe (Serbie)</item>
+        <item>biélorusse (Biélo-Russie)</item>
+        <item>chinois (Taiwan)</item>
+        <item>arabe (Soudan)</item>
+        <item>portugais</item>
+        <item>islandais</item>
+        <item>japonais (Japon,JP)</item>
+        <item>espagnol (Bolivie)</item>
+        <item>arabe (Algérie)</item>
+        <item>malais</item>
+        <item>espagnol (Argentine)</item>
+        <item>arabe (Emirats Arabes Unis)</item>
+        <item>français (Canada)</item>
+        <item>slovène</item>
+        <item>espagnol</item>
+        <item>lithuanien (Lithuanie)</item>
+        <item>serbe (Latin,Monténégro)</item>
+        <item>arabe (Syrie)</item>
+        <item>russe (Russie)</item>
+        <item>français (Belgique)</item>
+        <item>espagnol (Espagne)</item>
+        <item>bulgare</item>
+        <item>hébreu (Israël)</item>
+        <item>suédois</item>
+        <item>anglais</item>
+        <item>hébreu</item>
+        <item>danois (Danemark)</item>
+        <item>espagnol (Costa Rica)</item>
+        <item>chinois (Hong-Kong)</item>
+        <item>chinois</item>
+        <item>catalan (Espagne)</item>
+        <item>thaï (Thaïlande)</item>
+        <item>ukrainien (Ukraine)</item>
+        <item>espagnol (République Dominicaine)</item>
+        <item>espagnol (Vénézuela)</item>
+        <item>polonais (Pologne)</item>
+        <item>arabe (Libye)</item>
+        <item>arabe (Jordanie)</item>
+        <item>italien</item>
+        <item>ukrainien</item>
+        <item>hongrois (Hongrie)</item>
+        <item>irlandais</item>
+        <item>espagnol (Guatemala)</item>
+        <item>espagnol (Paraguay)</item>
+        <item>bulgare (Bulgarie)</item>
+        <item>croate (Croatie)</item>
+        <item>serbe (Latin,Bosnie-Herzégovine)</item>
+        <item>roumain (Roumanie)</item>
+        <item>français (Luxembourg)</item>
+        <item>norvégien</item>
+        <item>lithuanien</item>
+        <item>anglais (Singapour)</item>
+        <item>espagnol (Equateur)</item>
+        <item>serbe (Bosnie-Herzégovine)</item>
+        <item>espagnol (Nicaragua)</item>
+        <item>slovaque</item>
+        <item>russe</item>
+        <item>maltais</item>
+        <item>espagnol (El Salvador)</item>
+        <item>néerlandais</item>
+        <item>hindi (Inde)</item>
+        <item>estonien</item>
+        <item>grec (Grèce)</item>
+        <item>slovène (Slovénie)</item>
+        <item>italien (Italie)</item>
+        <item>japonais (Japon)</item>
+        <item>allemand (Luxembourg)</item>
+        <item>français (Suisse)</item>
+        <item>maltais (Malte)</item>
+        <item>arabe (Bahreïn)</item>
+        <item>albanais</item>
+        <item>vietnamien</item>
+        <item>serbe (Monténégro)</item>
+        <item>portugais (Brésil)</item>
+        <item>norvégien (Norvège)</item>
+        <item>grec</item>
+        <item>allemand (Suisse)</item>
+        <item>chinois (Singapour)</item>
+        <item>arabe (Koweit)</item>
+        <item>arabe (Egypte)</item>
+        <item>irlandais (Irlande)</item>
+        <item>espagnol (Pérou)</item>
+        <item>tchèque (République Tchèque)</item>
+        <item>turc (Turquie)</item>
+        <item>tchèque</item>
+        <item>espagnol (Uruguay)</item>
+        <item>anglais (Irlande)</item>
+        <item>anglais (Inde)</item>
+        <item>arabe (Oman)</item>
+        <item>serbe (Serbie et Monténégro)</item>
+        <item>catalan</item>
+        <item>biélorusse</item>
+        <item>serbe (Latin)</item>
+        <item>coréen</item>
+        <item>albanais (Albanie)</item>
+        <item>portugais (Portugal)</item>
+        <item>letton (Lettonie)</item>
+        <item>serbe (Latin,Serbie)</item>
+        <item>slovaque (Slovaquie)</item>
+        <item>espagnol (Mexique)</item>
+        <item>anglais (Australie)</item>
+        <item>norvégien (Norvège,Nynorsk)</item>
+        <item>anglais (Nouvelle-Zélande)</item>
+        <item>suédois (Suède)</item>
+        <item>roumain</item>
+        <item>arabe (Liban)</item>
+        <item>allemand (Allemagne)</item>
+        <item>thaï (Thaïlande,TH)</item>
+        <item>turc</item>
+        <item>espagnol (Colombie)</item>
+        <item>anglais (Philippines)</item>
+        <item>estonien (Estonie)</item>
+        <item>grec (Chypre)</item>
+        <item>hongrois</item>
+        <item>français (France)</item>
+    </string-array>
+    <string-array name="language_id_array" translatable="false">
+        <item>ms_MY</item>
+        <item>ar_QA</item>
+        <item>is_IS</item>
+        <item>fi_FI</item>
+        <item>pl</item>
+        <item>en_MT</item>
+        <item>it_CH</item>
+        <item>nl_BE</item>
+        <item>ar_SA</item>
+        <item>ar_IQ</item>
+        <item>es_PR</item>
+        <item>es_CL</item>
+        <item>fi</item>
+        <item>de_AT</item>
+        <item>da</item>
+        <item>en_GB</item>
+        <item>es_PA</item>
+        <item>sr</item>
+        <item>ar_YE</item>
+        <item>mk_MK</item>
+        <item>mk</item>
+        <item>en_CA</item>
+        <item>vi_VN</item>
+        <item>nl_NL</item>
+        <item>es_US</item>
+        <item>zh_CN</item>
+        <item>es_HN</item>
+        <item>en_US</item>
+        <item>fr</item>
+        <item>th</item>
+        <item>ar</item>
+        <item>ar_MA</item>
+        <item>lv</item>
+        <item>de</item>
+        <item>in_ID</item>
+        <item>hr</item>
+        <item>en_ZA</item>
+        <item>ko_KR</item>
+        <item>ar_TN</item>
+        <item>in</item>
+        <item>ja</item>
+        <item>sr_RS</item>
+        <item>be_BY</item>
+        <item>zh_TW</item>
+        <item>ar_SD</item>
+        <item>pt</item>
+        <item>is</item>
+        <item>ja_JP_JP_#u-ca-japanese</item>
+        <item>es_BO</item>
+        <item>ar_DZ</item>
+        <item>ms</item>
+        <item>es_AR</item>
+        <item>ar_AE</item>
+        <item>fr_CA</item>
+        <item>sl</item>
+        <item>es</item>
+        <item>lt_LT</item>
+        <item>sr_ME_#Latn</item>
+        <item>ar_SY</item>
+        <item>ru_RU</item>
+        <item>fr_BE</item>
+        <item>es_ES</item>
+        <item>bg</item>
+        <item>iw_IL</item>
+        <item>sv</item>
+        <item>en</item>
+        <item>iw</item>
+        <item>da_DK</item>
+        <item>es_CR</item>
+        <item>zh_HK</item>
+        <item>zh</item>
+        <item>ca_ES</item>
+        <item>th_TH</item>
+        <item>uk_UA</item>
+        <item>es_DO</item>
+        <item>es_VE</item>
+        <item>pl_PL</item>
+        <item>ar_LY</item>
+        <item>ar_JO</item>
+        <item>it</item>
+        <item>uk</item>
+        <item>hu_HU</item>
+        <item>ga</item>
+        <item>es_GT</item>
+        <item>es_PY</item>
+        <item>bg_BG</item>
+        <item>hr_HR</item>
+        <item>sr_BA_#Latn</item>
+        <item>ro_RO</item>
+        <item>fr_LU</item>
+        <item>no</item>
+        <item>lt</item>
+        <item>en_SG</item>
+        <item>es_EC</item>
+        <item>sr_BA</item>
+        <item>es_NI</item>
+        <item>sk</item>
+        <item>ru</item>
+        <item>mt</item>
+        <item>es_SV</item>
+        <item>nl</item>
+        <item>hi_IN</item>
+        <item>et</item>
+        <item>el_GR</item>
+        <item>sl_SI</item>
+        <item>it_IT</item>
+        <item>ja_JP</item>
+        <item>de_LU</item>
+        <item>fr_CH</item>
+        <item>mt_MT</item>
+        <item>ar_BH</item>
+        <item>sq</item>
+        <item>vi</item>
+        <item>sr_ME</item>
+        <item>pt_BR</item>
+        <item>no_NO</item>
+        <item>el</item>
+        <item>de_CH</item>
+        <item>zh_SG</item>
+        <item>ar_KW</item>
+        <item>ar_EG</item>
+        <item>ga_IE</item>
+        <item>es_PE</item>
+        <item>cs_CZ</item>
+        <item>tr_TR</item>
+        <item>cs</item>
+        <item>es_UY</item>
+        <item>en_IE</item>
+        <item>en_IN</item>
+        <item>ar_OM</item>
+        <item>sr_CS</item>
+        <item>ca</item>
+        <item>be</item>
+        <item>sr__#Latn</item>
+        <item>ko</item>
+        <item>sq_AL</item>
+        <item>pt_PT</item>
+        <item>lv_LV</item>
+        <item>sr_RS_#Latn</item>
+        <item>sk_SK</item>
+        <item>es_MX</item>
+        <item>en_AU</item>
+        <item>no_NO_NY</item>
+        <item>en_NZ</item>
+        <item>sv_SE</item>
+        <item>ro</item>
+        <item>ar_LB</item>
+        <item>de_DE</item>
+        <item>th_TH_TH_#u-nu-thai</item>
+        <item>tr</item>
+        <item>es_CO</item>
+        <item>en_PH</item>
+        <item>et_EE</item>
+        <item>el_CY</item>
+        <item>hu</item>
+        <item>fr_FR</item>
+    </string-array>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="message_error_qcm_proposition_type_not_supported"><![CDATA[Desculpe, este tipo de pergunta e resposta <b>não é suportado</b> pela versão atual do aplicativo. Você pode usar a edição <a href="https://play.google.com/store/apps/details?id=com.qmaker.qcm.maker">profissional do QuizMaker</a> ou procurar uma <a href="https://play.google.com/store/apps/details?id=com.devup.qcm.maker">atualização de software</a> e tentar novamente!]]></string>
+    <string name="message_error_editing_features_required_pro_required"><![CDATA[O questionário selecionado pode não ser interpretado adequadamente, porque algumas configurações usadas por este questionário estão disponíveis apenas na versão <a href="https://play.google.com/store/apps/details?id=com.qmaker.qcm.maker">profissional</a> deste aplicativo.<br/><br/>É altamente recomendável que você use o editor profissional do QuizMaker <a href="https://play.google.com/store/apps/details?id=com.qmaker.qcm.maker">disponível aqui</a> para uma melhor experiência.<br/><br/>Ao continuar, os dados do questionário resultantes podem estar corrompidos.]]></string>
+    <string name="action_discover_pro_version">Descubra o QuizMaker-Pro</string>
+    <string name="action_use_pro_version">Use QuizMaker-Pro</string>
+    <string name="resource_uri_pro_version_documentation">https://qcmmaker.qmakertech.com/documentations/advantages-qcmmaker-pro/body-PT.md</string>
+    <string name="message_pro_feature_exclusive">Sorry, this feature is only available on Q-maker professional edition.</string>
+    <string name="message_pro_invite_edit_soundtrack">Adicione uma trilha sonora de fundo de ambiente que será reproduzida em um loop durante o teste para dar mais vida aos seus questionários usando a edição profissional QcmMaker.</string>
+    <string name="message_pro_invite_more_options_intro">Encontre ainda mais opções de configuração na edição profissional do QuizMaker.</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="message_q_a_found_number">
+        <item quantity="other">%1$s preguntas y respuestas encontradas</item>
+        <item quantity="one"> %1$s pregunta y respuestas encontradas</item>
+    </plurals>
+    <plurals name="message_import_contain_error">
+        <item quantity="other"><![CDATA[El archivo de preguntas y respuestas seleccionado contiene %1$s errores. Puede ignorarlos y continuar o consultar el archivo <a href=".readme">Léame</a> disponible <a href=".readme">aquí</a> para estructurar mejor su archivo de importación e intentar nuevamente.]]></item>
+        <item quantity="one"><![CDATA[El archivo de preguntas y respuestas seleccionado contiene %1$s error. Puede ignorarlos y continuar o consultar el archivo <a href=".readme">Léame</a> disponible <a href=".readme">aquí</a> para estructurar mejor su archivo de importación e intentar nuevamente.]]></item>
+    </plurals>
+</resources>

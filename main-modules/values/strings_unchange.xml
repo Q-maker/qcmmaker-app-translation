@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE resources [<!ENTITY appname "Quiz Maker">]>
+<resources xmlns:tools="http://schemas.android.com/tools"
+    tools:ignore="ExtraTranslation">
+    <!--TODO retirer ceci ou exclure de la traduction-->
+    <string name="title_activity_author_preview" translatable="false">AuthorPreviewActivity</string>
+    <string name="navigation_drawer_open" translatable="false">Open navigation drawer</string>
+    <string name="navigation_drawer_close" translatable="false">Close navigation drawer</string>
+    <string name="txt_my_installable" translatable="false">My installables</string>
+    <string name="title_activity_previewer" translatable="false">Qcm Viewer</string>
+    <string name="title_activity_player" translatable="false">Qcm Player</string>
+    <string name="title_qcm_editor" translatable="false">Qcm Editor</string>
+    <string name="title_activity_installation" translatable="false">&appname; Installer</string>
+    <string name="action_install" translatable="false">"Install"</string>
+    <string name="title_activity_score" translatable="false">ScoreActivity</string>
+    <string name="title_activity_author_viewer" translatable="false">AuthorViewerActivity</string>
+    <string name="text_installation" translatable="false">Installation</string>
+    <string name="action_publish" translatable="false">Publicar</string>
+    <string name="action_publish_store" translatable="false">Publish on store</string>
+    <string name="action_market" translatable="false">Qcm store</string>
+    <string name="action_uninstall" translatable="false">Uninstall</string>
+    <string name="title_uninstall" translatable="false">Uninstalling</string>
+    <string name="message_uninstall_successfully" translatable="false">Questionnaire uninstalled</string>
+    <string name="message_caution_qp_uninstall" translatable="false">Would you like to uninstall the Questionnaire: \'%s\'?</string>
+    <string name="dummy_content" translatable="false">DUMMY\nCONTENT</string>
+    <string name="title_installation" translatable="false">Installation</string>
+    <string name="message_qp_update" translatable="false">Would you like to update the questionnaire \'%s\' from the file \'%s\'?</string>
+    <string name="message_qcm_install" translatable="false">Would you like to install the questionnaire \'%s\' from file \'%s\'?</string>
+    <string name="message_qcm_install_from_app_provider" translatable="false">Would you like to install questionnaire \'%s\' from application \'%s\'?</string>
+    <string name="message_error_uninstall_qp" translatable="false">Unexpected error while uninstalling quiz \'%s\'.</string>
+    <string name="message_qcm_install_successfully" translatable="false">Questionnaire installed</string>
+    <string name="message_qcm_update_successfully" translatable="false">Questionnaire updated</string>
+    <string name="message_qcm_install_error" translatable="false">Error while installing the questionnaire file \'%s\'</string>
+    <string name="message_qcm_update_error" translatable="false">Error updating quiz \'% s\' from file \'%s\'</string>
+    <string name="title_my_installables" translatable="false">Installables</string>
+    <string name="empty_playable_qcm" translatable="false"><![CDATA[No currently installed MCQ/quiz <a href = "projectPage" translatable="false">create one</a> or add a \'*.qcm\' file in your storage memory and <a href="installablePage" translatable="false">check for </a>installable quizzes currently present on your mobile.]]></string>
+    <string name="action_play_quiz" translatable="false">GOoo...</string>
+    <string name="txt_display_installed_q" translatable="false">Also show already installed files</string>
+    <string name="message_qpm_p_deleted" translatable="false">Package deleted...</string>
+    <string name="title_qcm_store" translatable="false">Qcm Store</string>
+    <string name="title_my_publish" translatable="false">Mes Publications</string>
+    <string name="message_wait_installing" translatable="false">Installing\nPlease wait..</string>
+    <string name="message_recover_qpm_starting" translatable="false">Retrieval...</string>
+    <string name="title_cancel_migration_to_v2" translatable="false">Stop retrieving?</string>
+    <string name="message_cancel_migration_to_v2" translatable="false">you are about to stop the recovery of your previous installations. any unsaved file will be deleted.</string>
+    <string name="title_error_while_migrating" translatable="false">Error while retrieving</string>
+    <string name="title_migration_to_v2_delete_all_qpm" translatable="false">Delete all?</string>
+    <string name="message_migration_to_v2_delete_all_qpm" translatable="false">Do you really want to delete all your previously installed quiz?</string>
+    <string name="message_error_while_migrating" translatable="false">Error while fetching the following quizzes:</string>
+    <string name="title_migration_to_v2_failed" translatable="false">Error while retrieving</string>
+    <string name="message_migration_to_v2_failed" translatable="false">An unexpected error occurred while retrieving your previously installed questionnaires. Do you want to try again? In case of abandonment, your unrecovered questionnaires will be deleted.</string>
+    <string name="txt_migration_to_v2_cancel_action" translatable="false"><![CDATA[<a href=\'#cancel\'>Abandon the recovery and delete all.</a>]]></string>
+    <string name="action_retry" translatable="false">Retry</string>
+    <string name="message_migration_to_v2_completed" translatable="false">Recovery completed, Let\'s go...</string>
+    <string name="txt_migration_to_v2_big_title" translatable="false">Recovering your previous\ninstallations?</string>
+    <string name="txt_migration_to_v2_message" translatable="false">Questionnaires from the installation of a previous version of &appname;
+        are being retrieved. These will be transcribed in quiz files and stored on your disk.</string>
+    <string name="message_welcome_new_update" translatable="false">Now no need to install quizzes before playing them; files with extension \'qcm\' present on your disk can be read immediately.</string>
+    <string name="title_welcome_new_update" translatable="false">New in &appname;</string>
+    <string name="action_recover" translatable="false">Recuperar</string>
+    <string name="title_recover_qpm_install" translatable="false">Retrieve your installed questionnaires</string>
+    <string name="message_recover_qpm_install" translatable="false">Questionnaires from installation of a previous version of &appname;
+        are being recovered. These will be transcribed in quiz files and stored on your disk.</string>
+    <string name="message_delete_qpm" translatable="false">Supressão...</string>
+    <string name="title_onboarding_present_update" translatable="false">Novo no &appname;</string>
+    <string name="message_onboarding_present_update" translatable="false">No need to install quiz files before playing them. Now, files with extension \'qcm\' can be read immediately.\n\nThis is your \'Questionnaire\' space. In this tab you will find all the qcm files present in your storage disk and ready to be played.</string>
+    <!--TODO retirer ceci ou exclure de la traduction-->
+    <string name="text_footer_powered_by_qmaker" translatable="false">Powered by Q-maker algorithm since 2018-%1$s</string>
+    <string name="action_google_play" translatable="false">Google Play</string>
+    <string-array name="array_translated_language_code">
+        <item>EN</item>
+        <item>FR</item>
+        <item>PT</item>
+        <item>ES</item>
+    </string-array>
+    <string name="title_activity_plugin_store" translatable="false">PluginStoreActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label" translatable="false">First Fragment</string>
+    <string name="second_fragment_label" translatable="false">Second Fragment</string>
+    <string name="next" translatable="false">Next</string>
+    <string name="previous" translatable="false">Previous</string>
+
+    <string name="hello_first_fragment" translatable="false">Hello first fragment</string>
+    <string name="hello_second_fragment" translatable="false">Hello second fragment. Arg: %1$s</string>
+</resources>

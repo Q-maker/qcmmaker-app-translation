@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_write_us_if_needed">Write us if needed!</string>
+    <string name="message_onboarding_update_email_us">If you detect any bugs, error or mistake, please, feel free to write to us in order to report the problem or even to submit solution proposals. We will be happy to read you. 🙂</string>
+    <string name="title_onboarding_update_info_translation_rate_app" translatable="false">Encourage us!</string>
+    <string name="message_onboarding_update_info_translation_rate_app" translatable="false">Later, if you appreciate the result of the translation; do not hesitate to encourage and support our work by rating us 5 stars on GooglePLay. We will be very happy. 🙂</string>
+    <string name="title_onboarding_update_info_translation_get_more" translatable="false">@string/title_wait_a_while</string>
+    <string name="message_onboarding_update_info_translation_get_more" translatable="false">Sure, you have probably noticed that the app is now translated into your mother tongue.\n\nWe are happy to announce you that we have worked last months in order to translate the app to offer you an even better experience 🙂.\n\nHowever, before continuing, you can choose to get more information about what was translated or even how to adapt part of your current quiz creation.</string>
+    <string name="title_update_rate_translation" translatable="false">Does the translation of the application help you?</string>
+    <string name="message_update_rate_translation" translatable="false">Is our latest update on app translation helping?\n\nPlease, if you appreciate our effort in translating this app into your mother tongue, please support and encourage our work by rating the app 5 stars on GooglePlay.\n\nIt will be a great support that will encourage us to go further. 🙂</string>
+    <string name="title_onboarding_update_info_translation_settings">Change app language !</string>
+    <string name="message_onboarding_update_info_translation_settings">If you are willing to change or restore app language, you can click here to open settings options and select your preferred language.</string>
+
+<!--    TODO traduire ce texte la en toutes les langue-->
+    <string name="title_update_info_translation" translatable="false">Feliz novo para quem fala português.</string>
+    <string name="message_update_info_translation" translatable="false"><![CDATA[Estamos muito felizes em anunciar que o aplicativo agora está traduzido para o português.<br/><br/>Nos últimos meses, trabalhamos muito para traduzir o aplicativo na sua língua materna, a fim de oferecer uma melhor experiência para este novo ano de 2020.<br/><br/>É para nós um pequeno presente para você neste novo ano que começa.<br/><a href="https://qcmmaker.qmakertech.com/notifications/new-year/body-PT.md">Feliz ano novo 2020</a>.<br/><br/>Esperamos que você aprecie o nosso trabalho. Você está pronto para o passeio? 🙂]]></string>
+    <string name="title_update_info_general">Great, welcome to the latest update!</string>
+    <string name="message_update_info_general"><![CDATA[Congratulation, you have just updated your app version. Indeed, we are permanently working to improve. Through this new app version, we have worked on several improvements and bug fixes:]]></string>
+    <string name="title_update_rate_update">Did you enjoy our work on this latest update?</string>
+    <string name="message_update_rate_update">Is our latest update concerning the app improvements and bug fixes was useful and/or good for you?\n\nPlease, if you appreciate our relentless and repeated efforts made every day; so that this application becomes one step after another better; better and better, please do not hesitate to support us and encourage our work by rating the app 5 stars on GooglePlay.\n\nIt will be a great support that will help us and encourage us to go further by continuing to give the best of ourselves.</string>
+    <string name="message_update_discover_single_workspace_mode"><![CDATA[Especially on this new update, there is brand new workspace disposition we are inviting you to try. This new workspace disposition is intended to facilitate quiz editing by allowing you to directly edit QCM files without having to convert them as editable projects first.<br/><br/>Everything fits in a single workspace; no need for two tabs anymore(Questionnaires & Creations).]]></string>
+    <string name="message_update_access_settings_menu_change_workspace">By clicking here, you can access the settings menu that will allow you to enable but also to discover the new workspace disposition that should simplify your app experience. No worry, you will be able to modify back at any time.</string>
+    <string name="title_update_welcome">Welcome; ready for the guided tour?</string>
+    <string name="message_update_welcome_single_workspace">This is your brand new workspace that is built on a single tab and is intended to let you directly edit qcm files existing on your storage disk without having to convert them to editable projects first.\n\nWe will show you essential elements that will be useful to you for a quick start. Are you ready for the guided tour?</string>
+    <string name="title_onboarding_single_screen_setup_migrable_projects">your projects awaiting migration!</string>
+    <string name="message_onboarding_single_screen_setup_migrable_projects">You see this icon to warn you that you have projects previously present in the \"creations\" tab of your old workspace waiting to be converted into QCM files and migrated into your new workspace. When you\'re ready, click to start their migration; now or later, at your convenience.</string>
+    <string name="title_onboarding_discover_single_screen_ending">That\'s it, everything is said!</string>
+    <string name="message_onboarding_discover_single_screen_ending">The guided tour of your new home page is now complete. We hope you found this little tour useful.\n\nDo not forget to go to the details page of one of your quizzes of your choice in order to discover the novelty that awaits you. 🙂</string>
+
+</resources>

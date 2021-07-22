@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE resources [<!ENTITY appname "Quiz Maker">]>
+<resources>
+    <string name="action_search">Search</string>
+    <string name="txt_sure_to_exit_test">You are about to abandon the current test. Any progress will be lost; do you want to continue?</string>
+    <string name="txt_sure_to_exit_exercise_activity">You are about to give up your Test; Do you want to continue?</string>
+    <string name="txt_corrected">Correct</string>
+    <string name="txt_replay">Replay</string>
+    <string name="txt_quit">Leave</string>
+    <string name="txt_yes">Yes</string>
+    <string name="txt_no">No</string>
+    <string name="mark_policy_all_or_minus">Find all the answers to a question and earn %1$s point. A single wrong answer subtracts %2$s point.</string>
+    <string name="mark_policy_all_or_nothing">Find all the answers to a question and earn %1$s point. A wrong answer cancels all the points related to this question.</string>
+    <string name="mark_policy_success_plus__annul_on_error">Each true answer adds %1$s point. Only one wrong answer and all the points related to this question is canceled.</string>
+    <string name="mark_policy_one_per_success"><![CDATA[Each true answer adds %1$s point.]]></string>
+    <string name="mark_policy_success_plus__fail_annul_and_minus"><![CDATA[Each true answer adds %1$s point. A single false answer cancels your correct answers and %2$s point will be subtracted to your score.]]></string>
+    <string name="mark_policy_success_plus__minus_on_error"><![CDATA[Each true answer adds %1$s point. Each false answer subtracts %2$s point on all the points obtained]]></string>
+    <string name="action_choice_true">Yes</string>
+    <string name="action_choice_false">No</string>
+    <string name="action_choice_partial">Partial</string>
+    <string name="txt_error">Error</string>
+    <string name="txt_ok">Ok</string>
+    <string name="txt_undo">Undo</string>
+    <string name="message_error_qpackage_questionnaire_unreadable">Sorry, this questionnaire can not be read.</string>
+    <string name="txt_subject_undefined_title">Subject not yet defined</string>
+    <string name="txt_subject_undefined_description">No topics have been defined yet</string>
+    <string name="message_error_no_qcm_def_found">No Question and Answer has been defined.</string>
+    <string name="message_error_no_knowledge_level_def_found">No level of knowledge has been defined.</string>
+    <string name="message_error_no_subject_def_found">No topic has been defined</string>
+    <string name="message_error_no_description_def_found">No description of the questionnaire has been defined.</string>
+    <string name="action_close">close</string>
+    <string name="action_continue">Continue</string>
+    <string name="action_undo">undo</string>
+    <string name="action_open">Open</string>
+    <string name="action_share">Share</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_score">Score</string>
+    <string name="message_error_no_marks_def_def_found">No scoring policy defined.</string>
+    <string name="message_error_proposition_no_label_def_found">No label was defined for the proposal at position \'%d\' in MCQ number \'%d\'</string>
+    <string name="message_error_question_no_label_def_found">No question label defined for MCQ number \'%d\'</string>
+    <string name="txt_quit_3dot">Leave...</string>
+    <string name="txt_arrow_quit">&lt; Leave</string>
+    <string name="txt_arrow_previous">&lt; Previous</string>
+    <string name="txt_arrow_forward_next">Next ></string>
+    <string name="txt_qcm_conf_q_total">Total Questions</string>
+    <string name="txt_qcm_conf_builder_version">Builder version</string>
+    <string name="txt_qcm_conf_code_version">Code version</string>
+    <string name="txt_qcm_conf_language">Language of the questionnaire</string>
+    <string name="txt_qcm_conf_duration">Duration of the questionnaire</string>
+    <string name="txt_qcm_conf_random_enable">Random mode enable</string>
+    <string name="txt_qcm_conf_q_per_session">Questions per session</string>
+    <string name="txt_qcm_conf_q_smart_choice">Smart input enable</string>
+    <string name="message_error_qcm_no_valid_proposition_at_index">No valid answer proposition has been defined for MCQ number \'%d\'.</string>
+    <string name="message_error_proposition_no_answer_found_at_index">No proposition has been defined as true for MCQ number \'%d\'.</string>
+    <string name="message_error_no_answer">No answer</string>
+    <string name="txt_duration_infinite">Endless</string>
+    <string name="action_cancel">Cancel</string>
+    <string-array name="array_difficulty">
+        <item>Easy</item>
+        <item>Normal</item>
+        <item>Difficult</item>
+        <item>Expert</item>
+    </string-array>
+    <string name="action_save">Save</string>
+    <string name="action_explicit_add_photo">Add a picture</string>
+    <string name="message_add_photo_url">Add a picture from a web link</string>
+    <string name="action_gallery">Gallery</string>
+    <string name="action_camera">Camera</string>
+    <string name="prompt_add_photo_url">Enter or paste a web link...</string>
+    <string name="message_error_invalid_web_link">The submitted web link is not valid.</string>
+    <string name="action_web_link">Web link</string>
+    <string name="action_remove_photo">Remove  photo</string>
+    <string name="message_permission_denied_cant_edit_picture">Permission denied. Can not edit this image</string>
+    <string name="action_ok">Ok</string>
+    <string name="message_undo">Undone</string>
+    <string name="message_canceled">Canceled</string>
+    <string name="message_no_picture_selected">No image selected</string>
+    <string name="message_no_media_selected">No media selected</string>
+    <string name="message_unexpected_error">Oops, an unexpected error has occurred.</string>
+    <string name="message_unexpected_error_retry_later">Oops, an unexpected error has occurred. Please try again later.</string>
+    <string name="action_crop">Crop</string>
+    <string name="txt_oops">Oops</string>
+    <string name="message_cant_crop_picture_from_url">The current image can\'t be cropped because it comes from a web link.</string>
+    <string name="txt_share_using">Share using...</string>
+    <string name="content_message_apk_share"><![CDATA[QuizMaker-app APK package that allows you to play, create and share MCQ/questionnaires. Also available on Google Play: https://play.google.com/store/apps/details?id=com.devup.qcm.maker&hl=en]]></string>
+    <string name="content_message_qp_share"><![CDATA[Questionnaire file \'%s\' to open from the *.qcm file reader and writer ; ]]>&appname;<![CDATA[, available on Google Play: https://play.google.com/store/apps/details?id=com.devup.qcm.maker&hl=en]]></string>
+    <string name="action_abandon">Abandon</string>
+    <string name="message_something_gone_wrong">Oops, Something went wrong...</string>
+    <string name="txt_qcm_conf_show_correction">Show correction</string>
+    <string name="txt_locale_language">English</string>
+    <string name="txt_locale_language_code">EN</string>
+    <string-array name="array_available_language">
+        <item>English, EN</item>
+        <item>French, FR</item>
+        <item>Portuguese, PT</item>
+    </string-array>
+    <string name="action_skip">Skip</string>
+    <string name="action_submit">Submit</string>
+    <string name="txt_qcm_conf_play_mod_supported">Supported play mode</string>
+    <string name="txt_loading">Loading...</string>
+    <string name="action_make_app_update">Update</string>
+    <string name="action_unlock">Unlock</string>
+    <string name="action_lock">Lock</string>
+    <string name="title_dialog_edit_protected">Password locked</string>
+    <string name="title_dialog_protect_editing">Lock using a password</string>
+    <string name="hint_enter_password">Enter password...</string>
+    <string name="message_unlocked">Unlocked...</string>
+    <string name="message_wrong_password">Wrong password...</string>
+    <string name="title_dialog_wrong_password">Wrong password</string>
+    <string name="message_dialog_wrong_password">The password you entered is incorrect.</string>
+    <string name="title_dialog_qp_read_protected">Reading protected by password</string>
+    <string name="message_dialog_qp_read_protected">The selected quiz is read-protected by a password.</string>
+    <string name="message_dialog_qp_edit_protected">The selected quiz is write-protected by a password.</string>
+    <string name="action_i_understand">I understand</string>
+    <string name="title_android_v_obsolete">Android version obsolete (%1$s)</string>
+    <string name="message_android_v_obsolete_can_not_play_sound">Can not play this sound on your device because the Android version that you are using is too old.\n\nUpdate your system to Android-5 or later to use this feature.</string>
+    <string name="text_do_not_show_again_for_this_session">Do not show again until the next app reboot.</string>
+    <string name="message_error_answer_conflict">Answer already filled</string>
+    <string name="message_error_answer_missing">Missing answer</string>
+    <string name="text_case_sensitive">Case sensitive</string>
+    <string name="title_page_fast_travel">Fast navigation</string>
+    <string name="message_page_fast_travel">Enter the number of the page you want to go to.</string>
+    <string name="hint_page_fast_travel">Enter the page number...</string>
+    <string name="message_error_empty_input">Sorry, this value can not be empty.</string>
+    <string name="message_last_page_reached">Last page reached</string>
+</resources>

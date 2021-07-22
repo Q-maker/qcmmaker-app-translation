@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE resources [<!ENTITY appname "Quiz Maker">]>
+<resources>
+    <string name="action_search">Buscar</string>
+    <string name="txt_sure_to_exit_test">Estás a punto de abandonar la prueba actual. Cualquier progreso se perderá; ¿Quieres continuar?</string>
+    <string name="txt_sure_to_exit_exercise_activity">Estás a punto de abandonar tu prueba; ¿Quieres continuar?</string>
+    <string name="txt_corrected">Correcto</string>
+    <string name="txt_replay">Repetir</string>
+    <string name="txt_quit">Salir</string>
+    <string name="txt_yes">Si</string>
+    <string name="txt_no">No</string>
+    <string name="mark_policy_all_or_minus">Encuentre todas las respuestas a una pregunta y gane %1$s punto(s). Una sola respuesta incorrecta resta %2$s punto(s).</string>
+    <string name="mark_policy_all_or_nothing">Encuentre todas las respuestas a una pregunta y gane %1$s punto(s). Una respuesta incorrecta cancela todos los puntos relacionados con esta pregunta.</string>
+    <string name="mark_policy_success_plus__annul_on_error">Cada respuesta verdadera agrega %1$s punto(s). Solo se cancela una respuesta incorrecta y todos los puntos relacionados con esta pregunta.</string>
+    <string name="mark_policy_one_per_success"><![CDATA[Cada respuesta verdadera agrega %1$s punto(s).]]></string>
+    <string name="mark_policy_success_plus__fail_annul_and_minus"><![CDATA[Cada respuesta verdadera agrega %1$s punto(s). Una sola respuesta falsa cancela sus respuestas correctas y se restará %2$s punto(s) a su puntaje.]]></string>
+    <string name="mark_policy_success_plus__minus_on_error"><![CDATA[Cada respuesta verdadera agrega %1$s punto(s). Cada respuesta falsa resta %2$s punto(s) en todos los puntos obtenidos]]></string>
+    <string name="action_choice_true">Si</string>
+    <string name="action_choice_false">No</string>
+    <string name="action_choice_partial">Parcial</string>
+    <string name="txt_error">Error</string>
+    <string name="txt_ok">Okay</string>
+    <string name="txt_undo">Deshacer</string>
+    <string name="message_error_qpackage_questionnaire_unreadable">Lo sentimos, este cuestionario no se puede leer.</string>
+    <string name="txt_subject_undefined_title">Asunto aún no definido</string>
+    <string name="txt_subject_undefined_description">Aún no se han definido temas.</string>
+    <string name="message_error_no_qcm_def_found">No se ha definido ninguna pregunta y respuesta.</string>
+    <string name="message_error_no_knowledge_level_def_found">No se ha definido ningún nivel de conocimiento.</string>
+    <string name="message_error_no_subject_def_found">No se ha definido ningún tema.</string>
+    <string name="message_error_no_description_def_found">No se ha definido ninguna descripción del cuestionario.</string>
+    <string name="action_close">Cerrar</string>
+    <string name="action_continue">Continuar</string>
+    <string name="action_undo">Deshacer</string>
+    <string name="action_open">Abierta</string>
+    <string name="action_share">Compartir</string>
+    <string name="action_delete">Eliminar</string>
+    <string name="action_score">Puntaje</string>
+    <string name="message_error_no_marks_def_def_found">No hay política de puntaje definida.</string>
+    <string name="message_error_proposition_no_label_def_found">No se definió ninguna etiqueta para la propuesta en la posición \'%d\' en el número MCQ \'%d\'</string>
+    <string name="message_error_question_no_label_def_found">Etiqueta de pregunta no definida para MCQ número \'%d\'</string>
+    <string name="txt_quit_3dot">Dejar...</string>
+    <string name="txt_arrow_quit">&lt; Dejar</string>
+    <string name="txt_arrow_previous">&lt; Anterior</string>
+    <string name="txt_arrow_forward_next">Siguiente ></string>
+    <string name="txt_qcm_conf_q_total">Total Questions</string>
+    <string name="txt_qcm_conf_builder_version">Versión del constructor</string>
+    <string name="txt_qcm_conf_code_version">Código de versión </string>
+    <string name="txt_qcm_conf_language">Idioma del cuestionario</string>
+    <string name="txt_qcm_conf_duration">Duración del cuestionario</string>
+    <string name="txt_qcm_conf_random_enable">Habilitar modo aleatorio</string>
+    <string name="txt_qcm_conf_q_per_session">Preguntas por sesión</string>
+    <string name="txt_qcm_conf_q_smart_choice">Entrada inteligente habilitada</string>
+    <string name="message_error_qcm_no_valid_proposition_at_index">No se ha definido una propuesta de respuesta válida para MCQ número \'%d\'.</string>
+    <string name="message_error_proposition_no_answer_found_at_index">No se ha definido ninguna proposición como verdadera para MCQ número \'%d\'.</string>
+    <string name="message_error_no_answer">Ninguna respuesta</string>
+    <string name="txt_duration_infinite">Sin fin</string>
+    <string name="action_cancel">Cancelar</string>
+    <string-array name="array_difficulty">
+        <item>Fácil</item>
+        <item>Normal</item>
+        <item>Difícil</item>
+        <item>Experto</item>
+    </string-array>
+    <string name="action_save">Salvar</string>
+    <string name="action_explicit_add_photo">Agrega una foto</string>
+    <string name="message_add_photo_url">Agregar una imagen desde un enlace web</string>
+    <string name="action_gallery">Galería</string>
+    <string name="action_camera">Camera</string>
+    <string name="prompt_add_photo_url">Ingrese o pegue un enlace web...</string>
+    <string name="message_error_invalid_web_link">El enlace web enviado no es válido.</string>
+    <string name="action_web_link">Enlace web</string>
+    <string name="action_remove_photo">Eliminar foto</string>
+    <string name="message_permission_denied_cant_edit_picture">Permiso denegado. No se puede editar esta imagen.</string>
+    <string name="action_ok">Okay</string>
+    <string name="message_undo">Deshacer</string>
+    <string name="message_canceled">Cancelada</string>
+    <string name="message_no_picture_selected">No hay medios seleccionados</string>
+    <string name="message_no_media_selected">No hay medios seleccionados</string>
+    <string name="message_unexpected_error">Vaya, se ha producido un error inesperado.</string>
+    <string name="message_unexpected_error_retry_later">Vaya, se ha producido un error inesperado. Por favor, inténtelo de nuevo más tarde.</string>
+    <string name="action_crop">Recortar</string>
+    <string name="txt_oops">Huy</string>
+    <string name="message_cant_crop_picture_from_url">La imagen actual no se puede recortar porque proviene de un enlace web.</string>
+    <string name="txt_share_using">Compartir usando...</string>
+    <string name="content_message_apk_share"><![CDATA[QuizMaker-app APK paquete que te permite jugar, crear y compartir MCQ/cuestionarios. También disponible en Google Play: https://play.google.com/store/apps/details?id=com.devup.qcm.maker&hl=es]]></string>
+    <string name="content_message_qp_share"><![CDATA[Archivo de cuestionario \'%s\' para abrir desde el lector y escritor de archivos * .qcm; ]]>&appname;<![CDATA[, disponible en Google Play: https://play.google.com/store/apps/details?id=com.devup.qcm.maker&hl=es]]></string>
+    <string name="action_abandon">Abandonar</string>
+    <string name="message_something_gone_wrong">Huy! Algo salió mal...</string>
+    <string name="txt_qcm_conf_show_correction">Mostrar corrección</string>
+    <string name="txt_locale_language">Española</string>
+    <string name="txt_locale_language_code">ES</string>
+    <string-array name="array_available_language">
+        <item>English, EN</item>
+        <item>French, FR</item>
+        <item>Portuguese, PT</item>
+    </string-array>
+    <string name="action_skip">Salta</string>
+    <string name="action_submit">Enviar</string>
+    <string name="txt_qcm_conf_play_mod_supported">Modo de juego compatible</string>
+    <string name="txt_loading">Cargando...</string>
+    <string name="action_make_app_update">Actualizar</string>
+    <string name="action_unlock">Desbloquear</string>
+    <string name="action_lock">Bloquear</string>
+    <string name="title_dialog_edit_protected">bloqueado con una contraseña</string>
+    <string name="title_dialog_protect_editing">Bloquear usando una contraseña</string>
+    <string name="hint_enter_password">Introducir la contraseña...</string>
+    <string name="message_unlocked">Desbloqueado...</string>
+    <string name="message_wrong_password">Contraseña incorrecta...</string>
+    <string name="title_dialog_wrong_password">Contraseña incorrecta</string>
+    <string name="message_dialog_wrong_password">La contraseña que ha ingresado es incorrecta.</string>
+    <string name="title_dialog_qp_read_protected">Lectura protegida por contraseña</string>
+    <string name="message_dialog_qp_read_protected">El cuestionario seleccionado está protegido contra lectura mediante contraseña.</string>
+    <string name="message_dialog_qp_edit_protected">O questionário selecionado está protegido contra gravação por uma senha.</string>
+    <string name="action_i_understand">Entiendo</string>
+    <string name="title_android_v_obsolete">Versión de Android obsoleta (%1$s)</string>
+    <string name="message_android_v_obsolete_can_not_play_sound">No puede reproducir este sonido en su dispositivo porque la versión de Android que está utilizando es demasiado antigua.\n\nActualice su sistema a Android-5 o posterior para usar esta función.</string>
+    <string name="text_do_not_show_again_for_this_session">No mostrar de nuevo hasta el próximo reinicio de la aplicación.</string>
+    <string name="message_error_answer_conflict">Respuesta ya llena</string>
+    <string name="message_error_answer_missing">Respuesta faltante</string>
+    <string name="text_case_sensitive">Distingue mayúsculas y minúsculas</string>
+    <string name="title_page_fast_travel">Navegación rápida</string>
+    <string name="message_page_fast_travel">Ingrese el número de la página a la que desea ir.</string>
+    <string name="hint_page_fast_travel">Ingrese el número de página...</string>
+    <string name="message_error_empty_input">Lo sentimos, este valor no puede estar vacío.</string>
+    <string name="message_last_page_reached">Última página alcanzada</string>
+</resources>

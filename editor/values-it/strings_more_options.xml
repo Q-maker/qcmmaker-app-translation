@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_expand">Espandere</string>
+    <string name="action_listen">Ascolta</string>
+    <string name="action_edit_clue">Indizio</string>
+</resources>

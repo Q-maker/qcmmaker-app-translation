@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="title_elements_founds">
+        <item quantity="other">%1$s Éléments trouvés</item>
+        <item quantity="one"> %1$s Element trouvé</item>
+    </plurals>
+    <plurals name="title_item_selected">
+        <item quantity="other">%1$d Éléments sélectionnés</item>
+        <item quantity="one"> %1$d Élément sélectionné</item>
+    </plurals>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="message_single_screen_migration_all_project_done">Alle Ihre Quizprojekte (also insgesamt %1$d) wurden erfolgreich migriert. Sie finden sie nun in Form von QCM-Dateien in Ihrem neuen Arbeitsbereich.</string>
+    <string name="message_single_screen_migration_all_project_partially_done">Einige Ihrer Quizprojekte wurden erfolgreich in Ihren neuen Arbeitsbereich migriert. dh insgesamt %1$d. Bei einigen Elementen traten jedoch während der Migration Probleme auf (dh %2$d Migrationsfehler).</string>
+    <string name="message_single_screen_migration_all_project_full_failure">Hoppla, leider konnte aufgrund eines unerwarteten Fehlers keines Ihrer Quizprojekte in Ihren neuen Arbeitsbereich migriert werden. Also insgesamt %1$d Projekt(e) insgesamt.</string>
+    <string name="message_single_screen_migration_you_have_to_migrate_manually">Sie müssen diese Projekte manuell migrieren, indem Sie sie selbst in eine QCM-Datei exportieren, indem Sie bei Bedarf zu Ihrem alten Bereich \"Kreationen\" zurückkehren.</string>
+    <string name="title_migrate_projects">Migrieren Sie alle Ihre alten Projekte</string>
+    <string name="message_complete_the_migration_process_now">Schließen Sie jetzt den Migrationsprozess ab, um alle Ihre nicht migrierten Projekte in diesem neuen Arbeitsbereich als QCM-Dateien zu finden, die abgespielt, geteilt oder bearbeitet werden können.</string>
+    <plurals name="message_x_projects_waiting_for_migration">
+        <item quantity="other">Sie haben derzeit %1$d Projekte, die darauf warten, in Ihren neuen Arbeitsbereich migriert zu werden.</item>
+        <item quantity="one">Du hast derzeit %1$d Projekt, das darauf wartet, in deinen neuen Workspace migriert zu werden.</item>
+    </plurals>
+</resources>

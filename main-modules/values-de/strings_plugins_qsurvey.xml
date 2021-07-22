@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE resources [<!ENTITY qsurvey_tos_uri "qcmmakerstd://activities/MarkdownActivity#https://qcmmaker.qmakertech.com/documentations/advantages-qcmmaker-pro/body-de.md">]>
+<resources>
+    <string name="txt_notify_read_and_agree_quiz_result_collect_terms_of_use"><![CDATA[Ich habe die <a href=\']]>&qsurvey_tos_uri;<![CDATA[\'>Nutzungsbedingungen</a> für diesen Fragebogen <a href=\']]>&qsurvey_tos_uri;<![CDATA[\'>gelesen</a> und akzeptiert, wie <a href=\']]>&qsurvey_tos_uri;<![CDATA[\'>hier</a> erläutert.]]></string>
+    <string name="title_qsurvey_test_initialization">Initialisierung des Tests!</string>
+    <string name="message_warning_qsurvey_remote_result_collection_enable">Dieser Fragebogen bietet die Funktionalität, Ergebnisse aus der Ferne zu erfassen. Daher werden Ihre Ergebnisse an den Autor dieses Fragebogens gesendet.</string>
+    <string name="message_qsurvey_click_to_know_more_or_start_test"><![CDATA[<a href=\'#know_more\'>Klicken Sie hier</a>, um mehr zu erfahren, oder klicken Sie auf die Schaltfläche Start, um den Test zu starten.]]></string>
+    <string name="title_qsurvey_participation_quota_reached">Teilnahmequote erreicht!</string>
+    <string name="message_qsurvey_participation_quota_reached"><![CDATA[Entschuldigung, Ihre Teilnahmequote für dieses Quiz wurde erreicht. In der Tat haben Sie dieses Quiz bereits %1$d Mal gespielt. Ihr letzter Versuch war %2$s]]></string>
+    <string name="message_qsurvey_contact_authors_if_mistake"><![CDATA[Bitte wenden Sie sich an den Autor dieses Quiz oder den Initiator dieser Ergebnissammlung, wenn Sie glauben, dass dies ein Fehler ist.]]></string>
+    <string name="txt_qsurvey_attempt_index">Spielteil Nummer %1$s</string>
+    <string name="message_error_field_can_not_be_empty">Este campo não pode estar vazio</string>
+    <string name="message_error_field_invalid_value">Der Wert dieses Feldes ist ungültig</string>
+    <string name="message_error_read_and_agree_tem_of_use">Sie müssen zuerst die Nutzungsbedingungen lesen und ihnen zustimmen</string>
+    <string name="message_qsurvey_fill_form_before_starting">Um den Test zu starten, wollte der Autor, dass Sie die folgenden Informationen eingeben.</string>
+    <string name="message_click_to_know_more"><![CDATA[<a href=\'#know_more\'>Klicken Sie hier</a>, um mehr zu erfahren]]></string>
+    <string name="txt_caution_dont_share_sensitive_information">Bitte vermeiden Sie es, vertrauliche Informationen wie Karten- oder Bankkontonummern über diese App weiterzugeben.</string>
+</resources>

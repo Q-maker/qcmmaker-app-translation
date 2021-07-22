@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!--    Les arrays utile dans l'application-->
+    <string-array name="array_gender">
+        <item>Masculine</item>
+        <item>Feminine</item>
+        <item>Others</item>
+    </string-array>
+
+    <string-array name="array_language_international">
+        <item>English, EN</item>
+        <item>French, FR</item>
+        <item>Portuguese, PT</item>
+        <item>Spanish, ES</item>
+        <item>Arab, AR</item>
+        <item>Chinese, ZH</item>
+        <item>German, DE</item>
+        <item>Russian, RU</item>
+        <item>Latin, LA</item>
+    </string-array>
+</resources>

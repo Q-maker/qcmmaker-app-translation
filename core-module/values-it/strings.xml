@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE resources [<!ENTITY appname "Quiz Maker">]>
+<resources>
+    <string name="action_search">Ricerca</string>
+    <string name="txt_sure_to_exit_test">Stai per abbandonare il test in corso. Qualsiasi progresso andrà perso; vuoi continuare?</string>
+    <string name="txt_sure_to_exit_exercise_activity">Stai per rinunciare al tuo Test; Vuoi continuare?</string>
+    <string name="txt_corrected">Corretto</string>
+    <string name="txt_replay">Replay</string>
+    <string name="txt_quit">Partire</string>
+    <string name="txt_yes">sì</string>
+    <string name="txt_no">No</string>
+    <string name="mark_policy_all_or_minus">Trova tutte le risposte a una domanda e guadagna %1$s punto. Una singola risposta sbagliata sottrae %2$s punto.</string>
+    <string name="mark_policy_all_or_nothing">Trova tutte le risposte a una domanda e guadagna %1$s punto. Una risposta errata annulla tutti i punti relativi a questa domanda.</string>
+    <string name="mark_policy_success_plus__annul_on_error">Ogni risposta vera aggiunge %1$s punto. Viene cancellata una sola risposta errata e tutti i punti relativi a questa domanda.</string>
+    <string name="mark_policy_one_per_success"><![CDATA[Ogni risposta vera aggiunge %1$s punto.]]></string>
+    <string name="mark_policy_success_plus__fail_annul_and_minus"><![CDATA[Ogni risposta vera aggiunge %1$s punto. Una singola risposta falsa annulla le tue risposte corrette e %2$s punto verrà sottratto al tuo punteggio.]]></string>
+    <string name="mark_policy_success_plus__minus_on_error"><![CDATA[Ogni risposta vera aggiunge %1$s punto. Ogni risposta falsa sottrae %2$s punto su tutti i punti ottenuti]]></string>
+    <string name="action_choice_true">sì</string>
+    <string name="action_choice_false">No</string>
+    <string name="action_choice_partial">Parziale</string>
+    <string name="txt_error">Errore</string>
+    <string name="txt_ok">Ok</string>
+    <string name="txt_undo">Disfare</string>
+    <string name="message_error_qpackage_questionnaire_unreadable">Spiacenti, questo questionario non può essere letto.</string>
+    <string name="txt_subject_undefined_title">Soggetto non ancora definito</string>
+    <string name="txt_subject_undefined_description">Nessun argomento è stato ancora definito</string>
+    <string name="message_error_no_qcm_def_found">Nessuna domanda e risposta è stata definita.</string>
+    <string name="message_error_no_knowledge_level_def_found">Non è stato definito alcun livello di conoscenza.</string>
+    <string name="message_error_no_subject_def_found">Nessun argomento è stato definito</string>
+    <string name="message_error_no_description_def_found">Non è stata definita alcuna descrizione del questionario.</string>
+    <string name="action_close">vicina</string>
+    <string name="action_continue">Continua</string>
+    <string name="action_undo">Disfare</string>
+    <string name="action_open">Aperto</string>
+    <string name="action_share">Condividere</string>
+    <string name="action_delete">Elimina</string>
+    <string name="action_score">Score</string>
+    <string name="message_error_no_marks_def_def_found">Nessuna politica di punteggio definita.</string>
+    <string name="message_error_proposition_no_label_def_found">Nessuna etichetta è stata definita per la proposta nella posizione \'%d\' nel numero MCQ \'%d\'</string>
+    <string name="message_error_question_no_label_def_found">Nessuna etichetta di domanda definita per il numero MCQ \'%d\'</string>
+    <string name="txt_quit_3dot">Partire...</string>
+    <string name="txt_arrow_quit">&lt; Partire</string>
+    <string name="txt_arrow_previous">&lt; Precedente</string>
+    <string name="txt_arrow_forward_next">Seguente ></string>
+    <string name="txt_qcm_conf_q_total">Domande totali</string>
+    <string name="txt_qcm_conf_builder_version">Versione del Builder</string>
+    <string name="txt_qcm_conf_code_version">Versione codice</string>
+    <string name="txt_qcm_conf_language">Lingua del questionario</string>
+    <string name="txt_qcm_conf_duration">Durata del questionario</string>
+    <string name="txt_qcm_conf_random_enable">Abilita la modalità casuale</string>
+    <string name="txt_qcm_conf_q_per_session">Domande per sessione</string>
+    <string name="txt_qcm_conf_q_smart_choice">Abilitazione ingresso intelligente</string>
+    <string name="message_error_qcm_no_valid_proposition_at_index">Nessuna proposta di risposta valida è stata definita per il numero MCQ \'%d\'.</string>
+    <string name="message_error_proposition_no_answer_found_at_index">Nessuna proposizione è stata definita come vera per MCQ numero \'%d\'.</string>
+    <string name="message_error_no_answer">Nessuna risposta</string>
+    <string name="txt_duration_infinite">Infinita</string>
+    <string name="action_cancel">Annulla</string>
+    <string-array name="array_difficulty">
+        <item>Facile</item>
+        <item>Normale</item>
+        <item>Difficile</item>
+        <item>Esperto</item>
+    </string-array>
+    <string name="action_save">Salva</string>
+    <string name="action_explicit_add_photo">Aggiungi una foto</string>
+    <string name="message_add_photo_url">Aggiungi un\'immagine da un collegamento web</string>
+    <string name="action_gallery">Galleria</string>
+    <string name="action_camera">telecamera</string>
+    <string name="prompt_add_photo_url">Inserisci o incolla un collegamento web...</string>
+    <string name="message_error_invalid_web_link">Il link web inviato non è valido.</string>
+    <string name="action_web_link">link Web</string>
+    <string name="action_remove_photo">Rimuovi foto</string>
+    <string name="message_permission_denied_cant_edit_picture">Permesso negato. Impossibile modificare questa immagine</string>
+    <string name="action_ok">Ok</string>
+    <string name="message_undo">annullata</string>
+    <string name="message_canceled">Annullata</string>
+    <string name="message_no_picture_selected">Nessuna immagine selezionata</string>
+    <string name="message_no_media_selected">Nessun supporto selezionato</string>
+    <string name="message_unexpected_error">Spiacenti, si è verificato un errore imprevisto.</string>
+    <string name="message_unexpected_error_retry_later">Spiacenti, si è verificato un errore imprevisto. Per favore riprova più tardi.</string>
+    <string name="action_crop">Ritaglia</string>
+    <string name="txt_oops">Oops</string>
+    <string name="message_cant_crop_picture_from_url">L\'immagine corrente non può essere ritagliata perché proviene da un collegamento web.</string>
+    <string name="txt_share_using">Condividi usando...</string>
+    <string name="content_message_apk_share"><![CDATA[Pacchetto APK dell\'app QuizMaker che ti consente di giocare, creare e condividere MCQ/questionari. Disponibile anche su Google Play: https://play.google.com/store/apps/details?id=com.devup.qcm.maker&hl=it]]></string>
+    <string name="content_message_qp_share"><![CDATA[File del questionario \'%s\' da aprire dal lettore e scrittore di file *.qcm; ]]>&appname;<![CDATA[, disponibile su Google Play: https://play.google.com/store/apps/details?id=com.devup.qcm.maker&hl=it]]></string>
+    <string name="action_abandon">Abbandonare</string>
+    <string name="message_something_gone_wrong">Oops! Qualcosa è andato storto...</string>
+    <string name="txt_qcm_conf_show_correction">Mostra correzione</string>
+    <string name="txt_locale_language">Italiano</string>
+    <string name="txt_locale_language_code">IT</string>
+    <string-array name="array_available_language">
+        <item>English, EN</item>
+        <item>French, FR</item>
+        <item>Portuguese, PT</item>
+    </string-array>
+    <string name="action_skip">Skip</string>
+    <string name="action_submit">Submit</string>
+    <string name="txt_qcm_conf_play_mod_supported">Modalità di riproduzione supportata</string>
+    <string name="txt_loading">Caricamento in corso...</string>
+    <string name="action_make_app_update">Aggiornare</string>
+    <string name="action_unlock">Sbloccare</string>
+    <string name="action_lock">Serratura</string>
+    <string name="title_dialog_edit_protected">Password bloccata</string>
+    <string name="title_dialog_protect_editing">Blocca usando una password</string>
+    <string name="hint_enter_password">Inserire la password...</string>
+    <string name="message_unlocked">Sbloccato...</string>
+    <string name="message_wrong_password">Password errata...</string>
+    <string name="title_dialog_wrong_password">Password errata</string>
+    <string name="message_dialog_wrong_password">La password che hai inserito è errata.</string>
+    <string name="title_dialog_qp_read_protected">Lettura protetta da password</string>
+    <string name="message_dialog_qp_read_protected">Il quiz selezionato è protetto da una password.</string>
+    <string name="message_dialog_qp_edit_protected">Il quiz selezionato è protetto da scrittura tramite password.</string>
+    <string name="action_i_understand">Capisco</string>
+    <string name="title_android_v_obsolete">Versione Android obsoleta (%1$s)</string>
+    <string name="message_android_v_obsolete_can_not_play_sound">Can not play this sound on your device because the Android version that you are using is too old.\n\nUpdate your system to Android-5 or later to use this feature.</string>
+    <string name="text_do_not_show_again_for_this_session">Non mostrare più fino al prossimo riavvio dell\'app.</string>
+    <string name="message_error_answer_conflict">Risposta già compilata</string>
+    <string name="message_error_answer_missing">Risposta mancante</string>
+    <string name="text_case_sensitive">Maiuscole e minuscole</string>
+    <string name="title_page_fast_travel">Navigazione veloce</string>
+    <string name="message_page_fast_travel">Inserisci il numero della pagina a cui vuoi andare.</string>
+    <string name="hint_page_fast_travel">Inserisci il numero di pagina...</string>
+    <string name="message_error_empty_input">Spiacenti, questo valore non può essere vuoto.</string>
+    <string name="message_last_page_reached">Ultima pagina raggiunta</string>
+</resources>

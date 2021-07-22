@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="message_single_screen_migration_all_project_done">Todos os seus projetos de questionário (ou seja, %1$d no total) foram migrados com sucesso. Agora você poderá encontrá-los na forma de arquivos QCM em seu novo espaço de trabalho.</string>
+    <string name="message_single_screen_migration_all_project_partially_done">Alguns de seus projetos de questionário foram migrados com sucesso para seu novo espaço de trabalho; ou seja, um total de %1$d. No entanto, alguns elementos encontraram problemas durante a migração (ou seja, %2$d erro(s) de migração).</string>
+    <string name="message_single_screen_migration_all_project_full_failure">Ops, infelizmente, devido a um erro inesperado, nenhum de seus projetos de questionário pôde ser migrado para seu novo espaço de trabalho. Portanto, um total de %1$d projeto (s) no total.</string>
+    <string name="message_single_screen_migration_you_have_to_migrate_manually">Você terá que migrar manualmente esses projetos, exportando-os no arquivo QCM você mesmo, retornando ao seu antigo espaço de \'Criações\' quando desejar.</string>
+    <string name="title_migrate_projects">Migre todos os seus projetos antigos</string>
+    <string name="message_complete_the_migration_process_now">Conclua o processo de migração agora para encontrar todos os seus projetos não migrados neste novo espaço de trabalho como arquivos QCM prontos para serem reproduzidos, compartilhados ou editados.</string>
+    <plurals name="message_x_projects_waiting_for_migration">
+        <item quantity="other">Você tem atualmente %1$d projetos que estão aguardando para serem migrados para seu novo espaço de trabalho.</item>
+        <item quantity="one">Você tem atualmente %1$d projeto que está aguardando para ser migrado para seu novo espaço de trabalho.</item>
+    </plurals>
+</resources>

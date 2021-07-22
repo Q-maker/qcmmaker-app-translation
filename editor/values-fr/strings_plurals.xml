@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="message_q_a_found_number">
+        <item quantity="other">%1$s question-réponses trouvées.</item>
+        <item quantity="one"> %1$s question-réponses trouvée</item>
+    </plurals>
+    <plurals name="message_import_contain_error">
+<!--        Le fichier de question-réponses sélectionné contient %4 erreurs. Vous pouvez les ignorer et continuer ou vous référer au Lisez moi disponible ici afin de mieux structurer votre fichier d'import et réessayer.-->
+        <item quantity="other"><![CDATA[Le fichier de question-réponses sélectionné contient %1$s erreurs. Vous pouvez les ignorer et continuer ou vous référer au <a href=".readme">Lisez moi</a> disponible <a href=".readme">ici</a> afin de mieux structurer votre fichier d\'import et réessayer.]]></item>
+        <item quantity="one"><![CDATA[Le fichier de question-réponses sélectionné contient %1$s erreur. Vous pouvez l\'ignorer et continuer ou vous référer au <a href=".readme">Lisez moi</a> disponible <a href=".readme">ici</a> afin de mieux structurer votre fichier d\'import et réessayer]]></item>
+    </plurals>
+</resources>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="time_hours_count">
+        <item>00</item>
+        <item>1 h</item>
+        <item>2 h</item>
+        <item>3 h</item>
+        <item>4 h</item>
+        <item>@string/txt_duration_infinite</item>
+    </string-array>
+    <string-array name="time_min_count">
+        <item>00</item>
+        <item>1 mn</item>
+        <item>2 mn</item>
+        <item>3 mn</item>
+        <item>4 mn</item>
+        <item>5 mn</item>
+        <item>6 mn</item>
+        <item>7 mn</item>
+        <item>8 mn</item>
+        <item>9 mn</item>
+        <item>10 mn</item>
+        <item>11 mn</item>
+        <item>12 mn</item>
+        <item>13 mn</item>
+        <item>14 mn</item>
+        <item>15 mn</item>
+        <item>16 mn</item>
+        <item>17 mn</item>
+        <item>18 mn</item>
+        <item>19 mn</item>
+        <item>20 mn</item>
+        <item>21 mn</item>
+        <item>22 mn</item>
+        <item>23 mn</item>
+        <item>24 mn</item>
+        <item>25 mn</item>
+        <item>26 mn</item>
+        <item>27 mn</item>
+        <item>28 mn</item>
+        <item>29 mn</item>
+        <item>30 mn</item>
+        <item>31 mn</item>
+        <item>32 mn</item>
+        <item>33 mn</item>
+        <item>34 mn</item>
+        <item>35 mn</item>
+        <item>36 mn</item>
+        <item>37 mn</item>
+        <item>38 mn</item>
+        <item>39 mn</item>
+        <item>40 mn</item>
+        <item>41 mn</item>
+        <item>42 mn</item>
+        <item>43 mn</item>
+        <item>44 mn</item>
+        <item>45 mn</item>
+        <item>46 mn</item>
+        <item>47 mn</item>
+        <item>48 mn</item>
+        <item>49 mn</item>
+        <item>50 mn</item>
+        <item>51 mn</item>
+        <item>52 mn</item>
+        <item>53 mn</item>
+        <item>54 mn</item>
+        <item>55 mn</item>
+        <item>56 mn</item>
+        <item>57 mn</item>
+        <item>58 mn</item>
+        <item>59 mn</item>
+        <item>60 mn</item>
+    </string-array>
+
+    <string-array name="time_sec_count">
+        <item>00 sec</item>
+        <item>10 sec</item>
+        <item>20 sec</item>
+        <item>30 sec</item>
+        <item>40 sec</item>
+        <item>50 sec</item>
+    </string-array>
+</resources>
