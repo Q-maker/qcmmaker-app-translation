@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="txt_layout">Diseño</string>
+    <string name="action_center_crop">Recortar al centro</string>
+    <string name="action_center_inside">Centrar interior</string>
+    <string name="action_center_content">Centrar el contenido</string>
+    <string name="action_fit_center">Ajustar al centro</string>
+    <string name="action_fit_start">Ajustar a la izquierda</string>
+    <string name="action_fit_end">Ajustar a la derecha</string>
+    <string name="action_fit_xy">Ajustar al marco</string>
+</resources>

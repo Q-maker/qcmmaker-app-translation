@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_edit_scoring_policy">Éditer la politique de notation</string>
+    <string name="message_edit_scoring_policy_invite">Configurez votre politique de scoring personnalisée de A à Z et vous verrez le texte descriptif affiché ici.</string>
+    <string name="txt_mark_policy_config_allow_negative_final_score">Autoriser des scores finaux négatifs</string>
+    <string name="text_add_per_answer">Par bonne réponse</string>
+    <string name="text_all_or_nothing">Tout ou rien</string>
+    <string name="txt_mark_policy_config_marks_adding_strategy">Stratégie d\'ajout de points</string>
+    <string name="txt_mark_policy_config_cancel_marks_on_mistake">Annulez tous les points gagnés en cas d\'erreur</string>
+    <string name="txt_mark_policy_config_marks_to_add_on_success">Marques à ajouter en cas de réussite</string>
+    <string name="txt_mark_policy_config_marks_to_deduce_on_mistake">Marques à déduire en cas d\'erreur</string>
+    <string name="txt_mark_policy_config_marks_to_apply_on_no_answer">Notes à appliquer en cas de non-réponse</string>
+    <string name="hint_enter_copy_title">Enter the title of your copy</string>
+    <string name="hint_enter_scoring_policy_title">Enter a title for your scoring policy...</string>
+</resources>

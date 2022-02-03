@@ -1,0 +1,89 @@
+<html>
+<header>
+<meta charset="utf-8"/>
+</header>
+<body>
+<h1>About</h1>
+<p>
+$appname ist eine mobile Anwendung, mit der Sie auf einfache und intuitive Weise Quiz spielen, erstellen und teilen können.
+Die Anwendung $appname bietet folgende Möglichkeiten:
+</p>
+&#x20;
+<p>
+<b>-Create:</b>
+<br/>
+<br/>
+	  • Multiple-Choice-Fragen<br/>
+      • Single-Choice-Fragen<br/>
+      • offene Fragen<br/>
+</p>
+
+<p>
+<ul>
+<b>-Teilen</b> Sie Ihre Kreationen einfach als *.qcm-Erweiterungsdatei<br/><br/>
+</ul>
+</p>
+
+<p>
+<ul>
+<b>-Erhalten</b> und spielen Sie Quizze, die Sie von Ihren Kontakten heruntergeladen oder erhalten haben, aus einer einfachen Datei.
+</ul>
+</p>
+<br/><br/>
+<p>
+<b>Was ist eine *.qcm-Datei?</b>
+<br/>
+•Die Qcm-Datei ist ein Dateiformat, das darauf abzielt, interaktive Quizze mit Bildern und Tönen mit automatischer Bewertung zu unterstützen.
+<br/>
+•Eine Qcm-Datei ist eine komprimierte Datei, die eine Reihe von Fragen, Antwortvorschlägen und Antworten enthält.
+<br/>
+•Die Struktur der Dateien *.qcm ermöglicht es ua multimediale Inhalte wie Bilder und Sounds einzuspielen.
+<br/>
+•Jede *.qcm-Datei ist so strukturiert, dass sie von jeder kompatiblen Anwendung automatisch interpretiert wird.
+</p>
+<br/>
+<b>Deshalb:</b> Sobald Sie ein Quiz als tragbares und teilbares <b>QCM-Dateiformat</b> teilen, muss der Empfänger zum Lesen die $appname-App oder zumindest einen kompatiblen QCM-Dateileser installiert haben und spiele es.
+Tatsächlich ist das QCM-Dateiformat wie jedes andere Dateiformat, es benötigt ein kompatibles Lesegerät, um gelesen und interpretiert zu werden.
+<br/>
+So wie Sie beispielsweise MSWord zum Lesen von DOC-Dateien, MSExcel für XLS-Dateien oder sogar einen PDF-Reader zum Lesen einer PDF-Datei benötigen, benötigen Sie auch einen QCM-Dateireader zum Lesen des QCM-Dateiformats, ebenso wie <b>diese App</b> und alle Apps, die mit der Q-Maker-Technologie kompatibel sind.
+<br/>
+
+<p>
+<br/>
+<p>
+<b>Daher</b> ermöglicht Ihnen die $appname-App das Lesen, Erstellen, Bearbeiten, Freigeben, Auflisten und Verwalten aller Quizdateien, die auf der Speicherfestplatte Ihres Geräts verfügbar sind. Es bietet Ihnen einfache und unkomplizierte Methoden zum Abspielen, Bearbeiten und Modifizieren empfangener oder selbst erstellter Quizfragen, die als <b>QCM</b>-Dateien direkt von Ihrer Gerätespeicherplatte verfügbar sind.
+<br/>
+<br/>
+<b>Während der Bearbeitung bleiben die mit dieser App erstellten Quizdateien in der Tat privat auf Ihrer Speicherfestplatte und werden nirgendwohin kopiert, auch nicht auf unseren eigenen Webserver, bis oder es sei denn, Sie entscheiden sich <b>selbst</b> dafür Geben Sie diese Quizze als einfache, tragbare und gemeinsam nutzbare <b>QCM</b>-Dateien an Dritte weiter.
+</p>
+</p>
+
+<p>
+<br/>
+<p>
+<b>Noch etwas:</b> Bitte beachten Sie, dass mit $appname erstellte Quizfragen <b>Selbsteinschätzung</b> und <b>Unterhaltungsspiele</b> unterstützen sollen, sodass Sie Quizfragen erstellen, spielen und teilen können das darauf abzielt, <b>sich selbst zu trainieren</b>, jemand anderen zu trainieren, Wissen <b>auswendig zu lernen</b>, als <b>Wiederholungs</b>unterstützung zu verwenden oder einfach nur als ein <b>genießen</b> Quizspiel (Quizspiel) mit unterhaltsamem Inhalt.
+</p>
+</p>
+<br/>
+<p>
+Mit <b>$appname</b> spielen, erstellen und teilen Sie ganz einfach MCQs/Quiz. <font color="#48a459">🙂</font>
+</p>
+
+<p>
+<b>Kontakt:</b>
+<br/>
+Haben Sie Fragen; Wenn Sie Hilfe oder Aufklärung benötigen, können Sie sich gerne an uns wenden.
+<br/>
+•Email: <a href="mailto:qcmmakerapp@gmail.com">qcmmakerapp@gmail.com</a></font>
+<br/>
+•Facebook: <a href="http://fb.me/QcmMaker">fb.me/QcmMaker</a>
+</br>
+<br/>
+•Google Play: <a href="https://play.google.com/store/apps/details?id=com.devup.qcm.maker">$appname</a>
+<br/>
+<br/>
+<b>Notiz:</b>
+<br/>
+Quiz Maker ist eine Anwendung, die mit Q-Maker-Lösungen und -Dateistrukturen kompatibel ist
+</body>
+</html>

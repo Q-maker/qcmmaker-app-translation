@@ -5,7 +5,7 @@
     <string name="action_discover_pro_version">Découvir QcmMaker-Pro</string>
     <string name="action_use_pro_version">Utiliser QcmMaker-Pro</string>
     <string name="resource_uri_pro_version_documentation">https://qcmmaker.qmakertech.com/documentations/advantages-qcmmaker-pro/body-FR.md</string>
-    <string name="message_pro_feature_exclusive">Sorry, this feature is only available on Q-maker professional edition.</string>
+    <string name="message_pro_feature_exclusive">Désolé, cette fonctionnalité n\'est disponible que sur l\'édition professionnelle de Q-maker.</string>
     <string name="message_pro_invite_edit_soundtrack">Ajouter un son d\'ambiance qui sera joué en boucle pendant le test afin de donner plus de vie à vos quiz en utilisant QcmMaker edition professionnelle.</string>
     <string name="message_pro_invite_more_options_intro">Trouvez davantage d\'options de configuration sur QcmMaker edition professionnel.</string>
 </resources>

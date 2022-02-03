@@ -56,4 +56,7 @@
     <string name="message_test_session_expired">It looks like you left the test for too long. Your testing session is now expired. Quit and start a new testing session if you are ready to play again.</string>
     <string name="action_resume_test">Resume test</string>
     <string name="message_test_interrupted_ready_to_resume">Your current quiz game has been temporarily paused. It is now ready to resume. Click when you are ready to start.</string>
+    <string name="message_error_copy_sheet_to_restore_unreadable">Unable to restore the test at its last state. The submitted copysheet is unreadable or corrupted.</string>
+    <string name="action_view_correction">View correction</string>
+    <string name="action_view_score">View score</string>
 </resources>

@@ -8,12 +8,29 @@
     <string name="txt_quit">Partire</string>
     <string name="txt_yes">sì</string>
     <string name="txt_no">No</string>
-    <string name="mark_policy_all_or_minus">Trova tutte le risposte a una domanda e guadagna %1$s punto. Una singola risposta sbagliata sottrae %2$s punto.</string>
+    <string name="mark_policy_all_or_minus">Trova tutte le risposte a una domanda e guadagna %1$s punto. Una singola risposta falsa annulla le tue risposte corrette e %2$s punto verrà sottratto al tuo punteggio.</string>
     <string name="mark_policy_all_or_nothing">Trova tutte le risposte a una domanda e guadagna %1$s punto. Una risposta errata annulla tutti i punti relativi a questa domanda.</string>
     <string name="mark_policy_success_plus__annul_on_error">Ogni risposta vera aggiunge %1$s punto. Viene cancellata una sola risposta errata e tutti i punti relativi a questa domanda.</string>
     <string name="mark_policy_one_per_success"><![CDATA[Ogni risposta vera aggiunge %1$s punto.]]></string>
     <string name="mark_policy_success_plus__fail_annul_and_minus"><![CDATA[Ogni risposta vera aggiunge %1$s punto. Una singola risposta falsa annulla le tue risposte corrette e %2$s punto verrà sottratto al tuo punteggio.]]></string>
     <string name="mark_policy_success_plus__minus_on_error"><![CDATA[Ogni risposta vera aggiunge %1$s punto. Ogni risposta falsa sottrae %2$s punto su tutti i punti ottenuti]]></string>
+    <string name="text_null_or_one_point">%1$s punto</string>
+    <string name="text_multiple_points">%1$s punti</string>
+    <string name="mark_policy_find_all_to_earn">Trova tutte le risposte a una domanda e guadagna %1$s.</string>
+    <string name="mark_policy_single_mistake_deduce">Una singola risposta sbagliata sottrae %1$s.</string>
+    <string name="mark_policy_mistake_cancel_earnings">Una risposta errata annulla tutti i punti relativi a questa domanda.</string>
+    <string name="mark_policy_single_mistake_cancel_earnings">Una sola risposta sbagliata e tutti i punti relativi a questa domanda vengono annullati.</string>
+    <string name="mark_policy_find_each_to_earn">Ogni buona risposta aggiunge %1$s.</string>
+    <string name="mark_policy_single_mistake_cancel_and_deduces">Una singola risposta errata annulla le risposte corrette e verrà detratto %1$s dal punteggio.</string>
+    <string name="mark_policy_each_mistake_deduces">Ogni risposta errata sottrae %1$s su tutti i punti ottenuti.</string>
+    <string name="title_mark_policy_point_empty_answer">%1$s quando nessuna risposta per una domanda consultata almeno una volta.</string>
+    <string name="mark_policy_warning_negative_scoring_allowed">Possibile punteggio finale negativo.</string>
+    <string name="title_mark_policy_all_or_minus">Tutto o niente -penalità (+%1$s/-%2$s)</string>
+    <string name="title_mark_policy_all_or_nothing">Tutto o niente (+%1$s/0)</string>
+    <string name="title_mark_policy_success_plus__annul_on_error">+%1$s per successo o niente</string>
+    <string name="title_mark_policy_one_per_success">+%1$s per successo</string>
+    <string name="title_mark_policy_success_plus__fail_annul_and_minus">+%1$s per successo o -%2$s</string>
+    <string name="title_mark_policy_success_plus__minus_on_error">+%1$s o -%2$s per risposta</string>
     <string name="action_choice_true">sì</string>
     <string name="action_choice_false">No</string>
     <string name="action_choice_partial">Parziale</string>
@@ -27,10 +44,10 @@
     <string name="message_error_no_knowledge_level_def_found">Non è stato definito alcun livello di conoscenza.</string>
     <string name="message_error_no_subject_def_found">Nessun argomento è stato definito</string>
     <string name="message_error_no_description_def_found">Non è stata definita alcuna descrizione del questionario.</string>
-    <string name="action_close">vicina</string>
+    <string name="action_close">Chiudere</string>
     <string name="action_continue">Continua</string>
     <string name="action_undo">Disfare</string>
-    <string name="action_open">Aperto</string>
+    <string name="action_open">Aprire</string>
     <string name="action_share">Condividere</string>
     <string name="action_delete">Elimina</string>
     <string name="action_score">Score</string>
@@ -93,13 +110,13 @@
         <item>French, FR</item>
         <item>Portuguese, PT</item>
     </string-array>
-    <string name="action_skip">Skip</string>
-    <string name="action_submit">Submit</string>
+    <string name="action_skip">Saltare</string>
+    <string name="action_submit">Sottomettere</string>
     <string name="txt_qcm_conf_play_mod_supported">Modalità di riproduzione supportata</string>
     <string name="txt_loading">Caricamento in corso...</string>
     <string name="action_make_app_update">Aggiornare</string>
     <string name="action_unlock">Sbloccare</string>
-    <string name="action_lock">Serratura</string>
+    <string name="action_lock">bloccare</string>
     <string name="title_dialog_edit_protected">Password bloccata</string>
     <string name="title_dialog_protect_editing">Blocca usando una password</string>
     <string name="hint_enter_password">Inserire la password...</string>
@@ -122,4 +139,6 @@
     <string name="hint_page_fast_travel">Inserisci il numero di pagina...</string>
     <string name="message_error_empty_input">Spiacenti, questo valore non può essere vuoto.</string>
     <string name="message_last_page_reached">Ultima pagina raggiunta</string>
+    <string name="message_turn_on_to_enable_storage_management">Attivare l\'interruttore per abilitare l\'autorizzazione alla gestione dell\'archiviazione.</string>
+    <string name="message_sharing_multiple_quiz_files">Condivisione di %1$d file di quiz da aprire utilizzando le app %2$s</string>
 </resources>

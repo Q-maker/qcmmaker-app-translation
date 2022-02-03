@@ -122,4 +122,15 @@
     <string name="action_edit_quiz_info">Editer information</string>
     <string name="action_edit_q_and_a">Editer les questions</string>
     <string name="message_wait_while_resource_copying">Veuillez patienter pendant la copie des ressources attachées...</string>
+    <string name="action_create">Créer</string>
+    <string name="create_and_apply"><![CDATA[Créer & appliquer]]></string>
+    <string name="action_apply">Appliquer</string>
+    <string name="state_allowed">Permis</string>
+    <string name="text_never">Jamais</string>
+    <string name="action_reorder">Réordonner</string>
+    <string name="action_duplicate_to_edit">Dupliquer pour editer</string>
+    <string name="message_deleted">Supprimer</string>
+    <string name="action_modify">Modifier</string>
+    <string name="title_read_only">Lecture seule</string>
+    <string name="message_only_modify_own_created_scoring_policies">Sorry, the selected scoring policy is a system default scoring policy.\n\nYou can only modify or delete scoring policies you have created on your own or re-edited by duplicating an existing rating policy.</string>
 </resources>

@@ -8,12 +8,29 @@
     <string name="txt_quit">Quitter</string>
     <string name="txt_yes">Oui</string>
     <string name="txt_no">Non</string>
-    <string name="mark_policy_all_or_minus">Trouvez toutes les réponses à une question et gagnez  %1$s point. Une seule réponse fausse vous retranche %2$s point.</string>
+    <string name="mark_policy_all_or_minus">Trouvez toutes les réponses à une question et gagnez  %1$s point. Une seule réponse fausse annule vos bonnes réponses et vous retranche une totalité de %2$s point.</string>
     <string name="mark_policy_all_or_nothing">Trouvez toutes les réponses à une question et gagnez  %1$s point. Une réponse fausse annule tous les points liés à cette question.</string>
     <string name="mark_policy_success_plus__annul_on_error">Chaque réponse vraie ajoute %1$s point. Une seule réponse fausse et la totalité des points liés à cette question est annulée.</string>
     <string name="mark_policy_one_per_success"><![CDATA[Chaque réponse vraie ajoute %1$s point.]]></string>
     <string name="mark_policy_success_plus__fail_annul_and_minus"><![CDATA[Chaque réponse vrai ajoute %1$s point. Une seule réponse fausse annule vos bonnes réponses et vous retranche une totalité de %2$s point.]]></string>
     <string name="mark_policy_success_plus__minus_on_error"><![CDATA[Chaque réponse vraie ajoute %1$s point. Chaque réponse fausse retranche %2$s point sur la totalité des  points obtenus]]></string>
+    <string name="text_null_or_one_point">%1$s point</string>
+    <string name="text_multiple_points">%1$s points</string>
+    <string name="mark_policy_find_all_to_earn">Trouvez toutes les réponses à une question et gagnez %1$s.</string>
+    <string name="mark_policy_single_mistake_deduce">Une seule mauvaise réponse soustrait %1$s.</string>
+    <string name="mark_policy_mistake_cancel_earnings">Une mauvaise réponse annule tous les points liés à cette question.</string>
+    <string name="mark_policy_single_mistake_cancel_earnings">Une seule mauvaise réponse et tous les points liés à cette question sont annulés.</string>
+    <string name="mark_policy_find_each_to_earn">Chaque bonne réponse ajoute %1$s.</string>
+    <string name="mark_policy_single_mistake_cancel_and_deduces">Une seule mauvaise réponse annule vos bonnes réponses et %1$s sera déduit de votre score.</string>
+    <string name="mark_policy_each_mistake_deduces">Chaque mauvaise réponse déduit %1$s sur l\'ensemble des points obtenus.</string>
+    <string name="title_mark_policy_point_empty_answer">%1$s en l\'absence de réponse pour une question consultée au moins une fois.</string>
+    <string name="mark_policy_warning_negative_scoring_allowed">Note finale négative possible.</string>
+    <string name="title_mark_policy_all_or_minus">Tous ou rien -pénalité (+%1$s/-%2$s)</string>
+    <string name="title_mark_policy_all_or_nothing">Tout ou rien (+%1$s/0)</string>
+    <string name="title_mark_policy_success_plus__annul_on_error">+%1$s par succès ou rien</string>
+    <string name="title_mark_policy_one_per_success">+%1$s par succès</string>
+    <string name="title_mark_policy_success_plus__fail_annul_and_minus">+%1$s par succès or -%2$s</string>
+    <string name="title_mark_policy_success_plus__minus_on_error">+%1$s ou -%2$s par réponse</string>
     <string name="action_choice_true">Oui</string>
     <string name="action_choice_false">Non</string>
     <string name="action_choice_partial">Partielle</string>
@@ -122,4 +139,6 @@
     <string name="hint_page_fast_travel">Saisir le numéro de la page...</string>
     <string name="message_error_empty_input">Désolé, cette valeur ne doit pas être vide.</string>
     <string name="message_last_page_reached">Dernière page atteinte</string>
+    <string name="message_turn_on_to_enable_storage_management">Activez le commutateur pour activer l\'autorisation de gestion du stockage.</string>
+    <string name="message_sharing_multiple_quiz_files">Sharing %1$d quiz files to open using %2$s apps</string>
 </resources>

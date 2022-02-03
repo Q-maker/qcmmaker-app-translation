@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="message_q_a_found_number">
-        <item quantity="other">%1$s questions and answers found</item>
-        <item quantity="one"> %1$s question and answers found</item>
+        <item quantity="other">%1$s Fragen und Antworten gefunden</item>
+        <item quantity="one"> %1$s Frage und Antworten gefunden</item>
     </plurals>
     <plurals name="message_import_contain_error">
         <item quantity="other"><![CDATA[Die ausgewählte Frage-Antwort-Datei enthält %1$s Fehler. Sie können sie ignorieren und fortfahren oder die <a href=".readme">hier</a> verfügbare <a href=".readme">Readme-Datei</a> lesen, um Ihre Importdatei besser zu strukturieren und es erneut zu versuchen.]]></item>

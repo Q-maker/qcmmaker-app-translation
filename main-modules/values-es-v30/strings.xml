@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE resources [<!ENTITY appname "Quiz Maker">]>
+<resources>
+    <string name="message_onboarding_present_for_request_permission"><![CDATA[QuizMaker es un administrador de "archivos de cuestionarios", que le permite reproducir, editar y compartir cuestionarios como simples archivos *.qcm.<br/><br/>Listo? Para que QuizMaker detecte, enumere, crear, edite y administre archivos de cuestionarios en su dispositivo móvil, debe otorgar el permiso de administración de almacenamiento a la aplicación. <a href=\"#more_about\">Haga clic aquí</a> si desea obtener más información.]]></string>
+    <string name="title_storage_permission_needed">Se requiere permiso de administración de almacenamiento.</string>
+    <string name="empty_storage_scan_qcm_file_need_permission"><![CDATA[No se puede explorar su memoria de almacenamiento para encontrar todos los archivos \'*.qcm\' disponibles en su unidad de almacenamiento. <a href="#refresh">Permita</a> el permiso de administración de almacenamiento para permitir que ]]>&appname;<![CDATA[ los enumere y administre todos; si hay alguno.]]></string>
+</resources>

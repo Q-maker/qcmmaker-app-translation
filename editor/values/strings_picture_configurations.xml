@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="txt_layout">Layout</string>
+    <string name="action_center_crop">Center crop</string>
+    <string name="action_center_inside">Center inside</string>
+    <string name="action_center_content">Center content</string>
+    <string name="action_fit_center">Fit to center</string>
+    <string name="action_fit_start">Fit to left</string>
+    <string name="action_fit_end">Fit to right</string>
+    <string name="action_fit_xy">Fit to frame</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE resources [<!ENTITY appname "QcmMaker">]>
+<resources>
+    <string name="message_onboarding_present_for_request_permission"><![CDATA[QcmMaker est un gestionnaire de « fichiers de quiz », qui vous permet de lire, d\'éditer et de partager des quiz sous forme de simple fichiers au format *.qcm.<br/><br/>Prêt? Afin de permettre à QcmMaker de détecter, répertorier, créer, modifier et gérer les fichiers de quiz sur votre appareil mobile, vous devez accorder l\'autorisation de gestion du stockage à l\'application.  <a href=\"#more_about\">Cliquez ici</a> si vous souhaitez en savoir plus.]]></string>
+    <string name="title_storage_permission_needed">Autorisation de gestion du stockage requise.</string>
+    <string name="empty_storage_scan_qcm_file_need_permission"><![CDATA[Impossible de parcourir votre mémoire de stockage pour rechercher tous les fichiers \'*.qcm\' disponibles sur votre disque de stockage. <a href="#refresh">Autorisez</a> la permission de gestion du stockage pour permettre à ]]>&appname;<![CDATA[ de les répertorier et de tous les gérer ; s\'il y en existe.]]></string>
+</resources>

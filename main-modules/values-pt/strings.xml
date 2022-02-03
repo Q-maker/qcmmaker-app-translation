@@ -20,6 +20,7 @@
     <string name="title_file_delete">Excluindo arquivo</string>
     <string name="empty_project_qcm"><![CDATA[Você não tem um projeto de questionário atualmente. No entanto, você pode <a href="projectPage">criar um!</a>]]></string>
     <string name="empty_storage_qcm_file"><![CDATA[Você não possui nenhum arquivo de exame/questionário em seu armazenamento móvel. Você pode <a href="projectPage">criar um</a> ou adicionar um arquivo \'*.qcm\' à memória de armazenamento e prosseguir para uma <a href="#refresh">atualização</a>.]]></string>
+    <string name="empty_storage_scan_qcm_file_need_define_workspace_directory"><![CDATA[You do not have any questionnaire files in your mobile storage.You can <a href="projectPage">create one</a> or add a \'*.qcm\' file to your storage memory and proceed to a <a href="#refresh">refresh</a>.]]></string>
     <string name="empty_storage_scan_qcm_file_need_permission"><![CDATA[Não é possível navegar na memória de armazenamento para procurar arquivos \'* .qcm\'. <a href="#refresh">Aceite permissões</a> para permitir que o ]]>&appname;<![CDATA[ liste todo o arquivo de questionário disponível em seu disco.]]></string>
     <string name="title_activity_about">&appname;</string>
     <string name="title_activity_profile">Perfil</string>
@@ -79,7 +80,7 @@
     <string name="prompt_enter_some_subject_title">Insira o nome de um tópico.</string>
     <!--TODO retirer le string ci dessous si non utilisé a terme-->
     <string name="prompt_enter_subject_description">Insira uma descrição para o seu tópico.</string>
-    <string name="txt_enter_subject_description">Insira uma descrição para este tópico do questionário para explicar por que ele é.</string>
+    <string name="txt_enter_subject_description">Insira uma descrição para este nível de conhecimento para explicar o que é.</string>
     <string name="txt_enter_knowledge_level_description">Insira uma descrição para este nível de conhecimento para explicar o que é.</string>
     <!--TODO retirer le string ci dessous si non utilisé a terme-->
     <string name="prompt_enter_knowledge_level_description">Insira uma descrição para este nível de conhecimento</string>
@@ -128,7 +129,7 @@
     <string name="message_project_deleted_successfully">Projeto excluído</string>
     <string name="message_caution_delete_project">Deseja excluir o projeto: \'%s\'</string>
     <string name="message_file_deleted_successfully">Arquivo excluído</string>
-    <string name="message_error_delete_file">Erro ao excluir o arquivo \'%s\'. Você pode excluí-lo manualmente do voto no disco para a localização:\n\n%s</string>
+    <string name="message_error_delete_file">Erro ao excluir o arquivo \'%s\'. Você pode excluí-lo manualmente do seu disco a partir da localização\n\n%s</string>
 
     <string name="title_new_project">Novo projeto</string>
     <string name="prompt_project_name">Nome do Projeto</string>
@@ -139,6 +140,7 @@
     <string name="message_error_renaming_project">Erro ao renomear o projeto "%s" para: "%s"</string>
     <string name="title_activity_cgu">TOS &appname;</string>
     <string name="txt_cgu">TOS</string>
+    <string name="txt_option_cgu_and_privacy"><![CDATA[TOS & privacy]]></string>
     <string name="message_notify_that_you_understand">Por favor, clique em [eu entendo]</string>
     <string name="title_contact_us">Contate-Nos</string>
     <string name="title_my_questionnaires">Questionários</string>
@@ -213,7 +215,7 @@
     <string name="message_editable_created">Um editável foi criado para este questionário e agora está disponível no seu espaço "CREATION". Você pode acessá-lo agora mesmo para começar a editar.</string>
     <string name="action_not_now">Agora não</string>
     <string name="message_enter_editable_new_name">Dê um nome ao editável para criar em seu espaço "CREATION".</string>
-    <string name="message_error_copying_qcmfile">Erro inesperado durante a cópia do arquivo de questionário "%s" ; o arquivo não pode ser copiado.</string>
+    <string name="message_error_copying_qcmfile">Erro inesperado durante a cópia do arquivo de questionário "%s"; o arquivo não pode ser copiado.</string>
     <string name="title_qcmfile_copied">Arquivo copiado</string>
     <string name="message_qcmfile_copied">Uma cópia foi criada para este arquivo de questionário e agora está disponível no espaço "QUESTIONNAIRES". Você pode acessá-lo agora.</string>
     <string name="title_save_a_copy">@string/title_save_qcm_file</string>
@@ -236,7 +238,7 @@
     <string name="message_global_scan_processing">Pesquise todos os arquivos qcm no seu disco.\nDigitalização em andamento, pode demorar alguns minutos...</string>
     <string name="message_global_scan_no_news">Nenhum novo arquivo detectado.</string>
     <string name="action_property">Propriedades</string>
-    <string name="txt_phone_memory">Memória do telefone</string>
+    <string name="txt_phone_memory">Telefone</string>
     <string name="txt_file_property_size">Tamanho</string>
     <string name="txt_file_property_name">Nome</string>
     <string name="txt_file_property_dir">Diretório</string>
@@ -249,11 +251,13 @@
     <string name="title_onboarding_invite_to_create">Uma carona para o editor de questionários?</string>
     <string name="message_onboarding_invite_to_create">Descubra seu espaço de "criação" e edite seu primeiro quiz-questionário...</string>
     <string name="title_onboarding_present_for_request_permission">Espace meus questionários</string>
+    <string name = "title_onboarding_present_for_request_permission_single_workspace"> Este é o seu espaço de trabalho</string>
     <string name="message_onboarding_present_for_request_permission">&appname; é um leitor e editor de "arquivo de questionário".\n\nPara detectar e listar arquivos de questionário no seu dispositivo móvel, você deve conceder permissão de leitura de armazenamento ao aplicativo.</string>
     <string name="title_onboarding_present_creation_space">Espaço de criação</string>
     <string name="message_onboarding_present_creation_space">Além de ser um leitor de arquivo com extensão \'qcm\', o &appname;
         também permite editar \'arquivo de questionário\'.\n\nNesta guia, você encontrará todas as suas criações, todos os seus questionários editados; você poderá visualizar, modificar e compartilhá-los.</string>
-    <string name="title_onboarding_invite_create_your_first_qp">Crie seu próprio questionário</string>
+    <string name="title_onboarding_invite_create_your_own_qp">Crie seu próprio questionário</string>
+    <string name="title_onboarding_invite_create_your_first_qp">Crie seu 1º quiz! vamos?</string>
     <string name="message_onboarding_invite_create_your_first_qp">Crie seu 1º quiz! vamos?</string>
     <string name="title_clear_all">Suprimir tudo</string>
     <string name="message_pending_qcms_deletion">Suprimindo perguntas e respostas. Clique para desfazer.</string>
@@ -290,6 +294,7 @@
     <string name="message_waring_interpreter_old_version_cant_read">O interpretador de arquivo *.qcm usado é obsoleto. Algumas propriedades e recursos não são mais compatíveis.\n\nAtualize seu aplicativo para aproveitar os novos recursos</string>
     <string name="message_do_not_display_anymore">Não exibir mais</string>
     <string name="message_do_not_display_this_message_anymore">Não exibir mais</string>
+    <string name="message_understood_do_not_display_this_message_anymore">Eu entendi; por favor, não exiba mais</string>
     <string name="message_do_not_display_anymore_for_this_qp">Não mostrar novamente para este quiz</string>
     <string name="title_email_us_for_improve">O que você gostaria de ver disponível no aplicativo?</string>
     <string name="message_email_us_for_improve">Por favor, envie um email. A maioria dos recursos disponíveis no momento é resultado de sugestões de usuários como você.\nTeremos o maior prazer em ler você 🙂</string>
@@ -353,7 +358,9 @@
     <string name="title_onboarding_profile_return_to_my_space">Você concluiu suas alterações?</string>
     <string name="message_onboarding_profile_return_to_my_space">Quando terminar as alterações, retorne ao espaço de questionários e criações clicando aqui.</string>
     <string name="title_onboarding_profile_ready">Seu perfil de autor está pronto!</string>
-    <string name="message_onboarding_profile_ready">Ótimo, seu perfil de autor está pronto. Os arquivos compartilháveis * .qcm que você criará agora terão a menção de autoria: {criada por %1$s}. Se você já criou arquivos de questionário (*.qcm) que deseja atualizar com sua nova assinatura; exporte-os novamente como arquivo *.qcm.\n\nA assinatura será feita automaticamente.</string>
+    <string name="message_onboarding_profile_ready">Ótimo, seu perfil de autor está pronto. Os arquivos compartilháveis * .qcm que você criará agora terão a menção de autoria: {criada por %1$s}. Se você já criou arquivos de questionário (*.qcm) que deseja atualizar com sua nova assinatura; %2$s.\n\nA assinatura será feita automaticamente.</string>
+    <string name="message_onboarding_profile_ready_action_export_again">exporte-os novamente como arquivo *.qcm</string>
+    <string name="message_onboarding_profile_ready_action_modify">apenas aplique qualquer modificação nele e salve seu trabalho</string>
     <string name="txt_dated_at">Em</string>
     <string name="title_author_and_contributors">Autor e colaboradores</string>
     <string name="txt_contribution">Contribuição</string>
@@ -398,6 +405,7 @@
     <string name="message_onboarding_project_overview_ending_create_first_qa">Quando estiver pronto, clique no botão EDITAR para criar suas primeiras perguntas e respostas.</string>
     <string name="message_onboarding_project_overview_ending_continue_qa_edit">Quando estiver pronto, clique no botão EDITAR para editar suas perguntas e respostas.</string>
     <string name="action_ready_letsgo">Vamos</string>
+    <string name="action_ready_letsgo_interrogative">Preparar?</string>
     <string name="title_good_to_know">Bom saber</string>
     <string name="txt_no_description_for_questionnaire">Nenhuma descrição definida para este questionário.</string>
     <string name="message_dialog_edit_protected">A modificação deste questionário é bloqueada por senha.</string>
@@ -409,7 +417,7 @@
     <string name="message_android_v_obsolete_can_not_play_sound_inside">O quiz selecionado contém áudios que não podem ser reproduzidos no seu dispositivo porque a versão do Android que você está usando é muito antiga.\n\nAtualize seu sistema para Android-5 ou superior para obter uma experiência melhor.</string>
     <string name="txt_editing_password_locked">Bloquear edição</string>
     <string name="message_dialog_protect_editing">Digite a senha de bloqueio que outros usuários precisarão inserir antes de poderem editar sua criação.</string>
-    <string name="txt_qcm_conf_protect_editing">Define se a edição do seu criativo será protegida por senha ou não, para que somente aqueles que conhecem essa senha possam editar sua criação.</string>
+    <string name="txt_qcm_conf_protect_editing">Define se a edição de sua criação; uma vez compartilhado como arquivo portátil e compartilhável com extensão *.qcm; será protegido por senha para que apenas aqueles que conheçam essa senha tenham permissão para editar sua criação.\n\nNa verdade, você pode compartilhar suas criações como um arquivo portátil e compartilhável com extensão *.qcm; entretanto, qualquer outro usuário poderá modificá-lo, a menos que esteja bloqueado na edição com uma senha.</string>
     <string name="txt_web_site">Web site</string>
     <string name="txt_enter_your_web_site">Digite o endereço do seu WebSite</string>
     <string name="message_route_not_supported">Erro ao abrir este recurso.</string>
@@ -536,9 +544,9 @@
     <string name="message_onboarding_test_correction_dashboard"><![CDATA[Durante a correção, esta página fornece uma visão geral das respostas certas e erradas:<br/><br/><font color="#48a459">Verde:</font><br/>você selecionou todas as respostas certas.<br/><br/><font color="#E53935">Vermelho:</font><br/>você não selecionou nenhuma resposta correta.<br/><br/><font color="#c6802a">Laranja:</font><br/>você selecionou algumas respostas corretas, mas não todas.]]></string>
     <string name="text_app_update_preparing">Preparando a atualização %1$s</string>
     <string name="message_onboarding_test_correction_last_exercise">Ao clicar aqui, você poderá sair do modo \'correção\' e revisar sua pontuação.</string>
-    <string name="action_open_editor">Editor aberto</string>
+    <string name="action_open_editor">Abra o editor.</string>
     <string name="message_error_no_app_found_to_handle_operation">Desculpe, não foram encontrados aplicativos para suportar esta operação no seu sistema.</string>
-    <string name="action_start">Commencer</string>
+    <string name="action_start">Iniciar</string>
     <string name="title_warning_features_missing">Recursos ausentes!</string>
     <string name="text_high_level">Alto nível</string>
     <string name="text_low_level">Nível baixo</string>
@@ -610,4 +618,40 @@
     <string name="message_error_while_multiple_sharing">Desculpe, ocorreu um erro inesperado ao compartilhar seus arquivos qcm selecionados. Por favor, tente compartilhá-los manualmente um por um.</string>
     <string name="message_pls_wait_a_little_bit_more">Mais um pouco...</string>
     <string name="action_select_one">Selecione um</string>
+    <string name="action_use">Usar</string>
+    <string name="message_warning_filename_conflict">Já existe um arquivo * .qcm com o mesmo nome no diretório pai.</string>
+    <string name="message_onboarding_welcome_v2_error_demo_deploying">Ocorreu um erro inesperado ao implantar o teste de demonstração. Ao pular esta etapa, você não poderá ter o questionário de demonstração disponível em sua área de trabalho nem ter uma primeira visão geral de como se parece um questionário sem ter que criar um por conta própria.</string>
+    <string name="message_onboarding_welcome_v2_error_processing_step">Ocorreu um erro inesperado ao processar a visita guiada. Você pode optar por pular a visita guiada e continuar ou tentar novamente e reiniciar a visita guiada.</string>
+    <string name="message_caution_edit_read_only_storage_file_location">Parece que o questionário selecionado está localizado em um disco de armazenamento removível.\n\nPor motivos de segurança, o aplicativo QuizMaker não pode editar diretamente um questionário de um disco de armazenamento removível em sua versão do Android.\n\nVocê pode fechar esta caixa de diálogo e mover manualmente o arquivo correspondente em seu disco de armazenamento primário (memória do telefone) usando qualquer explorador de arquivos de sua escolha ou optar por fazer uma cópia editável deste questionário em seu armazenamento primário.</string>
+    <string name="title_caution_edit_read_only_storage_file_location">Cuidado, disco removível!</string>
+    <string name="menu_other_apps"><![CDATA[Apps e extensões]]></string>
+    <string name="text_remember_it">Lembre-se disso para mim.</string>
+    <string name="text_simple_remember_the_word_for_me">Por favor, lembre-se desta palavra para mim.</string>
+    <string name="text_remember_the_word_for_me">Por favor, lembre-se desta palavra para mim, para que eu não tenha que digitá-la todas as vezes.</string>
+    <string name="txt_click_here_if_willing_to_know_more_about"><![CDATA[<a href=\"#more_about\">Click here</a> if you are willing to know more about.]]></string>
+    <string name="title_storage_permission_needed">É necessária permissão de acesso ao armazenamento.</string>
+    <string name="action_grant_permission">Conceder permissão</string>
+    <string name="action_i_am_ready">Estou pronto</string>
+    <string name="message_added_x">Added: %1$s</string>
+    <string name="message_opening_x">Opening: %1$s</string>
+    <string name="message_directory_already_handled">Directory already handled</string>
+    <string name="message_indexing_selected_directory">Indexing selected directory</string>
+    <string name="message_onboarding_workspace_options_menu">Clique aqui para abrir o menu de opções do seu espaço de trabalho que permitirá que você crie seu próprio questionário e até mesmo para adicionar novos arquivos de questionário ao seu espaço de trabalho.</string>
+    <string name="action_create_workspace_directory">Create working directory</string>
+    <string name="action_define_workspace_directory">Define working directory</string>
+    <string name="action_select_workspace_directory">Select working directory</string>
+    <string name="title_workspace_initialization_needed">Initialize your workspace</string>
+    <string name="action_create_new_project">Crie um novo projeto</string>
+    <string name="action_open_qcm_file_from_explorer">Abra um arquivo *.qcm no explorer</string>
+    <string name="action_add_directory_to_workspace">Adicione um diretório ao espaço de trabalho</string>
+    <string name="title_locale_file">Locale file</string>
+    <string name="action_select_location">Select location</string>
+    <string name="action_choose_location">Select directory</string>
+    <string name="title_other_location">Other location</string>
+    <string name="title_other_directory">Other directory</string>
+    <string name="action_open_explorer">Abrir explorador</string>
+    <string name="action_retry">Tente novamente</string>
+    <string name="message_project_created_at_location">Project created at location: %1$s</string>
+    <string name="message_error_new_quiz_file_conflict">A quiz file with the same name already exists at this location. please change the name label and try again</string>
+    <string name="message_onboarding_present_for_request_workspace_initialization">&appname; <![CDATA[allows you to play, read, edit and share quizzes as simple portable and shareable files in *.qcm format.<br/><br/>Ready? In order to initialize you workspace and thus start creating, listing and manage quiz files on your mobile device, you must select a file directoy that will be used as root of your workspace to store and list your future quiz creations. <a href=\"#more_about\">Click here</a> if you are willing to know more about.]]></string>
 </resources>

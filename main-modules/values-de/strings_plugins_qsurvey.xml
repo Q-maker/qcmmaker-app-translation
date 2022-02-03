@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?><!DOCTYPE resources [<!ENTITY qsurvey_tos_uri "qcmmakerstd://activities/MarkdownActivity#https://qcmmaker.qmakertech.com/documentations/advantages-qcmmaker-pro/body-de.md">]>
-<resources>
+<resources><!--    Deutch activated-->
     <string name="txt_notify_read_and_agree_quiz_result_collect_terms_of_use"><![CDATA[Ich habe die <a href=\']]>&qsurvey_tos_uri;<![CDATA[\'>Nutzungsbedingungen</a> für diesen Fragebogen <a href=\']]>&qsurvey_tos_uri;<![CDATA[\'>gelesen</a> und akzeptiert, wie <a href=\']]>&qsurvey_tos_uri;<![CDATA[\'>hier</a> erläutert.]]></string>
     <string name="title_qsurvey_test_initialization">Initialisierung des Tests!</string>
     <string name="message_warning_qsurvey_remote_result_collection_enable">Dieser Fragebogen bietet die Funktionalität, Ergebnisse aus der Ferne zu erfassen. Daher werden Ihre Ergebnisse an den Autor dieses Fragebogens gesendet.</string>

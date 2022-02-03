@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
+<resources><!--    Deutch activated-->
     <string name="message_single_screen_migration_all_project_done">Alle Ihre Quizprojekte (also insgesamt %1$d) wurden erfolgreich migriert. Sie finden sie nun in Form von QCM-Dateien in Ihrem neuen Arbeitsbereich.</string>
     <string name="message_single_screen_migration_all_project_partially_done">Einige Ihrer Quizprojekte wurden erfolgreich in Ihren neuen Arbeitsbereich migriert. dh insgesamt %1$d. Bei einigen Elementen traten jedoch während der Migration Probleme auf (dh %2$d Migrationsfehler).</string>
     <string name="message_single_screen_migration_all_project_full_failure">Hoppla, leider konnte aufgrund eines unerwarteten Fehlers keines Ihrer Quizprojekte in Ihren neuen Arbeitsbereich migriert werden. Also insgesamt %1$d Projekt(e) insgesamt.</string>

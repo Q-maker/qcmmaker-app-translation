@@ -8,12 +8,29 @@
     <string name="txt_quit">Deixar</string>
     <string name="txt_yes">Sim</string>
     <string name="txt_no">Não</string>
-    <string name="mark_policy_all_or_minus">Encontre todas as respostas para uma pergunta e ganhe %1$s ponto. Uma única resposta errada subtrai %2$s ponto.</string>
+    <string name="mark_policy_all_or_minus">Encontre todas as respostas para uma pergunta e ganhe %1$s ponto. Uma única resposta falsa cancela suas respostas corretas e %2$s ponto será subtraído à sua pontuação.</string>
     <string name="mark_policy_all_or_nothing">Encontre todas as respostas para uma pergunta e ganhe %1$s ponto. Uma resposta errada cancela todos os pontos relacionados a essa questão.</string>
     <string name="mark_policy_success_plus__annul_on_error">Cada resposta verdadeira adiciona %1$s ponto. Apenas uma resposta errada e todos os pontos relacionados a esta questão são cancelados.</string>
     <string name="mark_policy_one_per_success"><![CDATA[Cada resposta verdadeira adiciona %1$s ponto.]]></string>
     <string name="mark_policy_success_plus__fail_annul_and_minus"><![CDATA[Cada resposta verdadeira adiciona %1$s ponto. Uma única resposta falsa cancela suas respostas corretas e %2$s ponto será subtraído à sua pontuação.]]></string>
     <string name="mark_policy_success_plus__minus_on_error"><![CDATA[Cada resposta verdadeira adiciona %1$s ponto. Cada resposta falsa subtrai %2$s ponto em todos os pontos obtidos]]></string>
+    <string name="text_null_or_one_point">%1$s ponto</string>
+    <string name="text_multiple_points">%1$s pontos</string>
+    <string name="mark_policy_find_all_to_earn">Encontre todas as respostas para uma pergunta e ganhe %1$s.</string>
+    <string name="mark_policy_single_mistake_deduce">Uma única resposta errada subtrai %1$s.</string>
+    <string name="mark_policy_mistake_cancel_earnings">Uma resposta errada cancela todos os pontos relacionados a esta pergunta.</string>
+    <string name="mark_policy_single_mistake_cancel_earnings">Uma única resposta errada e todos os pontos relacionados a esta questão são cancelados.</string>
+    <string name="mark_policy_find_each_to_earn">Cada boa resposta adiciona %1$s.</string>
+    <string name="mark_policy_single_mistake_cancel_and_deduces">Uma única resposta errada cancela suas respostas corretas e %1$s será deduzido à sua pontuação.</string>
+    <string name="mark_policy_each_mistake_deduces">Cada resposta errada deduz %1$s em todos os pontos obtidos.</string>
+    <string name="title_mark_policy_point_empty_answer">%1$s quando não há resposta a uma questão consultada pelo menos uma vez.</string>
+    <string name="mark_policy_warning_negative_scoring_allowed">Pontuação final negativa possível.</string>
+    <string name="title_mark_policy_all_or_minus">Tudo ou nada - penalidade (+%1$s/-%2$s)</string>
+    <string name="title_mark_policy_all_or_nothing">Tudo ou nada (+%1$s/0)</string>
+    <string name="title_mark_policy_success_plus__annul_on_error">+%1$s por sucesso ou nada</string>
+    <string name="title_mark_policy_one_per_success">+%1$s por sucesso</string>
+    <string name="title_mark_policy_success_plus__fail_annul_and_minus">+%1$s por sucesso ou -%2$s</string>
+    <string name="title_mark_policy_success_plus__minus_on_error">+%1$s ou -%2$s por respostas</string>
     <string name="action_choice_true">Sim</string>
     <string name="action_choice_false">Não</string>
     <string name="action_choice_partial">Partial</string>
@@ -30,7 +47,7 @@
     <string name="action_close">Feche</string>
     <string name="action_continue">Continuar</string>
     <string name="action_undo">Desfazer</string>
-    <string name="action_open">Abra</string>
+    <string name="action_open">Abrir</string>
     <string name="action_share">Compartilhar</string>
     <string name="action_delete">Suprimir</string>
     <string name="action_score">Pontuação total</string>
@@ -93,7 +110,7 @@
         <item>francês, FR</item>
         <item>Português, PT</item>
     </string-array>
-    <string name="action_skip">Skip</string>
+    <string name="action_skip">Pular</string>
     <string name="action_submit">Eviar</string>
     <string name="txt_qcm_conf_play_mod_supported">Modo de leitura suportado</string>
     <string name="txt_loading">Carregando...</string>
@@ -122,4 +139,6 @@
     <string name="hint_page_fast_travel">Digite o número da página...</string>
     <string name="message_error_empty_input">Desculpe, este valor não pode estar vazio.</string>
     <string name="message_last_page_reached">Última página alcançada</string>
+    <string name="message_turn_on_to_enable_storage_management">Ligue a chave para habilitar a autorização de gerenciamento de armazenamento.</string>
+    <string name="message_sharing_multiple_quiz_files">Condivisione di %1$d file di quiz da aprire utilizzando le app %2$s</string>
 </resources>

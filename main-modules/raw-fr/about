@@ -1,0 +1,89 @@
+<html>
+<header>
+<meta charset="utf-8"/>
+</header>
+<body>
+<h1>A-Propos</h1>
+<p>
+$appname est une Application Mobile qui permet de jouer, de créer et de partager des questionnaires de façon simple et intuitive.
+L'application $appname offre les possibilités de:
+</p>
+&#x20;
+<p>
+<b>-Créer:</b>
+<br/>
+<br/>
+	  •des questions à choix multiples<br/>
+	  •des questions à réponse unique<br/>
+	  •des questions à réponse ouverte<br/>
+</p>
+
+<p>
+<ul>
+<b>-Partager</b> vos créations facilement sous forme de simples fichiers d'extensions *.qcm<br/><br/>
+</ul>
+</p>
+
+<p>
+<ul>
+<b>-Recevoir</b> et de jouer des questionnaires téléchargés ou reçus de vos contacts à partir d'un simple fichier.
+</ul>
+</p>
+<br/><br/>
+<p>
+<b>C'est quoi un fichier *.qcm?</b>
+<br/>
+•Le fichier Qcm est un format de fichier qui vise à prendre en charge les quiz interactifs, comportant des images et des sons avec une notation automatique.
+<br/>
+•Un fichier Qcm est un fichier compressé qui contient en son sein un ensemble de questions, de propositions et de réponses.
+<br/>
+•La structure des fichiers *.qcm permet d'embarquer entre autre des contenus multimédias tels que des images et des sons.
+<br/>
+•Chaque fichier *.qcm est structuré de telle sorte à être interprété automatiquement par toute application compatible.
+</p>
+<br/>
+<b>Par conséquent</b>; Une fois que vous partagez un quiz au format de <b>fichier QCM</b> portable et partageable, le récepteur doit avoir installé l'application $appname ou au moins un lecteur de fichier QCM compatible pour le lire et le jouer.
+En effet, le format de fichier QCM est comme tout autre format de fichier, il a besoin d'un lecteur compatible pour être lu et interprété.
+<br/>
+Par exemple, tout comme vous avez besoin de MSWord pour lire un fichier DOC, MSExcel pour fichier XLS ou même un lecteur PDF pour lire un fichier PDF, vous avez également besoin d'un lecteur de fichier QCM pour lire les fichiers au format <b>QCM</b>; comme le fait <b>cette application</b> et toutes les applications compatible avec les technologies <b>Q-maker</b>.
+<br/>
+
+<p>
+<br/>
+<p>
+<b>Ainsi,</b> l'application $appname vous permet de lire, créer, éditer, partager, répertorier et gérer tous les fichiers de quiz disponibles sur le disque de stockage de votre appareil. Il vous offre des méthodes simples et faciles pour lire, éditer et modifier les questionnaires reçus ou créés disponibles sous forme de fichiers <b>QCM</b> directement à partir du disque de stockage de votre appareil.
+<br/>
+<br/>
+<b>En effet,</b> pendant l'édition, les fichiers de quiz créés via cette application restent privés sur votre disque de stockage et ne sont jamais copiés nulle part, même pas sur notre propre serveur Web jusqu'à ce que ou à moins que vous ne décidiez <b>par vous-même</b> de partagez ces questionnaires avec un tiers sous forme de fichiers <b>QCM</b> portables et partageables.
+</p>
+</p>
+
+<p>
+<br/>
+<p>
+<b>Encore une chose;</b> veuillez noter que les quiz créés à partir de $appname sont conçus pour prendre en charge <b>l'auto-évaluation</b> et les <b>jeux</b> de divertissement afin que vous puissiez créer, jouer et partager des quiz qui visent à vous <b>entraîner</b>, à entraîner quelqu'un d'autre, à <b>mémoriser</b> des connaissances, utiliser comme support de <b>révision</b> ou simplement à les utiliser comme <b>jeu</b> de quiz (jeu-questionnaire ) avec un contenu divertissant.
+</p>
+</p>
+<br/>
+<p>
+Avec <b>$appname</b>, jouez, créez et partagez des Questionnaires aisément. <font color="#48a459">🙂</font>
+</p>
+
+<p>
+<b>Contact:</b>
+<br/>
+Having any question; needing help or enlightening, feel free to contact us.
+<br/>
+•Email: <a href="mailto:qcmmakerapp@gmail.com">qcmmakerapp@gmail.com</a></font>
+<br/>
+•Facebook: <a href="http://fb.me/QcmMaker">fb.me/QcmMaker</a>
+</br>
+<br/>
+•Google Play: <a href="https://play.google.com/store/apps/details?id=com.devup.qcm.maker">$appname</a>
+<br/>
+<br/>
+<b>Note:</b>
+<br/>
+Qcm Maker est une application compatible avec les solutions et les structures de fichier "Q-maker"
+</body>
+</html>

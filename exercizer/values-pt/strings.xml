@@ -56,4 +56,7 @@
     <string name="message_test_session_expired">Parece que você saiu do teste por muito tempo. Sua sessão de teste expirou. Saia e inicie uma nova sessão de teste se estiver pronto para jogar novamente.</string>
     <string name="action_resume_test">Retomar o teste</string>
     <string name="message_test_interrupted_ready_to_resume">Seu jogo de perguntas atual foi temporariamente pausado. Agora está pronto para ser retomado. Clique quando estiver pronto para começar.</string>
+    <string name="message_error_copy_sheet_to_restore_unreadable">Unable to restore the test at its last state. The submitted copysheet is unreadable or corrupted.</string>
+    <string name="action_view_correction">Ver correção</string>
+    <string name="action_view_score">Ver pontuação</string>
 </resources>

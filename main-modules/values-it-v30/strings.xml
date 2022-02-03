@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE resources [<!ENTITY appname "Quiz Maker">]>
+<resources>
+    <string name="message_onboarding_present_for_request_permission"><![CDATA[QuizMaker è un gestore di "file di quiz", che consente di riprodurre, modificare e condividere i quiz come semplici file *.qcm.<br/><br/>Pronto?, Affinché QuizMaker possa rilevare, elencare, creare, modificare e gestire i file dei quiz sul dispositivo mobile, è necessario concedere all\'app l\'autorizzazione alla gestione dell\'archiviazione. <a href=\"#more_about\">Fai clic qui</a> se desideri saperne di più.]]></string>
+    <string name="title_storage_permission_needed">È richiesta l\'autorizzazione alla gestione dell\'archiviazione.</string>
+    <string name="empty_storage_scan_qcm_file_need_permission"><![CDATA[Impossibile esplorare la memoria di archiviazione per trovare tutti i file "*.qcm" disponibili sull\'unità di archiviazione. per favore <a href="#refresh">Consenti</a> l\'autorizzazione alla gestione dell\'archiviazione per consentire a ]]>&appname;<![CDATA[ di elencarli e gestirli tutti; Se ce ne sono.]]></string>
+</resources>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="message_warning_cant_be_empty">Kann nicht leer sein</string>
+    <string name="message_warning_should_be_greater_than_zero">sollte größer als Null sein</string>
+</resources>

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE resources [<!ENTITY appname "Quiz Maker">]>
+<resources>
+    <string name="action_search">Suche</string>
+    <string name="txt_sure_to_exit_test">Sie sind im Begriff, den aktuellen Test abzubrechen. Jeder Fortschritt geht verloren; möchtest du fortfahren?</string>
+    <string name="txt_sure_to_exit_exercise_activity">Sie sind dabei, Ihren Test aufzugeben; Möchtest du fortfahren?</string>
+    <string name="txt_corrected">Richtig</string>
+    <string name="txt_replay">Wiedergabe</string>
+    <string name="txt_quit">Verlassen</string>
+    <string name="txt_yes">Ja</string>
+    <string name="txt_no">Nein</string>
+    <string name="mark_policy_all_or_minus">Finden Sie alle Antworten auf eine Frage und verdienen Sie %1$s Punkt. Eine einzige falsche Antwort hebt Ihre richtigen Antworten auf und %2$s Punkt wird von Ihrer Punktzahl abgezogen.</string>
+    <string name="mark_policy_all_or_nothing">Finden Sie alle Antworten auf eine Frage und verdienen Sie %1$s Punkt. Eine falsche Antwort hebt alle Punkte im Zusammenhang mit dieser Frage auf.</string>
+    <string name="mark_policy_success_plus__annul_on_error">Jede wahre Antwort fügt %1$s Punkt hinzu. Eine einzige falsche Antwort und alle Punkte im Zusammenhang mit dieser Frage werden gestrichen.</string>
+    <string name="mark_policy_one_per_success"><![CDATA[Jede wahre Antwort fügt %1$s Punkt hinzu.]]></string>
+    <string name="mark_policy_success_plus__fail_annul_and_minus"><![CDATA[Jede wahre Antwort fügt %1$s Punkt hinzu. Eine einzige falsche Antwort annulliert Ihre richtigen Antworten und %2$s Punkt wird von Ihrer Punktzahl abgezogen.]]></string>
+    <string name="mark_policy_success_plus__minus_on_error"><![CDATA[Jede wahre Antwort fügt %1$s Punkt hinzu. Jede falsche Antwort gibt %2$s Punkt auf alle erhaltenen Punkte ab]]></string>
+    <string name="text_null_or_one_point">%1$s Punkt</string>
+    <string name="text_multiple_points">%1$s Punkte</string>
+    <string name="mark_policy_find_all_to_earn">Finden Sie alle Antworten auf eine Frage und verdienen Sie %1$s.</string>
+    <string name="mark_policy_single_mistake_deduce">Eine einzige falsche Antwort zieht %1$s ab.</string>
+    <string name="mark_policy_mistake_cancel_earnings">Eine falsche Antwort hebt alle Punkte im Zusammenhang mit dieser Frage auf.</string>
+    <string name="mark_policy_single_mistake_cancel_earnings">Eine einzige falsche Antwort und alle Punkte im Zusammenhang mit dieser Frage werden gestrichen.</string>
+    <string name="mark_policy_find_each_to_earn">Jede gute Antwort addiert %1$s.</string>
+    <string name="mark_policy_single_mistake_cancel_and_deduces">Eine einzige falsche Antwort hebt Ihre richtigen Antworten auf und %1$s wird von Ihrer Punktzahl abgezogen.</string>
+    <string name="mark_policy_each_mistake_deduces">Jede falsche Antwort zieht %1$s auf alle erhaltenen Punkte ab.</string>
+    <string name="title_mark_policy_point_empty_answer">%1$s wenn auf eine Frage, die mindestens einmal konsultiert wurde, keine Antwort gegeben wurde.</string>
+    <string name="mark_policy_warning_negative_scoring_allowed">Negatives Endergebnis möglich.</string>
+    <string name="title_mark_policy_all_or_minus">Alles oder nichts -Strafe (+%1$s/-%2$s)</string>
+    <string name="title_mark_policy_all_or_nothing">Alles oder nichts (+%1$s/0)</string>
+    <string name="title_mark_policy_success_plus__annul_on_error">+%1$s pro Erfolg oder nichts</string>
+    <string name="title_mark_policy_one_per_success">+%1$s pro Erfolg</string>
+    <string name="title_mark_policy_success_plus__fail_annul_and_minus">+%1$s pro Erfolgs order -%2$s</string>
+    <string name="title_mark_policy_success_plus__minus_on_error">+%1$s oder -%2$s pro Antwort</string>
+    <string name="action_choice_true">Ja</string>
+    <string name="action_choice_false">Nein</string>
+    <string name="action_choice_partial">Teilweise</string>
+    <string name="txt_error">Fehler</string>
+    <string name="txt_ok">Okay</string>
+    <string name="txt_undo">Rückgängig machen</string>
+    <string name="message_error_qpackage_questionnaire_unreadable">Dieser Fragebogen kann leider nicht gelesen werden.</string>
+    <string name="txt_subject_undefined_title">Betreff noch nicht definiert</string>
+    <string name="txt_subject_undefined_description">Es wurden noch keine Themen definiert</string>
+    <string name="message_error_no_qcm_def_found">Es wurde keine Frage und Antwort definiert.</string>
+    <string name="message_error_no_knowledge_level_def_found">Es wurde kein Wissensstand definiert.</string>
+    <string name="message_error_no_subject_def_found">Es wurde kein Thema definiert</string>
+    <string name="message_error_no_description_def_found">Es wurde keine Beschreibung des Fragebogens definiert.</string>
+    <string name="action_close">schließen</string>
+    <string name="action_continue">Weiter</string>
+    <string name="action_undo">Rückgängig machen</string>
+    <string name="action_open">Öffnen</string>
+    <string name="action_share">Teilen</string>
+    <string name="action_delete">Löschen</string>
+    <string name="action_score">Punktzahl</string>
+    <string name="message_error_no_marks_def_def_found">Keine Bewertungsrichtlinie definiert.</string>
+    <string name="message_error_proposition_no_label_def_found">Für das Angebot an Position \'%d\' in MCQ-Nummer \'%d\' wurde kein Label definiert</string>
+    <string name="message_error_question_no_label_def_found">Kein Fragenlabel für MCQ-Nummer \'%d\' definiert</string>
+    <string name="txt_quit_3dot">Verlassen...</string>
+    <string name="txt_arrow_quit">&lt; Verlassen</string>
+    <string name="txt_arrow_previous">&lt; Vorherige</string>
+    <string name="txt_arrow_forward_next">Nächste ></string>
+    <string name="txt_qcm_conf_q_total">Fragen insgesamt</string>
+    <string name="txt_qcm_conf_builder_version">Builder-Version</string>
+    <string name="txt_qcm_conf_code_version">Codeversion</string>
+    <string name="txt_qcm_conf_language">Sprache des Fragebogens</string>
+    <string name="txt_qcm_conf_duration">Dauer des Fragebogens</string>
+    <string name="txt_qcm_conf_random_enable">Zufallsmodus aktivieren</string>
+    <string name="txt_qcm_conf_q_per_session">Fragen pro Sitzung</string>
+    <string name="txt_qcm_conf_q_smart_choice">Intelligente Eingabe aktivieren</string>
+    <string name="message_error_qcm_no_valid_proposition_at_index">Für die MCQ-Nummer \'%d\' wurde kein gültiger Antwortvorschlag definiert.</string>
+    <string name="message_error_proposition_no_answer_found_at_index">Für die MCQ-Nummer \'%d\' wurde kein Vorschlag als wahr definiert.</string>
+    <string name="message_error_no_answer">Keine Antwort</string>
+    <string name="txt_duration_infinite">Endlos</string>
+    <string name="action_cancel">Abbrechen</string>
+    <string-array name="array_difficulty">
+        <item>Einfach</item>
+        <item>Normal</item>
+        <item>Schwierig</item>
+        <item>Experte</item>
+    </string-array>
+    <string name="action_save">Speichern</string>
+    <string name="action_explicit_add_photo">Bild hinzufügen</string>
+    <string name="message_add_photo_url">Bild von einem Weblink hinzufügen</string>
+    <string name="action_gallery">Galerie</string>
+    <string name="action_camera">Kamera</string>
+    <string name="prompt_add_photo_url">Geben Sie einen Weblink ein oder fügen Sie ihn ein...</string>
+    <string name="message_error_invalid_web_link">Der übermittelte Weblink ist ungültig.</string>
+    <string name="action_web_link">Weblink</string>
+    <string name="action_remove_photo">Foto entfernen</string>
+    <string name="message_permission_denied_cant_edit_picture">Berechtigung verweigert. Kann dieses Bild nicht bearbeiten</string>
+    <string name="action_ok">Okay</string>
+    <string name="message_undo">Rückgängig</string>
+    <string name="message_canceled">Abgesagt</string>
+    <string name="message_no_picture_selected">Kein Bild ausgewählt</string>
+    <string name="message_no_media_selected">Keine Medien ausgewählt</string>
+    <string name="message_unexpected_error">Ups, ein unerwarteter Fehler ist aufgetreten.</string>
+    <string name="message_unexpected_error_retry_later">Ups, ein unerwarteter Fehler ist aufgetreten. Bitte versuchen Sie es später noch einmal.</string>
+    <string name="action_crop">Zuschneiden</string>
+    <string name="txt_oops">Ups</string>
+    <string name="message_cant_crop_picture_from_url">Das aktuelle Bild kann nicht zugeschnitten werden, da es von einem Weblink stammt.</string>
+    <string name="txt_share_using">Teilen mit...</string>
+    <string name="content_message_apk_share"><![CDATA[QuizMaker-App APK-Paket, mit dem Sie MCQ/Fragebögen spielen, erstellen und teilen können. Auch bei Google Play verfügbar: https://play.google.com/store/apps/details?id=com.devup.qcm.maker&hl=en]]></string>
+    <string name="content_message_qp_share"><![CDATA[Fragebogendatei \'%s\' zum Öffnen mit dem *.qcm-Datei-Reader und -Writer; ]]>&appname;<![CDATA[, verfügbar bei Google Play: https://play.google.com/store/apps/details?id=com.devup.qcm.maker&hl=en]]></string>
+    <string name="action_abandon">Aufgeben</string>
+    <string name="message_something_gone_wrong">Ups, da ist etwas schief gelaufen...</string>
+    <string name="txt_qcm_conf_show_correction">Korrektur anzeigen</string>
+    <string name="txt_locale_language">Deutsch</string>
+    <string name="txt_locale_language_code">DE</string>
+    <string-array name="array_available_language">
+        <item>English, EN</item>
+        <item>French, FR</item>
+        <item>Portuguese, PT</item>
+    </string-array>
+    <string name="action_skip">Überspringen</string>
+    <string name="action_submit">Senden</string>
+    <string name="txt_qcm_conf_play_mod_supported">Unterstützter Spielmodus</string>
+    <string name="txt_loading">Wird geladen...</string>
+    <string name="action_make_app_update">Aktualisieren</string>
+    <string name="action_unlock">Entsperren</string>
+    <string name="action_lock">Sperren</string>
+    <string name="title_dialog_edit_protected">Passwort gesperrt</string>
+    <string name="title_dialog_protect_editing">Mit einem Passwort sperren</string>
+    <string name="hint_enter_password">Passwort eingeben...</string>
+    <string name="message_unlocked">Entsperrt...</string>
+    <string name="message_wrong_password">Falsches Passwort...</string>
+    <string name="title_dialog_wrong_password">Falsches Passwort</string>
+    <string name="message_dialog_wrong_password">Das von Ihnen eingegebene Passwort ist falsch.</string>
+    <string name="title_dialog_qp_read_protected">Leseschutz durch Passwort</string>
+    <string name="message_dialog_qp_read_protected">Das ausgewählte Quiz ist durch ein Passwort lesegeschützt.</string>
+    <string name="message_dialog_qp_edit_protected">Das ausgewählte Quiz ist durch ein Passwort schreibgeschützt.</string>
+    <string name="action_i_understand">Ich verstehe</string>
+    <string name="title_android_v_obsolete">Android-Version veraltet (%1$s)</string>
+    <string name="message_android_v_obsolete_can_not_play_sound">Dieser Ton kann auf Ihrem Gerät nicht wiedergegeben werden, da die von Ihnen verwendete Android-Version zu alt ist.\n\nAktualisieren Sie Ihr System auf Android-5 oder höher, um diese Funktion zu verwenden.</string>
+    <string name="text_do_not_show_again_for_this_session">Nicht wieder anzeigen bis zum nächsten Neustart der App.</string>
+    <string name="message_error_answer_conflict">Antwort bereits ausgefüllt</string>
+    <string name="message_error_answer_missing">Fehlende Antwort</string>
+    <string name="text_case_sensitive">Groß-/Kleinschreibung beachten</string>
+    <string name="title_page_fast_travel">Schnelle Navigation</string>
+    <string name="message_page_fast_travel">Geben Sie die Nummer der Seite ein, die Sie aufrufen möchten.</string>
+    <string name="hint_page_fast_travel">Geben Sie die Seitenzahl ein...</string>
+    <string name="message_error_empty_input">Leider darf dieser Wert nicht leer sein.</string>
+    <string name="message_last_page_reached">Zuletzt erreichte Seite</string>
+    <string name="message_turn_on_to_enable_storage_management">Schalten Sie den Schalter ein, um die Autorisierung für die Speicherverwaltung zu aktivieren.</string>
+    <string name="message_sharing_multiple_quiz_files">Teilen von %1$d Quizdateien zum Öffnen mit %2$s-apps</string>
+</resources>

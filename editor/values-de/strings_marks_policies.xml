@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_edit_scoring_policy">Bewertungsrichtlinie bearbeiten</string>
+    <string name="message_edit_scoring_policy_invite">Konfigurieren Sie Ihre personalisierte Bewertungsrichtlinie von A bis Z und Sie sehen den Beschreibungstext, der hier angezeigt wird.</string>
+    <string name="txt_mark_policy_config_allow_negative_final_score">Lassen Sie negative Endergebnisse zu</string>
+    <string name="text_add_per_answer">Pro gute Antwort</string>
+    <string name="text_all_or_nothing">Alles oder nichts</string>
+    <string name="txt_mark_policy_config_marks_adding_strategy">Hinzufügen von Punkten Strategie</string>
+    <string name="txt_mark_policy_config_cancel_marks_on_mistake">Stornieren Sie alle verdienten Noten bei einem Fehler</string>
+    <string name="txt_mark_policy_config_marks_to_add_on_success">Marken, die zum Erfolg beitragen</string>
+    <string name="txt_mark_policy_config_marks_to_deduce_on_mistake">Ableitungen bei Fehlern</string>
+    <string name="txt_mark_policy_config_marks_to_apply_on_no_answer">Markierungen für keine Antwort</string>
+    <string name="hint_enter_copy_title">Geben Sie den Titel Ihrer Kopie ein</string>
+    <string name="hint_enter_scoring_policy_title">Geben Sie einen Titel für Ihre Bewertungsrichtlinie ein...</string>
+</resources>

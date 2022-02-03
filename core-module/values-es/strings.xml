@@ -8,12 +8,29 @@
     <string name="txt_quit">Salir</string>
     <string name="txt_yes">Si</string>
     <string name="txt_no">No</string>
-    <string name="mark_policy_all_or_minus">Encuentre todas las respuestas a una pregunta y gane %1$s punto(s). Una sola respuesta incorrecta resta %2$s punto(s).</string>
+    <string name="mark_policy_all_or_minus">Encuentre todas las respuestas a una pregunta y gane %1$s punto(s). Una sola respuesta falsa cancela sus respuestas correctas y se restará %2$s punto(s) a su puntaje.</string>
     <string name="mark_policy_all_or_nothing">Encuentre todas las respuestas a una pregunta y gane %1$s punto(s). Una respuesta incorrecta cancela todos los puntos relacionados con esta pregunta.</string>
     <string name="mark_policy_success_plus__annul_on_error">Cada respuesta verdadera agrega %1$s punto(s). Solo se cancela una respuesta incorrecta y todos los puntos relacionados con esta pregunta.</string>
     <string name="mark_policy_one_per_success"><![CDATA[Cada respuesta verdadera agrega %1$s punto(s).]]></string>
     <string name="mark_policy_success_plus__fail_annul_and_minus"><![CDATA[Cada respuesta verdadera agrega %1$s punto(s). Una sola respuesta falsa cancela sus respuestas correctas y se restará %2$s punto(s) a su puntaje.]]></string>
     <string name="mark_policy_success_plus__minus_on_error"><![CDATA[Cada respuesta verdadera agrega %1$s punto(s). Cada respuesta falsa resta %2$s punto(s) en todos los puntos obtenidos]]></string>
+    <string name="text_null_or_one_point">%1$s punto</string>
+    <string name="text_multiple_points">%1$s puntos</string>
+    <string name="mark_policy_find_all_to_earn">Encuentra todas las respuestas a una pregunta y gana %1$s.</string>
+    <string name="mark_policy_single_mistake_deduce">Una sola respuesta incorrecta resta %1$s.</string>
+    <string name="mark_policy_mistake_cancel_earnings">Una respuesta incorrecta cancela todos los puntos relacionados con esta pregunta.</string>
+    <string name="mark_policy_single_mistake_cancel_earnings">Una sola respuesta incorrecta y todos los puntos relacionados con esta pregunta se cancelan.</string>
+    <string name="mark_policy_find_each_to_earn">Cada buena respuesta suma %1$s.</string>
+    <string name="mark_policy_single_mistake_cancel_and_deduces">Una sola respuesta incorrecta cancela sus respuestas correctas y se deducirá %1$s de su puntuación.</string>
+    <string name="mark_policy_each_mistake_deduces">Cada respuesta incorrecta deduce %1$s sobre todos los puntos obtenidos.</string>
+    <string name="title_mark_policy_point_empty_answer">%1$s cuando no hay respuesta a una pregunta consultada al menos una vez.</string>
+    <string name="mark_policy_warning_negative_scoring_allowed">Posible puntuación final negativa.</string>
+    <string name="title_mark_policy_all_or_minus">Todo o nada -Pena (+%1$s/-%2$s)</string>
+    <string name="title_mark_policy_all_or_nothing">Todo o nada (+%1$s/0)</string>
+    <string name="title_mark_policy_success_plus__annul_on_error">+%1$s por éxito o nada</string>
+    <string name="title_mark_policy_one_per_success">+%1$s por éxito</string>
+    <string name="title_mark_policy_success_plus__fail_annul_and_minus">+%1$s por éxito o -%2$s</string>
+    <string name="title_mark_policy_success_plus__minus_on_error">+%1$s o -%2$s por respuesta</string>
     <string name="action_choice_true">Si</string>
     <string name="action_choice_false">No</string>
     <string name="action_choice_partial">Parcial</string>
@@ -30,7 +47,7 @@
     <string name="action_close">Cerrar</string>
     <string name="action_continue">Continuar</string>
     <string name="action_undo">Deshacer</string>
-    <string name="action_open">Abierta</string>
+    <string name="action_open">Abrir</string>
     <string name="action_share">Compartir</string>
     <string name="action_delete">Eliminar</string>
     <string name="action_score">Puntaje</string>
@@ -93,7 +110,7 @@
         <item>French, FR</item>
         <item>Portuguese, PT</item>
     </string-array>
-    <string name="action_skip">Salta</string>
+    <string name="action_skip">Saltear</string>
     <string name="action_submit">Enviar</string>
     <string name="txt_qcm_conf_play_mod_supported">Modo de juego compatible</string>
     <string name="txt_loading">Cargando...</string>
@@ -122,4 +139,6 @@
     <string name="hint_page_fast_travel">Ingrese el número de página...</string>
     <string name="message_error_empty_input">Lo sentimos, este valor no puede estar vacío.</string>
     <string name="message_last_page_reached">Última página alcanzada</string>
+    <string name="message_turn_on_to_enable_storage_management">Encienda el interruptor para habilitar la autorización de administración de almacenamiento.</string>
+    <string name="message_sharing_multiple_quiz_files">Compartir %1$d archivos de cuestionarios para abrir con las aplicaciones %2$s</string>
 </resources>

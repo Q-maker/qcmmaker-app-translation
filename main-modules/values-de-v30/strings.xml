@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE resources [<!ENTITY appname "Quiz Maker">]>
+<resources><!--    Deutch activated-->
+    <string name="message_onboarding_present_for_request_permission"><![CDATA[QuizMaker ist ein "Quizdatei"-Manager, mit dem Sie Quizze als einfache *.qcm-Dateien abspielen, bearbeiten und teilen können.<br/><br/>Bereit? Damit QuizMaker Quizdateien auf Ihrem Mobilgerät erkennen, auflisten, erstellen, bearbeiten und verwalten kann, müssen Sie der App die Berechtigung zur Speicherverwaltung erteilen. <a href=\"#more_about\">Klicken Sie hier</a>, wenn Sie mehr darüber erfahren möchten.]]></string>
+    <string name="title_storage_permission_needed">Berechtigung zur Speicherverwaltung erforderlich.</string>
+    <string name="empty_storage_scan_qcm_file_need_permission"><![CDATA[Es ist nicht möglich, Ihren Speicher zu durchsuchen, um alle auf Ihrem Speicherlaufwerk verfügbaren \'*.qcm\'-Dateien zu finden. bitte <a href="#refresh">Erlaube</a> die Berechtigung zur Speicherverwaltung, damit ]]>&appname;<![CDATA[ sie alle auflisten und verwalten kann; wenn es welche gibt.]]></string>
+</resources>

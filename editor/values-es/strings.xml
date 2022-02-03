@@ -120,6 +120,17 @@
     <string name="action_open_q_and_a_editor">Abra el editor de preguntas</string>
     <string name="action_open_quiz_info_editor">Abra el editor de información y configuraciones</string>
     <string name="action_edit_quiz_info">Editar informação</string>
-    <string name="action_edit_q_and_a">Edita las preguntas</string>
+    <string name="action_edit_q_and_a">Editar las preguntas</string>
     <string name="message_wait_while_resource_copying">Espere mientras se copian los recursos adjuntos...</string>
+    <string name="action_create">Create</string>
+    <string name="create_and_apply"><![CDATA[Create & apply]]></string>
+    <string name="action_apply">Apply</string>
+    <string name="state_allowed">Allowed</string>
+    <string name="text_never">Never</string>
+    <string name="action_reorder">Reorder</string>
+    <string name="action_duplicate_to_edit">Duplicate to edit</string>
+    <string name="message_deleted">Deleted</string>
+    <string name="action_modify">Modify</string>
+    <string name="title_read_only">Read only</string>
+    <string name="message_only_modify_own_created_scoring_policies">Sorry, this is a system default scoring policy.\n\nYou can only modify or delete scoring policy you have created by your own?</string>
 </resources>

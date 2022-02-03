@@ -2,20 +2,20 @@
 <resources>
 <!--    Les arrays utile dans l'application-->
     <string-array name="array_gender">
-        <item>Masculine</item>
-        <item>Feminine</item>
-        <item>Others</item>
+        <item>Maschile</item>
+        <item>Femminile</item>
+        <item>Altri</item>
     </string-array>
 
     <string-array name="array_language_international">
-        <item>English, EN</item>
-        <item>French, FR</item>
-        <item>Portuguese, PT</item>
-        <item>Spanish, ES</item>
-        <item>Arab, AR</item>
-        <item>Chinese, ZH</item>
-        <item>German, DE</item>
-        <item>Russian, RU</item>
-        <item>Latin, LA</item>
+        <item>Inglese, EN</item>
+        <item>Francese, FR</item>
+        <item>Portoghese, PT</item>
+        <item>Spagnolo, ES</item>
+        <item>Arabo, AR</item>
+        <item>Cinese, ZH</item>
+        <item>Tedesco, DE</item>
+        <item>Russo, RU</item>
+        <item>Latino, LA</item>
     </string-array>
 </resources>

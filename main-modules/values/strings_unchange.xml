@@ -49,7 +49,6 @@
     <string name="title_migration_to_v2_failed" translatable="false">Error while retrieving</string>
     <string name="message_migration_to_v2_failed" translatable="false">An unexpected error occurred while retrieving your previously installed questionnaires. Do you want to try again? In case of abandonment, your unrecovered questionnaires will be deleted.</string>
     <string name="txt_migration_to_v2_cancel_action" translatable="false"><![CDATA[<a href=\'#cancel\'>Abandon the recovery and delete all.</a>]]></string>
-    <string name="action_retry" translatable="false">Retry</string>
     <string name="message_migration_to_v2_completed" translatable="false">Recovery completed, Let\'s go...</string>
     <string name="txt_migration_to_v2_big_title" translatable="false">Recovering your previous\ninstallations?</string>
     <string name="txt_migration_to_v2_message" translatable="false">Questionnaires from the installation of a previous version of &appname;
@@ -71,6 +70,7 @@
         <item>FR</item>
         <item>PT</item>
         <item>ES</item>
+        <item>IT</item>
     </string-array>
     <string name="title_activity_plugin_store" translatable="false">PluginStoreActivity</string>
     <!-- Strings used for fragments for navigation -->
@@ -81,4 +81,10 @@
 
     <string name="hello_first_fragment" translatable="false">Hello first fragment</string>
     <string name="hello_second_fragment" translatable="false">Hello second fragment. Arg: %1$s</string>
+    <string-array name="array_mock_paths">
+        <item>/Phone/QcmMaker/</item>
+        <item>/Phone/Documents/QcmFiles</item>
+        <item>/SDCard/Documents/</item>
+        <item>Other location...</item>
+    </string-array>
 </resources>

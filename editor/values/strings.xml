@@ -4,7 +4,7 @@
     <string name="action_delete">Delete</string>
     <string name="message_error_question_mal_formed">No question wording filled in</string>
     <string name="message_error_empty_proposition">There must be at least one true proposition. Add at least one proposal and select the checked box on the left to define which one is true.</string>
-    <string name="message_qcm_edition_directive">Add at least one proposal and select the check box to the left to define which one or which ones are true. If only one proposal is filled in, the question will be an open-ended question</string>
+    <string name="message_qcm_edition_directive">Add at least one answer proposal and select the check box to the left to define which one or which ones are true. If only one proposal is filled in, the question will be an open-ended question</string>
     <string name="message_new_page_added">New page added</string>
     <string name="message_caution_exit_without_save">You are about to abandon editing your questionnaire. Changes made will not be saved.</string>
     <string name="txt_save_and_exit">Save and leave</string>
@@ -122,4 +122,15 @@
     <string name="action_edit_quiz_info">Edit information</string>
     <string name="action_edit_q_and_a">Edit the questions</string>
     <string name="message_wait_while_resource_copying">Please wait during attached resources copying...</string>
+    <string name="action_create">Create</string>
+    <string name="create_and_apply"><![CDATA[Create & apply]]></string>
+    <string name="action_apply">Apply</string>
+    <string name="state_allowed">Allowed</string>
+    <string name="text_never">Never</string>
+    <string name="action_reorder">Reorder</string>
+    <string name="action_duplicate_to_edit">Duplicate to edit</string>
+    <string name="message_deleted">Deleted</string>
+    <string name="action_modify">Modify</string>
+    <string name="title_read_only">Read only</string>
+    <string name="message_only_modify_own_created_scoring_policies">Sorry, the selected scoring policy is a system default scoring policy.\n\nYou can only modify or delete the scoring policies you have created on your own or re-edited by duplicating an existing rating policy.</string>
 </resources>

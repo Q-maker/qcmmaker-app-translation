@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="txt_layout">Anordnung</string>
+    <string name="action_center_crop">Auf Mitte zuschneiden</string>
+    <string name="action_center_inside">Mitte innen</string>
+    <string name="action_center_content">Inhalt zentrieren</string>
+    <string name="action_fit_center">An Mitte anpassen</string>
+    <string name="action_fit_start">Nach links anpassen</string>
+    <string name="action_fit_end">Nach rechts anpassen</string>
+    <string name="action_fit_xy">Passend zum Rahmen</string>
+</resources>

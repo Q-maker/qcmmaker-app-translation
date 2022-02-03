@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="array_gender">
-        <item>Masculine</item>
-        <item>Feminine</item>
-        <item>Others</item>
+        <item>Männlich</item>
+        <item>Weiblich</item>
+        <item>Andere</item>
     </string-array>
 
     <string-array name="array_language_international">
-        <item>English, EN</item>
-        <item>French, FR</item>
-        <item>Portuguese, PT</item>
-        <item>Spanish, ES</item>
-        <item>Arab, AR</item>
-        <item>Chinese, ZH</item>
-        <item>German, DE</item>
-        <item>Russian, RU</item>
-        <item>Latin, LA</item>
+        <item>Englisch, EN</item>
+        <item>Französisch, FR</item>
+        <item>Portugiesisch, PT</item>
+        <item>Spanisch, ES</item>
+        <item>Arabisch, AR</item>
+        <item>Chinesisch, ZH</item>
+        <item>Deutsch, DE</item>
+        <item>Russisch, RU</item>
+        <item>Latein, LA</item>
     </string-array>
 </resources>

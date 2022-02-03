@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_edit_scoring_policy">Edit scoring policy</string>
+    <string name="message_edit_scoring_policy_invite">Configure your personalized scoring policy from A to Z and you will see the descriptive text displayed here.</string>
+    <string name="txt_mark_policy_config_allow_negative_final_score">Allow negative final score</string>
+    <string name="text_add_per_answer">Per good answer</string>
+    <string name="text_all_or_nothing">All or nothing</string>
+    <string name="txt_mark_policy_config_marks_adding_strategy">Adding points strategy</string>
+    <string name="txt_mark_policy_config_cancel_marks_on_mistake">Cancel all earned marks on mistake</string>
+    <string name="txt_mark_policy_config_marks_to_add_on_success">Marks to add on success</string>
+    <string name="txt_mark_policy_config_marks_to_deduce_on_mistake">Marks to deduce on mistake</string>
+    <string name="txt_mark_policy_config_marks_to_apply_on_no_answer">Marks to apply on no answer</string>
+    <string name="hint_enter_copy_title">Enter the title of your copy</string>
+    <string name="hint_enter_scoring_policy_title">Enter a title for your scoring policy...</string>
+</resources>
