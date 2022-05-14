@@ -56,7 +56,7 @@
     <string name="title_import_qcm">Fragen importieren</string>
     <string name="message_pending_shortcut_deletion">Unterdrückung:\n\"%1$s\"</string>
     <string name="message_empty_qcm_import">Keine Fragen und Antworten in dieser Datei gefunden.</string>
-    <string name="txt_details">Details</string>
+    <string name="txt_details">Einzelheiten</string>
     <string name="message_import_qcm">Möchten Sie Fragen und Antworten aus einer bestehenden Quizdatei oder aus einer Frage-Antworten-TXT-Datei importieren?</string>
     <string name="txt_extract_qcm_from_qcm_file">Aus einer Quizdatei (qcm)</string>
     <string name="txt_extract_qcm_from_txt_file">Aus einer Textdatei (txt)</string>

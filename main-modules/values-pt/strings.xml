@@ -10,7 +10,7 @@
     <string name="txt_my_qcm">Meus questionários</string>
     <string name="action_sort">Organizar</string>
     <string name="action_play">Jogar</string>
-    <string name="message_warning_suppress">Suprimir...</string>
+    <string name="message_warning_suppress">Supressão...</string>
     <string name="action_update">Atualizar</string>
     <string name="action_find_update">Procure uma atualização</string>
     <string name="action_build">Construir</string>

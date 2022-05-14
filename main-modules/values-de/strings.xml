@@ -2,7 +2,7 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <string name="app_name">&appname;</string>
     <string name="title_activity_installed_qcm">&appname;</string>
-    <string name="app_motto">Spielen Sie Quiz erstellen und teilen Sie es einfach</string>
+    <string name="app_motto">Spiele, erstelle und teile ganz einfach Quizzes</string>
     <string name="action_settings">Einstellungen</string>
     <string name="txt_read_more">MEHR LESEN</string>
     <string name="action_search">Suche</string>
