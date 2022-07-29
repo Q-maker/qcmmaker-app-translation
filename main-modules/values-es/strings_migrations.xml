@@ -6,6 +6,8 @@
     <string name="message_single_screen_migration_you_have_to_migrate_manually">Tendrá que migrar manualmente estos proyectos exportándolos en un archivo QCM usted mismo volviendo a su antiguo espacio de \'Creaciones\' cuando lo desee.</string>
     <string name="title_migrate_projects">Migre todos sus proyectos antiguos</string>
     <string name="message_complete_the_migration_process_now">Complete el proceso de migración ahora para encontrar todos sus proyectos no migrados en este nuevo espacio de trabajo como archivos QCM listos para reproducir, compartir o editar.</string>
+<!--    <string name="title_migration_failed">Migración fallida</string>-->
+    <string name="message_migration_single_screen_failed">Unable to automatically proceed to your quiz projects migration due to an unexpected error while processing.\n\nAs an alternative to this automatic processing, you can opt-in to first switch back to the dual-screen mode then import each quiz manually as QCM file.</string>
     <plurals name="message_x_projects_waiting_for_migration">
         <item quantity="other">Actualmente tienes %1$d proyectos que están esperando ser migrados a tu nuevo espacio de trabajo.</item>
         <item quantity="one">Actualmente tienes %1$d proyecto que está esperando ser migrado a tu nuevo espacio de trabajo.</item>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE resources [<!ENTITY appname "QcmMaker">]>
+<resources>
+    <string name="title_setting_workspace">Espace de travail</string>
+    <string name="summary_setting_workspace">Configurez et personnalisez le comportement de votre espace de travail et de l\'écran d\'accueil de votre application</string>
+    <string name="title_setting_working_permissions">Répertoire de travail</string>
+    <string name="summary_setting_working_permissions">Configurez les répertoires et les fichiers de quiz qui doivent être listés dans votre espace de travail. Supprimez ou ajoutez de nouveaux.</string>
+    <string name="title_setting_workspace_content">Configuration espace de travail</string>
+    <string name="title_setting_main_workspace_directory">Répertoire principal</string>
+    <string name="title_setting_full_raw_storage_access">Accès complet au stockage</string>
+    <string name="title_setting_workspace_other_content">Autres contenus de l\'espace de travail</string>
+    <string name="message_setting_full_raw_storage_access">Définissez si vous souhaitez ou non autoriser l\'application &appname;
+        à avoir un accès complet à votre disque de stockage. En l\'activant, &appname; fonctionnera mieux lors de la recherche ou de l\'accès aux fichiers de quiz depuis n\'importe où sur le stockage de votre appareil.</string>
+    <string name="message_setting_main_workspace_directory">Définissez un répertoire de fichiers qui sera utilisé comme emplacement par défaut pour stocker vos futurs fichiers de quiz créés (format de fichier *.qcm).</string>
+    <string name="message_setting_main_workspace_directory_additional_info">De plus, tous les fichiers *.qcm de cet emplacement seront automatiquement répertoriés dans votre espace de travail.</string>
+    <string name="message_setting_workspace_other_content">Ci-dessous, ajoutez et supprimez des répertoires et autres emplacements de fichiers dont le contenu doit être autorisé à être listé dans votre espace de travail</string>
+    <string name="message_processing_removing_location_from_workspace">Suppression de l\'emplacement sélectionné de votre espace de travail.</string>
+    <string name="prompt_settings_define_main_workspace_directory">Cliquez ici pour sélectionner un répertoire</string>
+    <string name="summary_setting_plugins">Ajoutez, supprimez, activez ou désactivez les plugins et extensions qui permettent d\'apporter plus de fonctionnalités et de capacités à l\'application &appname;.</string>
+    <string name="text_no_other_content_added_can_add_new">Aucun autre contenu ou répertoire n\'a été ajouté pour le moment. Cliquez ci-dessus pour en ajouter un nouveau si nécessaire.</string>
+    <string name="message_switch_to_unlocked_distribution">Unfortunately, the current QcmMaker app distribution you are using doesn\'t authorize itself to get a full storage access regarding your current Android system version. \n\nIn order to get the full storage unlocked version of the QcmMaker app, you will have to download and install the corresponding installable package (APK) on your own. \n\nThis full storage unlocked distribution has the advantage to be able to request and acquire storage permission on your device in order to automatically and easily; list and manage all *.qcm files from anywhere on your storage disk.  \n\nBy doing so, it allows you to avoid all complications while having to individually grant write-access to each quiz file or working directories by selecting them through the Android system\'s file picker.</string>
+</resources>

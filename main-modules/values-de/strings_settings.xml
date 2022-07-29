@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE resources [<!ENTITY appname "QuizMaker">]>
+<resources>
+    <string name="title_setting_workspace">Arbeitsplatz</string>
+    <string name="summary_setting_workspace">Konfigurieren und passen Sie an, wie sich Ihr Arbeitsbereich und der Startbildschirm Ihrer App verhalten sollen</string>
+    <string name="title_setting_working_permissions">Arbeitsverzeichnis</string>
+    <string name="summary_setting_working_permissions">Konfigurieren Sie, welche Verzeichnisse und welche Quizdateien in Ihrem Arbeitsbereich aufgelistet werden sollen. Entfernen Sie oder fügen Sie neue hinzu.</string>
+    <string name="title_setting_workspace_content">Inhalt des Arbeitsbereichs</string>
+    <string name="title_setting_main_workspace_directory">Hauptsächlich</string>
+    <string name="title_setting_full_raw_storage_access">Vollständiger Speicherzugriff</string>
+    <string name="title_setting_workspace_other_content">Andere Arbeitsbereichsinhalte</string>
+    <string name="message_setting_full_raw_storage_access">Legen Sie fest, ob Sie bereit sind, der &appname;-App vollen Zugriff auf Ihre Speicherfestplatte zu gewähren. Durch die Aktivierung wird &appname;
+        beim Suchen oder Zugreifen auf Quizdateien von überall auf Ihrem Gerätespeicher eine bessere Leistung erbringen.</string>
+    <string name="message_setting_main_workspace_directory">Definieren Sie ein Dateiverzeichnis, das als Standardspeicherort zum Speichern Ihrer zukünftig erstellten Quizdateien (*.qcm-Dateiformat) verwendet wird.</string>
+    <string name="message_setting_main_workspace_directory_additional_info">Außerdem werden alle *.qcm-Dateien an diesem Speicherort automatisch in Ihrem Arbeitsbereich aufgelistet.</string>
+    <string name="message_setting_workspace_other_content">Fügen Sie unten Verzeichnisse und andere Dateispeicherorte hinzu und entfernen Sie sie, deren Inhalt in Ihrem Arbeitsbereich aufgelistet werden dürfen</string>
+    <string name="message_processing_removing_location_from_workspace">Entfernen des ausgewählten Standorts aus Ihrem Arbeitsbereich.</string>
+    <string name="prompt_settings_define_main_workspace_directory">Klicken Sie hier, um ein Verzeichnis auszuwählen</string>
+    <string name="summary_setting_plugins">Plugins und Erweiterungen hinzufügen, entfernen, aktivieren oder deaktivieren, die es ermöglichen, der &appname;-App mehr Funktionen und Fähigkeiten hinzuzufügen.</string>
+    <string name="text_no_other_content_added_can_add_new">Es wurden vorerst keine weiteren Inhalte oder Verzeichnisse hinzugefügt. Klicken Sie oben, um bei Bedarf ein neues hinzuzufügen.</string>
+    <string name="message_switch_to_unlocked_distribution">Unfortunately, the current QuizMaker app distribution you are using doesn\'t authorize itself to get a full storage access regarding your current Android system version. \n\nIn order to get the full storage unlocked version of the QuizMaker app, you will have to download and install the corresponding installable package (APK) on your own. \n\nThis full storage unlocked distribution has the advantage to be able to request and acquire storage permission on your device in order to automatically and easily; list and manage all *.qcm files from anywhere on your storage disk.  \n\nBy doing so, it allows you to avoid all complications while having to individually grant write-access to each quiz file or working directories by selecting them through the Android system\'s file picker.</string>
+</resources>
