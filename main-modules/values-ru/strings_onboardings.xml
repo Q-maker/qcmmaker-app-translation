@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_new_workspace_ready">Your new workspace is ready!</string>
+    <string name="message_new_saf_workspace_ready">Your workspace is ready and all quiz files contained inside the selected directory are now listed here.\n\nDon\'t worry you can change this directory at anytime and even add more directories in order to allow their contents to be listed here\n\nIn the next step, we are going to show you all about that and much more. We will present to you your new options menu. Ready?</string>
+    <string name="title_onboarding_saf_overview_options_menu">Reach your new option menu</string>
+    <string name="message_onboarding_saf_overview_options_menu_workspace_single_tab">From your new option menu you will be able not only to create new quizzes but also to add new directories to your workspace so that the app will be able to gain permission to list their contents</string>
+    <string name="message_onboarding_saf_overview_options_menu_workspace_dual_tabs">From your new option menu you will be able not only to browse your storage in order to open a specific file but also to add new directories to your workspace so that the app will be able to gain permission to list their contents</string>
+    <string name="title_onboarding_saf_overview_options_menu_add_directory">Add new directory as you need!</string>
+    <string name="message_onboarding_saf_overview_options_menu_add_directory">At any time, you can click here to add further directories to your workspace so that you will grant the QuizMaker app a storage access permission on these locations</string>
+    <string name="title_onboarding_saf_overview_options_menu_open_file">Open a specific file!</string>
+    <string name="message_onboarding_saf_overview_options_menu_open_file">By clicking here, you will be able to browse your device storage in order to select a specific file you are willing to open. By doing so, in addition to be opened, you will also grand to the QuizMaker app a storage access permission for this selected file and it will be added to your workspace items list.</string>
+    <string name="title_onboarding_saf_overview_options_menu_help">Having some doubts?</string>
+    <string name="message_onboarding_saf_overview_options_menu_help">For each of the menu options, you can click on the help icon to have a brief description of the feature behind!</string>
+    <string name="title_onboarding_saf_discover_new_settings">Discover the new settings options</string>
+    <string name="message_onboarding_saf_discover_new_settings">There is new settings options that will help you manage which files and which directories the app is permitted to access on your storage.Let\'s go, click to discover your new possibilities.</string>
+    <string name="title_onboarding_saf_settings_overview_welcome">Your workspace content settings!</string>
+    <string name="message_onboarding_saf_settings_overview_welcome"><![CDATA[Exceptionally for discovery purpose, we have redirected you directly to this page that will help you manage which files and directories the QuizMaker app has the <a href=\'permission_info\'>permission</a> to access.<br/><br/>Nevertheless, you will be able to reach this page latter on your own while navigating through your settings options. Are you ready for the guided tour?]]></string>
+    <string name="title_onboarding_saf_settings_overview_main_directory">Willing to change your main workspace directory?</string>
+    <string name="message_onboarding_saf_settings_overview_main_directory">At anytime you can come here to click on this section that will allow you to select another directory that should be used as the default location for your future quiz creations</string>
+    <string name="title_onboarding_saf_settings_overview_other_directories">Give access permission to multiple directories</string>
+    <string name="message_onboarding_saf_settings_overview_other_directories">If needed, you can click here to add multiple other directories to your workspace so that all their contents will be listed inside your workspace through the app home screen. Also, you will be able to remove any of them easily from here if needed.</string>
+    <string name="title_onboarding_saf_settings_overview_almost_done">Almost ended!</string>
+    <string name="message_onboarding_saf_settings_overview_almost_done"><![CDATA[This is a kind of <a href=\'scoped_storage\'>scoped storage</a> access; it is more privacy friendly cause you fully manage what the QuizMaker app can access on your storage. Thus, in most cases, there is no more need to give to the QuizMaker app a <a href=\'full_access\'>full</a> storage access permission to all your disk.]]></string>
+    <string name="title_onboarding_saf_settings_overview_against_privacy">Not interested about privacy?</string>
+    <string name="message_onboarding_common_guided_tour_completed">The guided tour is now completed</string>
+    <string name="message_onboarding_saf_settings_overview_against_privacy">For people who are willing to keep the app working the OLD way or who are not interested by the GooglePlay required and recommended privacy approach regarding Android 11 and upper, you can still allow the app to gain a full access permission on all your storage by clicking here.</string>
+    <string name="message_onboarding_saf_settings_overview_against_privacy_require_download_apk">However, that will require downloading and installing a non-GooglePlay certified app package that will declare the full storage access permission as enabled.</string>
+    <string name="message_onboarding_saf_settings_overview_seeking_privacy">In case now or later you will be interested in more privacy, you can opt at any time by clicking here in order to disable the full storage access permission and to start restricting the app accesses on your files as recommended by  GooglePlay for more data privacy regarding Android 11 and upper.</string>
+    <string name="title_onboarding_saf_settings_overview_seeking_privacy">Seeking privacy?</string>
+</resources>
