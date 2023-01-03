@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="message_warning_cant_be_empty">Can\'t be empty</string>
-    <string name="message_warning_should_be_greater_than_zero">should be greater than zero</string>
+    <string name="message_warning_cant_be_empty">Non può essere vuoto</string>
+    <string name="message_warning_should_be_greater_than_zero">Dovrebbe essere maggiore di zero</string>
 </resources>

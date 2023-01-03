@@ -3,9 +3,9 @@
 
     <string name="response_3dot">Antwort...</string>
     <string name="txt_response">Antwort</string>
-    <string name="txt_terminate">Fertig stellen</string>
+    <string name="txt_terminate">Beenden</string>
     <string name="txt_finish_test">Beende den Test</string>
-    <string name="txt_replay_test">Replay-Test</string>
+    <string name="txt_replay_test">Wiederholen Test</string>
     <string name="title_test_finish">Test abgeschlossen</string>
     <string name="message_thank">Danke</string>
     <string name="message_thank_you_for_testing">Danke für deine Teilnahme</string>

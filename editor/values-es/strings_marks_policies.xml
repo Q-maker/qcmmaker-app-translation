@@ -12,4 +12,13 @@
     <string name="txt_mark_policy_config_marks_to_apply_on_no_answer">Marcas para aplicar si no hay respuesta</string>
     <string name="hint_enter_copy_title">Enter the title of your copy</string>
     <string name="hint_enter_scoring_policy_title">Enter a title for your scoring policy...</string>
+    <string name="message_help_scoring_policy_marks_to_add">Cantidad de puntos a sumar al enviar una respuesta correcta. Ele suporta valores decimais.</string>
+    <string name="message_help_scoring_policy_cancel_on_mistake">Defina si para cada pregunta, los puntos ganados deben reiniciarse cuando el jugador envía una respuesta incorrecta entre las seleccionadas</string>
+    <string name="message_help_scoring_policy_adding_strategy">Defina si los puntos para asignar en caso de éxito deben agregarse por cada respuesta correcta enviada o solo en caso de que el jugador logre enviar todas las respuestas correctas juntas sin ningún error.</string>
+    <string name="message_help_scoring_policy_allow_negative_final_score">Defina si la estrategia de puntuación permite una puntuación final negativa en caso de que el jugador tenga varios puntos reducidos debido a una respuesta vacía o incorrecta</string>
+    <string name="message_help_scoring_policy_marks_to_deduce_on_mistake">Cantidad de puntos a deducir de la puntuación alcanzada en caso de respuesta incorrecta. Ele suporta valores decimais.</string>
+    <string name="message_help_scoring_policy_marks_to_apply_no_answer">Cantidad de puntos a aplicar en caso de que el jugador no envíe ninguna respuesta. Ele suporta valores decimais.</string>
+    <string name="message_error_out_of_bound_scoring_policy_marks_to_apply_no_answer">Este valor debe estar entre la cantidad de puntos a sumar en caso de éxito y los que se deducirán en caso de fracaso.</string>
+    <string name="message_error_out_of_bound_scoring_policy_marks_to_apply_no_answer_details">Puede utilizar cualquier valor entero o decimal dentro de este intervalo.</string>
+    <string name="message_warning_configuration_not_compatible_with_allow_negative_final_score">Por favor, primero deshabilite esta configuración porque no hay una marca negativa configurada en esta política ni en caso de error ni en caso de no respuesta.</string>
 </resources>

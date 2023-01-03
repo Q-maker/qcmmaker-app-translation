@@ -12,4 +12,13 @@
     <string name="txt_mark_policy_config_marks_to_apply_on_no_answer">Voti da applicare in caso di mancata risposta</string>
     <string name="hint_enter_copy_title">Enter the title of your copy</string>
     <string name="hint_enter_scoring_policy_title">Enter a title for your scoring policy...</string>
+    <string name="message_help_scoring_policy_marks_to_add">Quantità di punti da aggiungere quando si invia una risposta corretta. Supporta valori decimali.</string>
+    <string name="message_help_scoring_policy_cancel_on_mistake">Definisci se per ogni domanda, i punti guadagnati devono essere azzerati quando il giocatore invia una risposta sbagliata tra quelle selezionate</string>
+    <string name="message_help_scoring_policy_adding_strategy">Definire se i punti da assegnare in caso di successo devono essere sommati per ogni risposta corretta inviata o solo nel caso in cui il giocatore riesca a inviare tutte le risposte corrette insieme senza alcun errore.</string>
+    <string name="message_help_scoring_policy_allow_negative_final_score">Definire se la strategia di punteggio consente un punteggio finale negativo nel caso in cui il giocatore abbia più punti ridotti a causa di risposta vuota o sbagliata</string>
+    <string name="message_help_scoring_policy_marks_to_deduce_on_mistake">Importo di punti da dedurre dal punteggio raggiunto in caso di risposta errata. Supporta valori decimali.</string>
+    <string name="message_help_scoring_policy_marks_to_apply_no_answer">Importo di punti da applicare nel caso in cui il giocatore non fornisca alcuna risposta. Supporta valori decimali.</string>
+    <string name="message_error_out_of_bound_scoring_policy_marks_to_apply_no_answer">Questo valore dovrebbe essere compreso tra la quantità di punti da aggiungere in caso di successo e quelli da dedurre in caso di fallimento.</string>
+    <string name="message_error_out_of_bound_scoring_policy_marks_to_apply_no_answer_details">È possibile utilizzare qualsiasi valore intero o decimale all\'interno di questo intervallo.</string>
+    <string name="message_warning_configuration_not_compatible_with_allow_negative_final_score">Per favore, disabilita prima questa impostazione perché non c\'è un contrassegno negativo configurato su questa politica né in caso di errore né in caso di mancata risposta.</string>
 </resources>

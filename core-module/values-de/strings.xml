@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?><!DOCTYPE resources [<!ENTITY appname "Quiz Maker">]>
 <resources>
     <string name="action_search">Suche</string>
-    <string name="txt_sure_to_exit_test">Sie sind im Begriff, den aktuellen Test abzubrechen. Jeder Fortschritt geht verloren; möchtest du fortfahren?</string>
-    <string name="txt_sure_to_exit_exercise_activity">Sie sind dabei, Ihren Test aufzugeben; Möchtest du fortfahren?</string>
+    <string name="txt_sure_to_exit_test">Sie sind dabei, den aktuellen Test abzubrechen. Aller Fortschritt wird verloren gehen; Sind Sie sicher, dass Sie fortfahren möchten?</string>
+    <string name="txt_sure_to_exit_exercise_activity">Sie sind dabei, Ihren Test aufzugeben; Sind Sie sicher, dass Sie es tun möchten?</string>
     <string name="txt_corrected">Richtig</string>
     <string name="txt_replay">Wiedergabe</string>
     <string name="txt_quit">Verlassen</string>
@@ -140,5 +140,10 @@
     <string name="message_error_empty_input">Leider darf dieser Wert nicht leer sein.</string>
     <string name="message_last_page_reached">Zuletzt erreichte Seite</string>
     <string name="message_turn_on_to_enable_storage_management">Schalten Sie den Schalter ein, um die Autorisierung für die Speicherverwaltung zu aktivieren.</string>
+    <string name="message_turn_off_to_disable_storage_management">Schalten Sie den Schalter aus, um die Berechtigung für den vollen Speicherzugriff zu deaktivieren</string>
+    <string name="message_turn_off_to_disable_storage_management_legacy">Greifen Sie auf die Seite mit den Berechtigungseinstellungen zu und deaktivieren Sie die Dateizugriffsberechtigung</string>
     <string name="message_sharing_multiple_quiz_files">Teilen von %1$d Quizdateien zum Öffnen mit %2$s-apps</string>
+    <string name="action_default">Standard</string>
+    <string name="action_auto">Auto</string>
+    <string name="action_automatic">Automatisch</string>
 </resources>

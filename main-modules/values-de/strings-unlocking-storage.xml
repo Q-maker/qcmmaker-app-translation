@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="title_switch_to_unlocked_distribution">Switch to another distribution?</string>
-    <string name="action_download_apk">Download APK</string>
+    <string name="title_switch_to_unlocked_distribution">Zu einer anderen Distribution wechseln?</string>
+    <string name="action_download_apk">APK herunterladen</string>
+    <string name="message_caution_grant_storage_permission">Sie sind dabei, der QuizMaker-App eine vollständige Speicherzugriffsberechtigung zu erteilen. In den meisten Fällen benötigt die QuizMaker-App keine solche Berechtigung, sondern arbeitet lieber mit einem datenschutzfreundlicheren Ansatz.\n\nBitte erwägen Sie nur, sich für die Gewährung einer vollständigen Speicherzugriffsberechtigung zu entscheiden, wenn Sie sehr sicher sind, dass die QuizMaker-App Ihren gesamten Speicher verwalten soll, um alle Quizdateien automatisch zu scannen, zu verwalten und sofort Schreibzugriff auf alle Quizdateien (Datei mit der Erweiterung *QCM) zu erhalten. von Ihrer Festplatte, ohne dass Sie manuell Berechtigungen für jede Datei erteilen müssen, insbesondere wenn Sie eine Datei über einen Datei-Explorer öffnen.</string>
+    <string name="title_caution_grant_storage_permission">Speicherzugriffsberechtigung</string>
 </resources>

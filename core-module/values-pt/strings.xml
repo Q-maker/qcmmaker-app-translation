@@ -140,5 +140,10 @@
     <string name="message_error_empty_input">Desculpe, este valor não pode estar vazio.</string>
     <string name="message_last_page_reached">Última página alcançada</string>
     <string name="message_turn_on_to_enable_storage_management">Ligue a chave para habilitar a autorização de gerenciamento de armazenamento.</string>
+    <string name="message_turn_off_to_disable_storage_management">Desligue o interruptor para desabilitar a permissão de acesso total ao armazenamento</string>
+    <string name="message_turn_off_to_disable_storage_management_legacy">Acesse a página de configuração de permissão e desative a permissão de acesso aos arquivos</string>
     <string name="message_sharing_multiple_quiz_files">Condivisione di %1$d file di quiz da aprire utilizzando le app %2$s</string>
+    <string name="action_default">Predefinição</string>
+    <string name="action_auto">Auto</string>
+    <string name="action_automatic">Automático</string>
 </resources>

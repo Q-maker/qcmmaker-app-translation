@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="title_switch_to_unlocked_distribution">Switch to another distribution?</string>
-    <string name="action_download_apk">Download APK</string>
+    <string name="title_switch_to_unlocked_distribution">Passare a un\'altra distribuzione?</string>
+    <string name="action_download_apk">Scarica APK</string>
+    <string name="message_caution_grant_storage_permission">Stai per concedere all\'app QuizMaker un\'autorizzazione di accesso completo allo spazio di archiviazione. Nella maggior parte dei casi, l\'app QuizMaker non ha bisogno di tale autorizzazione preferendo lavorare attraverso un approccio più rispettoso della privacy.\n\nàPer favore, prendi in considerazione la possibilità di concedere un\'autorizzazione di accesso allo spazio di archiviazione completo solo se sei molto sicuro di volere che l\'app QuizMaker gestisca tutto il tuo spazio di archiviazione in modo da scansionare, gestire e ottenere immediatamente l\'accesso in scrittura su tutti i file del quiz (file con estensione *QCM) dal tuo disco senza il fastidio di concedere manualmente l\'autorizzazione per ciascun file, specialmente quando si apre il file tramite Esplora file.</string>
+    <string name="title_caution_grant_storage_permission">Autorizzazione di accesso alla memoria</string>
 </resources>

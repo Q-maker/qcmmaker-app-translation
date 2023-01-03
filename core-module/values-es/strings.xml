@@ -140,5 +140,10 @@
     <string name="message_error_empty_input">Lo sentimos, este valor no puede estar vacío.</string>
     <string name="message_last_page_reached">Última página alcanzada</string>
     <string name="message_turn_on_to_enable_storage_management">Encienda el interruptor para habilitar la autorización de administración de almacenamiento.</string>
+    <string name="message_turn_off_to_disable_storage_management">Apague el interruptor para deshabilitar el permiso de acceso completo al almacenamiento</string>
+    <string name="message_turn_off_to_disable_storage_management_legacy">Acceda a la página de configuración de permisos y deshabilite el permiso de acceso a archivos</string>
     <string name="message_sharing_multiple_quiz_files">Compartir %1$d archivos de cuestionarios para abrir con las aplicaciones %2$s</string>
+    <string name="action_default">Defecto</string>
+    <string name="action_auto">Auto</string>
+    <string name="action_automatic">Automático</string>
 </resources>

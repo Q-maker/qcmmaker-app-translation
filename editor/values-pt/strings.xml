@@ -132,5 +132,7 @@
     <string name="message_deleted">Deleted</string>
     <string name="action_modify">Modify</string>
     <string name="title_read_only">Read only</string>
-    <string name="message_only_modify_own_created_scoring_policies">Sorry, this is a system default scoring policy.\n\nYou can only modify or delete scoring policy you have created by your own?</string>
+    <string name="message_only_modify_own_created_scoring_policies">Desculpe, esta é uma política de pontuação padrão do sistema.\n\nVocê só pode modificar ou excluir a política de pontuação que criou por conta própria.</string>
+    <string name="txt_changes_taken_into_account">Alterações levadas em consideração</string>
+    <string name="message_warning_commit_task_concurrent_modification">Uma tarefa de confirmação já está sendo processada, aguarde um momento…</string>
 </resources>

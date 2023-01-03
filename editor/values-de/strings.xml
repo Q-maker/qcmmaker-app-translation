@@ -132,5 +132,7 @@
     <string name="message_deleted">Gelöscht</string>
     <string name="action_modify">Ändern</string>
     <string name="title_read_only">Nur lesen</string>
-    <string name="message_only_modify_own_created_scoring_policies">Tut mir leid, dies ist eine standardmäßige Bewertungsrichtlinie des Systems.\n\nSie können nur die Bewertungsrichtlinien ändern oder löschen, die Sie selbst erstellt oder durch Duplizieren einer vorhandenen Bewertungsrichtlinie erneut bearbeitet haben.</string>
+    <string name="message_only_modify_own_created_scoring_policies">Tut mir leid, dies ist eine standardmäßige Bewertungsrichtlinie des Systems.\n\nSie können die von Ihnen erstellte Bewertungsrichtlinie nur selbst ändern oder löschen.</string>
+    <string name="txt_changes_taken_into_account">Änderungen berücksichtigt</string>
+    <string name="message_warning_commit_task_concurrent_modification">Eine Commit-Aufgabe wird bereits verarbeitet, bitte warten Sie einen Moment…</string>
 </resources>

@@ -29,7 +29,7 @@
     <string name="title_mark_policy_all_or_nothing">Tout ou rien (+%1$s/0)</string>
     <string name="title_mark_policy_success_plus__annul_on_error">+%1$s par succès ou rien</string>
     <string name="title_mark_policy_one_per_success">+%1$s par succès</string>
-    <string name="title_mark_policy_success_plus__fail_annul_and_minus">+%1$s par succès or -%2$s</string>
+    <string name="title_mark_policy_success_plus__fail_annul_and_minus">+%1$s par succès ou -%2$s</string>
     <string name="title_mark_policy_success_plus__minus_on_error">+%1$s ou -%2$s par réponse</string>
     <string name="action_choice_true">Oui</string>
     <string name="action_choice_false">Non</string>
@@ -88,7 +88,7 @@
     <string name="action_remove_photo">Retirer la photo</string>
     <string name="message_permission_denied_cant_edit_picture">Permission refusée. Impossible d\'éditer cette image</string>
     <string name="action_ok">Ok</string>
-    <string name="message_undo">Annuler</string>
+    <string name="message_undo">Annulée</string>
     <string name="message_canceled">Annulée</string>
     <string name="message_no_picture_selected">Aucune image selectionnée</string>
     <string name="message_no_media_selected">Aucun média selectionné</string>
@@ -140,5 +140,10 @@
     <string name="message_error_empty_input">Désolé, cette valeur ne doit pas être vide.</string>
     <string name="message_last_page_reached">Dernière page atteinte</string>
     <string name="message_turn_on_to_enable_storage_management">Activez le commutateur pour activer l\'autorisation de gestion du stockage.</string>
+    <string name="message_turn_off_to_disable_storage_management">Éteignez le commutateur pour désactiver l\'autorisation d\'accès complet au stockage</string>
+    <string name="message_turn_off_to_disable_storage_management_legacy">Accédez à la page de configuration des autorisations et désactivez l\'autorisation d\'accès aux fichiers</string>
     <string name="message_sharing_multiple_quiz_files">Sharing %1$d quiz files to open using %2$s apps</string>
+    <string name="action_default">Défaut</string>
+    <string name="action_auto">Auto</string>
+    <string name="action_automatic">Automatique</string>
 </resources>

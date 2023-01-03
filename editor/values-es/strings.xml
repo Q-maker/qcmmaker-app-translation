@@ -133,4 +133,6 @@
     <string name="action_modify">Modify</string>
     <string name="title_read_only">Read only</string>
     <string name="message_only_modify_own_created_scoring_policies">Sorry, this is a system default scoring policy.\n\nYou can only modify or delete scoring policy you have created by your own?</string>
+    <string name="txt_changes_taken_into_account">Cambios tomados en cuenta</string>
+    <string name="message_warning_commit_task_concurrent_modification">Ya se está procesando una tarea de confirmación, espere un momento…</string>
 </resources>

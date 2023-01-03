@@ -132,5 +132,7 @@
     <string name="message_deleted">Supprimer</string>
     <string name="action_modify">Modifier</string>
     <string name="title_read_only">Lecture seule</string>
-    <string name="message_only_modify_own_created_scoring_policies">Sorry, the selected scoring policy is a system default scoring policy.\n\nYou can only modify or delete scoring policies you have created on your own or re-edited by duplicating an existing rating policy.</string>
+    <string name="message_only_modify_own_created_scoring_policies">Désolé, il s\'agit d\'une politique de notation par défaut du système.\n\nVous ne pouvez modifier ou supprimer que la politique de notation que vous avez créée vous-même.</string>
+    <string name="txt_changes_taken_into_account">Modifications prises en compte</string>
+    <string name="message_warning_commit_task_concurrent_modification">Une tâche de validation est déjà en cours de traitement, veuillez patienter un instant…</string>
 </resources>

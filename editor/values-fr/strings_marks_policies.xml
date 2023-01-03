@@ -12,4 +12,13 @@
     <string name="txt_mark_policy_config_marks_to_apply_on_no_answer">Notes à appliquer en cas de non-réponse</string>
     <string name="hint_enter_copy_title">Enter the title of your copy</string>
     <string name="hint_enter_scoring_policy_title">Enter a title for your scoring policy...</string>
+    <string name="message_help_scoring_policy_marks_to_add">Nombre de points à ajouter lors de la soumission d\'une réponse correcte. Il prend en charge les valeurs décimales.</string>
+    <string name="message_help_scoring_policy_cancel_on_mistake">Définir si oui ou non pour chaque question, les points gagnés doivent être réinitialisés lorsque le joueur soumet une mauvaise réponse parmi celles sélectionnées</string>
+    <string name="message_help_scoring_policy_adding_strategy">Définissez si les points à attribuer en cas de succès doivent être ajoutés pour chaque bonne réponse soumise ou seulement si le joueur réussit à soumettre toutes les bonnes réponses ensemble sans aucune erreur.</string>
+    <string name="message_help_scoring_policy_allow_negative_final_score">Définissez si la stratégie de notation permet un score final négatif dans le cas où le joueur a plusieurs points réduits en raison d\'une réponse vide ou erronée</string>
+    <string name="message_help_scoring_policy_marks_to_deduce_on_mistake">Nombre de points à déduire du score atteint en cas de mauvaise réponse. Il prend en charge les valeurs décimales.</string>
+    <string name="message_help_scoring_policy_marks_to_apply_no_answer">Nombre de points à appliquer au cas où le joueur ne soumettrait aucune réponse. Il prend en charge les valeurs décimales.</string>
+    <string name="message_error_out_of_bound_scoring_policy_marks_to_apply_no_answer">Cette valeur doit être comprise entre le nombre de points à ajouter en cas de succès et ceux à déduire en cas d\'échec.</string>
+    <string name="message_error_out_of_bound_scoring_policy_marks_to_apply_no_answer_details">Vous pouvez utiliser n\'importe quelle valeur entière ou décimale à l\'intérieur de cet intervalle.</string>
+    <string name="message_warning_configuration_not_compatible_with_allow_negative_final_score">Veuillez d\'abord désactiver ce paramètre car il n\'y a pas de marquage négatif configuré sur cette politique ni en cas d\'erreur ni en cas de non-réponse.</string>
 </resources>

@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="title_switch_to_unlocked_distribution">Switch to another distribution?</string>
-    <string name="action_download_apk">Download APK</string>
+    <string name="title_switch_to_unlocked_distribution">Mudar para outra distribuição?</string>
+    <string name="action_download_apk">Baixe o APK</string>
+    <string name="message_caution_grant_storage_permission">Você está prestes a conceder ao aplicativo QuizMaker uma permissão de acesso total ao armazenamento. Na maioria dos casos, o aplicativo QuizMaker não precisa dessa permissão, preferindo trabalhar com uma abordagem mais amigável à privacidade.\n\nPor favor, considere apenas optar por conceder uma permissão de acesso total ao armazenamento se tiver certeza de que deseja que o aplicativo QuizMaker gerencie todo o seu armazenamento para digitalizar, gerenciar e obter instantaneamente acesso de gravação em todos os arquivos do questionário (arquivo com extensão *QCM) do seu disco sem o incômodo de conceder permissão manualmente para cada arquivo, especialmente ao abrir o arquivo por meio de um explorador de arquivos.</string>
+    <string name="title_caution_grant_storage_permission">Permissão de acesso ao armazenamento</string>
 </resources>

@@ -54,7 +54,7 @@
     <string name="txt_migration_to_v2_message" translatable="false">Questionnaires from the installation of a previous version of &appname;
         are being retrieved. These will be transcribed in quiz files and stored on your disk.</string>
     <string name="message_welcome_new_update" translatable="false">Now no need to install quizzes before playing them; files with extension \'qcm\' present on your disk can be read immediately.</string>
-    <string name="title_welcome_new_update" translatable="false">New in &appname;</string>
+    <string name="title_welcome_new_in_app" translatable="false">New in &appname;</string>
     <string name="action_recover" translatable="false">Recuperar</string>
     <string name="title_recover_qpm_install" translatable="false">Retrieve your installed questionnaires</string>
     <string name="message_recover_qpm_install" translatable="false">Questionnaires from installation of a previous version of &appname;
@@ -71,6 +71,7 @@
         <item>PT</item>
         <item>ES</item>
         <item>IT</item>
+        <item>DE</item>
     </string-array>
     <string name="title_activity_plugin_store" translatable="false">PluginStoreActivity</string>
     <!-- Strings used for fragments for navigation -->

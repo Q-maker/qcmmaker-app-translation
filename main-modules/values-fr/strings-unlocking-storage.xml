@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="title_switch_to_unlocked_distribution">Switch to another distribution?</string>
-    <string name="action_download_apk">Download APK</string>
+    <string name="title_switch_to_unlocked_distribution">Passer à une autre distribution?</string>
+    <string name="action_download_apk">Téléchargez l\'APK</string>
+    <string name="message_caution_grant_storage_permission">Vous êtes sur le point d\'accorder à l\'application QcmMaker une autorisation d\'accès complète au stockage. Dans la plupart des cas, l\'application QcmMaker n\'a pas besoin d\'une telle autorisation, préférant travailler selon une approche plus respectueuse de la vie privée.\n\nS\'il vous plaît, n\'envisagez d\'accorder une autorisation d\'accès au stockage complet que si vous êtes sûr de vouloir que l\'application QcmMaker gère tout votre stockage afin d\'analyser, de gérer et d\'obtenir instantanément un accès en écriture sur tous les fichiers de quiz (fichier avec extension *QCM) depuis votre disque sans avoir à accorder manuellement l\'autorisation pour chaque fichier, en particulier lors de l\'ouverture d\'un fichier via un explorateur de fichiers.</string>
+    <string name="title_caution_grant_storage_permission">Autorisation d\'accès au stockage</string>
 </resources>

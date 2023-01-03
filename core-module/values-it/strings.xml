@@ -140,5 +140,10 @@
     <string name="message_error_empty_input">Spiacenti, questo valore non può essere vuoto.</string>
     <string name="message_last_page_reached">Ultima pagina raggiunta</string>
     <string name="message_turn_on_to_enable_storage_management">Attivare l\'interruttore per abilitare l\'autorizzazione alla gestione dell\'archiviazione.</string>
+    <string name="message_turn_off_to_disable_storage_management">Disattiva l\'interruttore per disabilitare l\'autorizzazione di accesso completo allo spazio di archiviazione</string>
+    <string name="message_turn_off_to_disable_storage_management_legacy">Raggiungi la pagina di impostazione dei permessi e disabilita i permessi di accesso ai file</string>
     <string name="message_sharing_multiple_quiz_files">Condivisione di %1$d file di quiz da aprire utilizzando le app %2$s</string>
+    <string name="action_default">Predefinito</string>
+    <string name="action_auto">Auto</string>
+    <string name="action_automatic">Automatico</string>
 </resources>

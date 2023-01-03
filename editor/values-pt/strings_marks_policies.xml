@@ -12,4 +12,13 @@
     <string name="txt_mark_policy_config_marks_to_apply_on_no_answer">Marcas a serem aplicadas em caso de não resposta</string>
     <string name="hint_enter_copy_title">Enter the title of your copy</string>
     <string name="hint_enter_scoring_policy_title">Enter a title for your scoring policy...</string>
+    <string name="message_help_scoring_policy_marks_to_add">Quantidade de pontos a serem adicionados ao enviar uma resposta correta. Ele suporta valores decimais..</string>
+    <string name="message_help_scoring_policy_cancel_on_mistake">Defina se para cada questão, os pontos ganhos devem ser zerados quando o jogador enviar uma resposta errada entre as selecionadas</string>
+    <string name="message_help_scoring_policy_adding_strategy">Defina se os pontos a serem alocados em caso de sucesso devem ser somados para cada resposta correta enviada ou apenas caso o jogador consiga enviar todas as respostas corretas juntas sem nenhum erro.</string>
+    <string name="message_help_scoring_policy_allow_negative_final_score">Defina se a estratégia de pontuação permite uma pontuação final negativa caso o jogador tenha vários pontos reduzidos por causa de resposta vazia ou errada</string>
+    <string name="message_help_scoring_policy_marks_to_deduce_on_mistake">Quantidade de pontos a deduzir da pontuação alcançada em caso de resposta errada. Ele suporta valores decimais.</string>
+    <string name="message_help_scoring_policy_marks_to_apply_no_answer">Quantidade de pontos a aplicar caso o jogador não apresente nenhuma resposta. Ele suporta valores decimais.</string>
+    <string name="message_error_out_of_bound_scoring_policy_marks_to_apply_no_answer">Este valor deve estar entre a quantidade de pontos a serem adicionados em caso de sucesso e aqueles a serem deduzidos em caso de falha.</string>
+    <string name="message_error_out_of_bound_scoring_policy_marks_to_apply_no_answer_details">Você pode usar qualquer valor inteiro ou decimal dentro desse intervalo.</string>
+    <string name="message_warning_configuration_not_compatible_with_allow_negative_final_score">Por favor, desabilite esta configuração primeiro porque não há marcação negativa configurada nesta política nem em caso de erro nem em caso de não resposta.</string>
 </resources>

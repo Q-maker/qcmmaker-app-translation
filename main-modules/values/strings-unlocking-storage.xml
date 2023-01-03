@@ -2,4 +2,6 @@
 <resources>
     <string name="title_switch_to_unlocked_distribution">Switch to another distribution?</string>
     <string name="action_download_apk">Download APK</string>
+    <string name="message_caution_grant_storage_permission">You are about to grant to the QuizMaker app a full storage access permission. In most cases, the QuizMaker app don\'t need such a permission preferring to work through a more privacy friendly approach.\n\nPlease, only consider opting to grant a full storage access permission if you are very sure you want the QuizMaker app to manage all your storage in order to automatically scans, manages and instantly gain write access on all quiz files (file with extension *QCM) from your disk without the hassle to manually grant permission for each file especially when opening file through a File explorer.</string>
+    <string name="title_caution_grant_storage_permission">Storage access permission</string>
 </resources>

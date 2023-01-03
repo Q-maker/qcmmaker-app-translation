@@ -7,7 +7,7 @@
     <string name="title_migrate_projects">Migrez tous vos anciens projets</string>
     <string name="message_complete_the_migration_process_now">Terminez le processus de migration maintenant afin de retrouver tous vos projets non migrés sur ce nouvel espace de travail sous forme de fichiers QCM prêts à être lus, partagés ou édités.</string>
 <!--    <string name="title_migration_failed">Migration échouée</string>-->
-    <string name="message_migration_single_screen_failed">Unable to automatically proceed to your quiz projects migration due to an unexpected error while processing.\n\nAs an alternative to this automatic processing, you can opt-in to first switch back to the dual-screen mode then import each quiz manually as QCM file.</string>
+    <string name="message_migration_single_screen_failed">Impossible de procéder automatiquement à la migration de vos projets de quiz en raison d\'une erreur inattendue lors du traitement.\n\nComme alternative à ce traitement automatique, vous pouvez choisir de revenir d\'abord au mode double écran, puis d\'importer manuellement chaque questionnaire sous forme de fichier QCM.</string>
     <plurals name="message_x_projects_waiting_for_migration">
         <item quantity="many">Vous avez actuellement %1$d projets en attente de migration vers votre nouvel espace de travail.</item>
         <item quantity="other">Vous avez actuellement %1$d projets en attente de migration vers votre nouvel espace de travail.</item>

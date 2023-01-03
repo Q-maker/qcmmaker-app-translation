@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="title_switch_to_unlocked_distribution">Switch to another distribution?</string>
-    <string name="action_download_apk">Download APK</string>
+    <string name="title_switch_to_unlocked_distribution">¿Cambiar a otra distribución?</string>
+    <string name="action_download_apk">Descargar APK</string>
+    <string name="message_caution_grant_storage_permission">Está a punto de otorgar a la aplicación QuizMaker un permiso de acceso de almacenamiento completo. En la mayoría de los casos, la aplicación QuizMaker no necesita dicho permiso y prefiere trabajar con un enfoque más amigable con la privacidad.\n\nPor favor, solo considere optar por otorgar un permiso de acceso de almacenamiento completo si está muy seguro de que desea que la aplicación QuizMaker administre todo su almacenamiento para escanear, administrar y obtener instantáneamente acceso de escritura en todos los archivos de prueba (archivo con extensión *QCM) desde su disco sin la molestia de otorgar permiso manualmente para cada archivo, especialmente al abrir un archivo a través de un Explorador de archivos.</string>
+    <string name="title_caution_grant_storage_permission">Permiso de acceso al almacenamiento</string>
 </resources>

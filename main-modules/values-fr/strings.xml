@@ -124,7 +124,8 @@
     <string name="txt_public">Public</string>
     <string name="txt_private_f">Privée</string>
     <string name="txt_save">Sauvegarder</string>
-    <string name="message_file_delete" formatted="false">Souhaitez vous supprimer le fichier \'%s\' définitivement de votre disque de stockage?\n\nNB: fichier localisé à:\n%s</string>
+    <string name="message_file_delete">Souhaitez vous supprimer le fichier \'%s\' définitivement de votre disque de stockage?</string>
+    <string name="txt_nb_file_located_at">NB, fichier localisé à:\n%1$s</string>
     <string name="txt_create_by">Créé par</string>
     <string name="txt_anonymous_author">Auteur anonyme</string>
     <string name="message_error_building_archive">Erreur lors de la construction de l\'archive \'%s\'</string>
@@ -239,7 +240,8 @@
     <string name="action_letsgo_fb_liking">Aimer</string>
     <string name="message_qcm_file_not_found_start_global_scan">Vous ne retrouvez pas votre fichier qcm? Lancez un scan global...</string>
     <string name="action_launch">Lancer</string>
-    <string name="message_global_scan_processing">Recherche de tous les fichiers qcm sur votre disque.\nScan en cours, cela peut prendre quelques minutes...</string>
+    <string name="message_global_scan_processing">Recherche de tous les fichiers qcm sur votre disque. Scan en cours, cela peut prendre quelques minutes...</string>
+    <string name="message_global_scan_saf_processing">Recherche de tous les fichiers qcm dans %1$s. Scan en cours, cela peut prendre quelques minutes...</string>
     <string name="message_global_scan_no_news">Aucun nouveau fichier détecté.</string>
     <string name="action_property">Propriétés</string>
     <string name="txt_phone_memory">Téléphone</string>
@@ -266,7 +268,7 @@
     <string name="title_clear_all">Tout supprimer</string>
     <string name="message_pending_qcms_deletion">Suppression des questions et des réponses. Cliquez pour annuler.</string>
     <string name="action_top_cool">Cool</string>
-    <string name="action_bof">Bof</string>
+    <string name="action_bof">Boff</string>
     <string name="action_not_cool">Pas cool</string>
     <string name="message_onboarding_present_last_update_creation_space">Ceci est votre espace de création.\nDans cet onglet, vous trouverez la liste de toutes vos créations; vous pourrez les consulter, les éditer et les partager avec vos amis.</string>
     <string name="action_skip">Passer</string>
@@ -339,7 +341,7 @@
     <string name="message_create_shortcut">Un raccourci vers le questionnaire \'%1$s\' sera créé sur votre bureau.</string>
     <string name="message_desktop_shortcut_created">Raccourci créé avec succès</string>
     <string name="error_shortcut_unexpected_error_happened">Une erreur inattendue est survenue durant la création du raccourci vers le questionnaire \'%1$s\'</string>
-    <string name="message_invite_google_play_force_5_starts_vote">&appname; est gratuit, sans publicité et n\'en n\'aura jamais. Vos 5 étoiles sur le PlayStore sont notre seul réel soutien et motivation.\n\nChaque 5 étoiles est un BoOom de joie qui nous invite à la persévérance  continue  dans l\'amélioration et l\'innovation.</string>
+    <string name="message_invite_google_play_force_5_starts_vote">&appname; edition standard est gratuit, sans publicité et n\'en n\'aura jamais. Vos 5 étoiles sur le PlayStore sont notre seul réel soutien et motivation.\n\nChaque 5 étoiles est un BoOom de joie qui nous invite à la persévérance  continue  dans l\'amélioration et l\'innovation.</string>
     <string name="action_rate_5_starts">Noter 5 étoiles</string>
     <string name="message_error_connection_needed">Vous devez activer votre connection internet avant d\'éffectuer cette action.</string>
     <string name="title_email_us_about_5stars_lak">Comment pouvons nous mieux vous satisfaire?</string>
@@ -425,6 +427,7 @@
     <string name="message_android_v_obsolete_can_not_play_sound_inside">Le questionnaire sélectionné contient des audios qui ne pourront pas être joués sur votre appareil car la version d\'Android que vous utilisez est trop ancienne.\n\nMettez à jour votre système vers Android-5 ou suppérieur pour une meilleur expérience.</string>
     <string name="txt_editing_password_locked">Verrouiller l\'édition</string>
     <string name="message_dialog_protect_editing">Entrer le mot de passe de verrouillage que devront saisir les autres utilisateurs avant d\'être autorisés à modifier votre création.</string>
+    <string name="message_caution_dialog_protect_editing">Attention : Vous devrez être en mesure de conserver et de vous souvenir de ce mot de passe par vous-même. Sans lui, vous ne pourrez plus éditer votre quiz et celui-ci restera définitivement verrouillé à jamais sans aucune possibilité de le récupérer.</string>
     <string name="txt_qcm_conf_protect_editing">Définit si l\'édition de votre création ; une fois partagé en tant que fichier portable et partageable avec l\'extension *.qcm ; sera protégé par mot de passe afin que seuls ceux qui connaissent ce mot de passe soient autorisés à modifier votre création.\n\nEn effet, vous pouvez partager vos créations sous forme de fichier portable et partageable avec l\'extension *.qcm ; cependant, tout autre utilisateur pourra le modifier à moins qu\'il ne soit verrouillé en édition avec un mot de passe.</string>
     <string name="txt_web_site">Site web</string>
     <string name="txt_enter_your_web_site">Entrer l\'adresse de votre site web</string>
@@ -558,6 +561,7 @@
     <string name="text_low_level">Bas niveau</string>
     <string name="action_good">Bien</string>
     <string name="action_not_good">Pas bon</string>
+    <string name="action_very_good">Très bien</string>
     <string name="action_contact">Contacter</string>
     <string name="message_ongoing_treatment">Traitement en cours...</string>
     <string name="message_starting_test">Démarrage du test...</string>
@@ -581,7 +585,7 @@
     <string name="title_setting_workspace_mode">Disposition de l\'espace de travail</string>
     <string name="txt_system_language">System lanquage</string>
     <string name="title_configuration_single_tab">Onglet unique</string>
-    <string name="title_configuration_dual_tab">Double onglet (ancienne disposition)</string>
+    <string name="title_configuration_dual_tab">Double onglet (obsolète)</string>
     <string name="summary_configuration_single_tab">Un seul onglet pour contenir tous vos quiz, à la fois les quiz reçus sous forme de fichiers qcm et vos projets créés. Vous éditez directement le fichier qcm.</string>
     <string name="summary_configuration_dual_tab">Deux onglets séparés, l\'un pour vos projets et l\'autre pour les quiz partageables sous forme de fichiers qcm. les projets doivent d\'abord être exportés en tant que fichier qcm avant de pouvoir être partagés.</string>
     <string name="txt_new_disposition">Nouvelle disposition</string>
@@ -640,13 +644,14 @@
     <string name="action_i_am_ready">Je suis prêt</string>
     <string name="message_added_x">Added: %1$s</string>
     <string name="message_opening_x">Opening: %1$s</string>
+    <string name="message_file_opened_x">Fichier ouvert: %1$s</string>
     <string name="message_directory_already_handled">Répertoire déjà pris en charge</string>
     <string name="message_indexing_selected_directory">Indexation du répertoire sélectionné</string>
     <string name="message_onboarding_workspace_options_menu">Cliquez ici pour ouvrir le menu d\'options de votre espace de travail qui vous permettra de créer votre propre quiz et même d\'ajouter de nouveaux fichiers de quiz à votre espace de travail.</string>
-    <string name="action_create_workspace_directory">Create working directory</string>
-    <string name="action_define_workspace_directory">Define working directory</string>
-    <string name="action_select_workspace_directory">Select working directory</string>
-    <string name="title_workspace_initialization_needed">Initialize your workspace</string>
+    <string name="action_create_workspace_directory">Créer répertoire de travail</string>
+    <string name="action_define_workspace_directory">Definir répertoire de travail</string>
+    <string name="action_select_workspace_directory">Selecter répertoire de travail</string>
+    <string name="title_workspace_initialization_needed">Initialisez votre espace de travail</string>
     <string name="action_create_new_project">Créer un nouveau projet</string>
     <string name="action_open_qcm_file_from_explorer">Ouvrir un ficher *.qcm depuis l\'explorateur</string>
     <string name="action_add_directory_to_workspace">Ajouter un répertoire a l\'espace de travail</string>
@@ -658,7 +663,10 @@
     <string name="action_open_explorer">Ouvrir l\'explorateur</string>
     <string name="action_retry">Réessayer</string>
     <string name="message_project_created_at_location">Project créé à l\'emplacement\n\"%1$s\"</string>
-    <string name="message_error_new_quiz_file_conflict">Un fichier de quiz portant le même nom existe déjà à cet emplacement. veuillez modifier le libellé du nom et réessayer</string>
+    <string name="message_error_new_quiz_file_conflict_fix_and_retry">Un fichier de quiz portant le même nom existe déjà à cet emplacement. veuillez modifier le libellé du nom et réessayer.</string>
+    <string name="message_error_new_quiz_file_location_conflict">Un fichier de quiz portant le même nom existe déjà à cet emplacement.</string>
+    <string name="message_error_new_quiz_file_main_workspace_conflict">Un fichier de quiz portant le même nom existe déjà à dans votre répertoire de travail principal.</string>
+    <string name="message_please_change_name_and_retry">Please change the name label and try again</string>
     <string name="message_onboarding_present_for_request_workspace_initialization"><![CDATA[L\'application ]]>&appname;<![CDATA[ vous permet de jouer, de créer et de partager des quiz sous forme de simples fichiers portables et partageables au format *.qcm.<br/><br/>Prêt? Afin d\'initialiser votre espace de travail; et ainsi commencer à créer, lister et gérer les fichiers de quiz sur votre appareil mobile, vous devez sélectionner un répertoire de fichiers qui servira de racine à votre espace de travail pour stocker et répertorier vos futures créations de quiz. <a href=\"#more_about\">Cliquez ici</a> si vous souhaitez en savoir plus.]]></string>
     <string name="title_error_missed_extension">Extension manquante</string>
     <string name="message_error_missed_extension">Il semblerait que vous ayez supprimé l\'extension de fichier (*.qcm) du nom du fichier de destination.\n\nAssurez-vous de conserver l\'extension \'*.qcm\' à la fin du nom du fichier pour vous assurer que votre projet de quiz créé sera bien reconnu et interprété correctement comme un fichier de quiz interactif prêt pour l\'éditeur.</string>
@@ -683,20 +691,67 @@
     <string name="action_select_again">Resélectionner</string>
     <string name="title_caution_edit_read_only_file">Fichier en lecture seule!</string>
     <string name="message_caution_read_only_qcmfile_permission_lake">Le fichier de quiz actuellement sélectionné ne peut pas être modifié en raison d\'un manque d\'autorisation de stockage. Veuillez accorder l\'autorisation d\'accès au stockage pour permettre à QcmMaker de mieux gérer et modifier les fichiers de quiz qui se trouvent sur votre disque de stockage et réessayez.</string>
-    <string name="message_caution_read_only_qcmfile_write_access_lake"><![CDATA[Malheureusement, l\'application QcmMaker n\'a pas encore l\'accès en écriture sur le fichier de quiz sélectionné. Pour accorder l\'accès en écriture requis pour ce fichier, vous devez utiliser le sélecteur de fichiers système pour parcourir et <a href="open_file_picker">sélectionner</a> ce fichier sur votre disque de stockage afin que votre système accorde l\'accès en écriture sur ce fichier à l\'application QcmMaker.]]></string>
+    <string name="message_caution_read_only_qcmfile_write_access_lake"><![CDATA[Malheureusement, l\'application QcmMaker n\'a pas encore l\'accès en écriture sur le fichier de quiz sélectionné.]]></string>
+    <string name="message_explanation_process_to_grant_file_access_permission"><![CDATA[Pour accorder l\'accès en écriture requis pour ce fichier, vous devez utiliser le sélecteur de fichiers système pour parcourir et <a href="open_file_picker">sélectionner</a> ce fichier depuis votre disque de stockage afin que votre système accorde l\'accès en écriture sur ce fichier à l\'application QcmMaker.]]></string>à
+    <string name="message_explanation_process_to_grant_file_permanent_access_permission"><![CDATA[Pour accorder l\'accès permanent requis pour ce fichier, vous devez utiliser le sélecteur de fichiers système pour parcourir et <a href="open_file_picker">sélectionner</a> ce fichier depuis votre disque de stockage afin que votre système accorde l\'accès en écriture sur ce fichier à l\'application QcmMaker.]]></string>à
     <string name="message_caution_read_only_qcmfile_source">La source de contenu qui sert le fichier de quiz actuellement sélectionné n\'autorise pas un accès en écriture pour cette ressource.</string>
     <string name="message_part_also_opt_in_copy_qcmfile_read_only">Vous pouvez aussi opter</string>
     <string name="message_part_nevertheless_opt_in_copy_qcmfile_read_only">Néanmoins, vous pouvez toujours opter</string>
-    <string name="message_part_copy_qcmfile_read_only"><![CDATA[%1$s pour la création d\'une copie modifiable de ce quiz dans votre <a href= \'settings:///workspace/permissions\'>répertoire de travail</a> dans lequel l\'application QcmMaker dispose déjà d\'un accès en écriture.]]></string>
+    <string name="message_part_copy_qcmfile_read_only"><![CDATA[%1$s pour la création d\'une copie modifiable de ce quiz dans votre <a href= \'settings:///workspace/permissions\'>répertoire de travail</a> pour lequel l\'application QcmMaker dispose déjà d\'un accès en écriture.]]></string>
     <string name="message_message_alternative_download_storage_unlocked_apk">Nevrtheless, if you are more confident with the idea to use the "storage unlocked" version of this app in which QcmMaker perform better to automatically manage all quiz files available on your device storage by using the full storage permission request you can download the APK by clicking here. </string>
     <string name="message_message_permission_granted">Permission accordée</string>
-    <string name="message_alternative_click_for_storage_unlocked_version"><![CDATA[à moins que vous ne souhaitiez choisir d\'utiliser la distribution alternative de cette application qui inclut le \"déverrouillage complet du stockage\" en <a href=\"get_storage_unlocked\">cliquant ici</a>.]]></string>
-    <string name="message_alternative_click_for_storage_unlocking"><![CDATA[À moins que vous ne soyez plus favorable au fait d\'accorder à l\'application QcmMaker la permission de gérer tout votre stockage. Cela donnera automatiquement à l\'application QcmMaker un accès en écriture à tous les fichiers de quiz disponibles sur votre stockage. Vous pouvez l\'accorder en <a href=\"get_storage_unlocked\">cliquant ici.</a>.]]></string>
-    <string name="message_select_file_by_name">Svp sélectionnez le fichier nommé :\n«%1$s»</string>
+    <string name="message_alternative_click_for_storage_unlocked_version"><![CDATA[À moins que vous ne soyez plus intéressé par l\'option d\'utilisation de la distribution alternative de cette application qui inclut la permission \"d\'accès complet au stockage\" en <a href=\"get_storage_unlocked\">cliquant ici</a>.]]></string>
+    <string name="message_alternative_click_for_storage_unlocking"><![CDATA[À moins que vous ne soyez plus favorable au fait d\'accorder à l\'application QcmMaker la permission de gérer tout votre stockage. Cela donnera automatiquement à l\'application QcmMaker un accès en écriture à tous les fichiers de quiz disponibles sur votre stockage.]]></string>
+    <string name="message_grant_by_clicking_here"><![CDATA[Vous pouvez l\'accorder en <a href=\"get_storage_unlocked\">cliquant ici.</a>.]]></string>
+    <string name="message_select_file_by_name">Svp sélectionnez le fichier nommé:\n«%1$s»</string>
     <string name="message_wrong_selected_file_for_write_access">Oups, il semble que le fichier que vous venez de sélectionner ne corresponde pas à celui auquel vous alliez accorder l\'accès en écriture.</string>
     <string name="message_try_again_by_selecting_file_named">Veuillez réessayer en sélectionnant le bon fichier nommé «%1$s»</string>
-    <string name="wrong_selected_file_for_write_access_continue_despite">Néanmoins, vous pouvez toujours choisir d\'ignorer ce message d\'avertissement en continuant malgré tout à ouvrir en édition ce fichier même mal sélectionné.</string>
+    <string name="wrong_selected_file_for_write_access_continue_despite">Néanmoins, vous pouvez toujours choisir d\'ignorer ce message d\'avertissement en continuant malgré tout à l\'ouvrir en édition même si ce n\'est pas celui attendu.</string>
     <string name="message_caution_invalid_selected_qcm_file">Le fichier qcm sélectionné n\'est pas un document de quiz valide ou est corrompu. Veuillez sélectionner un fichier qcm valide et réessayer.</string>
     <string name="message_caution_valid_qcm_file_look_like">Ps : un fichier qcm valide se termine généralement par l\'extension *.qcm sur votre système de fichiers de stockage.</string>
     <string name="title_invalid_qcm_file">Fichier qcm invalide</string>
+    <string name="message_qcm_file_not_new_content_found">Aucun nouveau fichier de quiz n\'a été trouvé...</string>
+    <string name="message_okay_later">Okay, plus tard!</string>
+    <string name="action_move">Déplacer</string>
+    <string name="message_encouragement_google_play_star_smoothly">Merci beaucoup pour vos encouragements et votre soutien!</string>
+    <string name="message_caution_copy_will_be_made_on_main_workspace_directory"><![CDATA[Une copie de ce fichier de quiz sera ajoutée dans le répertoire de votre <a href=\'settings:///workspace/permissions\'>espace de travail</a> principal.]]></string>
+    <string name="txt_checkable_also_change_file_name">Modifiez également le nom du fichier de quiz sur mon disque de stockage.</string>
+    <string name="message_caution_rename_permission_lake_need_to_move">Le fichier sélectionné ne se trouve pas dans un répertoire où l\'application QcmMaker dispose d\'une autorisation d\'accès active. Afin de renommer le fichier cible, celui-ci devra d\'abord être déplacé dans le répertoire principal de votre espace de travail.</string>
+    <string name="action_grant_access">Autoriser l\'accès</string>
+    <string name="action_go_back">Retourner</string>
+    <string name="message_caution_copy_file_working_dir_missing"><![CDATA[Impossible de faire une copie pour l\'instant car vous n\'avez pas encore défini de <a href=\"settings:///workspace/permissions\">répertoire de travail</a> pour votre espace de travail. S\'il vous plaît, avant de continuer, sélectionnez d\'abord un répertoire qui sera utilisé comme emplacement par défaut pour vos futurs fichiers de quiz (fichiers *.qcm)]]></string>
+    <string name="message_warning_main_working_directory_lose_caution">Le répertoire que vous êtes sur le point de supprimer inclut également votre répertoire de travail principal actuel. En continuant, l\'application perdra l\'autorisation d\'accès sur votre répertoire de travail principal actuellement défini. Êtes-vous sûr de vouloir continuer?</string>
+    <string name="action_ignore">Ignorer</string>
+    <string name="message_ignored">Ignorée</string>
+    <string name="txt_since_date_time">depuis le %1$s at %2$s</string>
+    <string name="txt_since_time">depuis %1$s</string>
+    <string name="message_warning_unable_to_complete_copy_workspace_not_initialized">Impossible de terminer la copie car vous n\'avez pas encore initialisé votre répertoire de travail.\n\Svp définissez un répertoire sur votre disque de stockage qui sera utilisé comme emplacement par défaut pour vos fichiers de quiz.</string>
+    <string name="message_warning_unable_to_complete_copy_storage_permission_needed">Impossible de terminer le processus de copie car vous n\'avez pas encore accordé l\'autorisation d\'accès au stockage.\n\Svp, veuillez accorder l\'autorisation de stockage afin que l\'application soit autorisée à copier le fichier de quiz cible dans votre stockage public.</string>
+    <string name="action_move_to_workspace">Déplacer vers l\'espace de travail</string>
+    <string name="action_add_to_workspace">Ajouter à l\'espace de travail</string>
+    <string name="message_added_successfully">Ajouté avec succès</string>
+    <string name="message_moved_successfully">Déplacé avec succès</string>
+    <string name="message_caution_move_to_workspace">Ce fichier sera déplacé vers votre répertoire de travail principal et sera ajouté à votre espace de travail afin d\'être répertorié sur l\'écran d\'accueil de votre application pour un accès rapide.</string>
+    <string name="message_resulting_file_will_be_located_at">Le fichier résultant sera situé à:\n%1$s</string>
+    <string name="message_invite_add_to_workspace">Ce fichier sera ajouté à votre espace de travail afin qu\'il soit répertorié sur votre écran d\'accueil pour un accès rapide.</string>
+    <string name="message_caution_invite_add_to_workspace_requires_file_rw_access">Cependant, pour y parvenir, l\'application a besoin d\'un accès en lecture et en écriture sur le fichier cible.</string>
+    <string name="message_caution_invite_add_to_workspace_requires_file_permanent_access">Cependant, pour y parvenir, l\'application a besoin d\'un accès permanent en lecture et en écriture sur le fichier cible.</string>
+    <string name="action_edit_copy">Editer une copie</string>
+    <string name="message_alternative_click_for_edit_a_copy">Alternativement, vous pouvez également choisir de ne modifier qu\'une copie de ce fichier de quiz à partir de votre répertoire de travail principal.</string>
+    <string name="action_grant_all_files_access">Accorder l\'accès à tous les fichiers</string>
+    <string name="message_copied_successfully">Copié avec succès</string>
+    <string name="open_the_copy">Ouvrir la copie</string>
+    <string name="message_warning_moving_not_completed"><![CDATA[Le fichier a bien été copié avec succès. Cependant, le déplacement du fichier n\'a pas pu se terminer correctement car la source du dit fichier (l\'application «%1$s») n\'a pas authorisée la suppression du fichier source.<br/><br/>Parceque un déplacement implique une copie puis une suppression du fichier d\'origine, si vous souhaitez finaliser le déplacement du fichier, vous devrez supprimer le fichier source manuellement.]]></string>
+    <string name="title_congratulation">Félicitations!</string>
+    <string name="action_arrangement">Disposition</string>
+    <string name="title_caution_you_are_editing_a_copy">Vous modifiez actuellement une copie!</string>
+    <string name="message_caution_you_are_editing_a_copy"><![CDATA[Vous modifiez actuellement une copie du fichier de quiz que vous avez ouvert en premier lieu. Cette copie a été effectuée à l\'emplacement "%1$s" et est maintenant ajoutée à votre espace de travail pour un accès rapide.<br/><br/>Le fichier d\'origine ne sera pas modifié et restera à son emplacement initial.]]></string>
+    <string name="text_thus">Ainsi</string>
+    <string name="text_however">Cependant</string>
+    <string name="text_nevertheless">Néanmoins</string>
+    <string name="text_furthermore">Par ailleurs</string>
+    <string name="text_moreover">En outre</string>
+    <string name="action_repair">Réparer</string>
+    <string name="title_action_unsupported">Action non supportée!</string>
+    <string name="message_device_action_unsupported">Désolé, il semble que votre appareil actuel ne puisse pas gérer correctement cette action.\n\nPeut-être devrez-vous l\'essayer à partir d\'une autre marque d\'appareil ou de l\'une des dernières versions d\'Android.</string>
 </resources>

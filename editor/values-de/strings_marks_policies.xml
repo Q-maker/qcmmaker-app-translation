@@ -12,4 +12,13 @@
     <string name="txt_mark_policy_config_marks_to_apply_on_no_answer">Markierungen für keine Antwort</string>
     <string name="hint_enter_copy_title">Geben Sie den Titel Ihrer Kopie ein</string>
     <string name="hint_enter_scoring_policy_title">Geben Sie einen Titel für Ihre Bewertungsrichtlinie ein...</string>
+    <string name="message_help_scoring_policy_marks_to_add">Anzahl der hinzuzufügenden Punkte, wenn eine richtige Antwort eingereicht wird. Es unterstützt Dezimalwerte.</string>
+    <string name="message_help_scoring_policy_cancel_on_mistake">Definieren Sie, ob für jede Frage die verdienten Punkte zurückgesetzt werden sollen, wenn der Spieler eine falsche Antwort unter den ausgewählten eingibt</string>
+    <string name="message_help_scoring_policy_adding_strategy">Legen Sie fest, ob die im Erfolgsfall zu vergebenden Punkte für jede richtige abgegebene Antwort addiert werden sollen oder nur für den Fall, dass es dem Spieler gelingt, alle richtigen Antworten fehlerfrei zusammen abzugeben.</string>
+    <string name="message_help_scoring_policy_allow_negative_final_score">Definieren Sie, ob die Bewertungsstrategie ein endgültiges negatives Ergebnis zulässt, falls der Spieler aufgrund einer leeren oder falschen Antwort mehrere Punkte reduziert hat</string>
+    <string name="message_help_scoring_policy_marks_to_deduce_on_mistake">Anzahl der Punkte, die bei falscher Antwort von der erreichten Punktzahl abgezogen werden. Es unterstützt Dezimalwerte.</string>
+    <string name="message_help_scoring_policy_marks_to_apply_no_answer">Anzahl der anzuwendenden Punkte, falls der Spieler keine Antwort einreicht. Es unterstützt Dezimalwerte.</string>
+    <string name="message_error_out_of_bound_scoring_policy_marks_to_apply_no_answer">Dieser Wert sollte zwischen der Anzahl der Punkte liegen, die bei Erfolg hinzugefügt werden, und denen, die bei Misserfolg abgezogen werden.</string>
+    <string name="message_error_out_of_bound_scoring_policy_marks_to_apply_no_answer_details">Innerhalb dieses Intervalls können Sie jeden ganzzahligen oder dezimalen Wert verwenden.</string>
+    <string name="message_warning_configuration_not_compatible_with_allow_negative_final_score">Bitte deaktivieren Sie diese Einstellung zuerst, da für diese Richtlinie weder im Falle eines Fehlers noch im Falle einer Nichtantwort eine negative Markierung konfiguriert ist.</string>
 </resources>
